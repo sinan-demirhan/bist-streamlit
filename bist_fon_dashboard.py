@@ -79,6 +79,8 @@ def highlight_degisim(val):
 def highlight_cells(val):
     if pd.isna(val):
         color = 'white'
+    elif val > 10:
+        color = 'green'
     elif val > 0:
         color = 'lightgreen'
     else:
@@ -94,9 +96,9 @@ stock_close_data= read_stock_clode_data("stock_close_data.csv")
 # Sidebar filters
 st.sidebar.title("Filters")
 selected_fon_adi = st.sidebar.selectbox("Select Fon Adi", options=sorted(df['fon_adi'].unique()))
-selected_period = st.sidebar.selectbox("Select Period", options=sorted(df['period'].unique(), reverse=True))
+selected_period = st.sidebar.selectbox("Select Period", options=sorted(df[df["fon_adi"]==selected_fon_adi]['period'].unique(), reverse=True))
 
-st.sidebar.dataframe(df[["fon_adi","company_name"]].drop_duplicates().sort_values(by='fon_adi').set_index('fon_adi'))
+st.sidebar.dataframe(df[["fon_adi","company_name"]].drop_duplicates("fon_adi").sort_values(by='fon_adi').set_index('fon_adi'))
 
 
 # Apply filters
@@ -169,23 +171,19 @@ with col2:
     st.markdown('<div class="box">', unsafe_allow_html=True)
     last_period = df['period'].max()
     st.write(f"### Most Chosen Stocks in the Last Period ({last_period})")
-    last_period_stocks = df['hisse_kodu'].value_counts().reset_index()
+    last_period_stocks = df[df['period']==selected_period]['hisse_kodu'].value_counts().reset_index()
     last_period_stocks.columns = ['hisse_kodu', 'count']
     st.dataframe(last_period_stocks.style.set_properties(**{'background-color': 'white', 'color': 'black'}),width=1200)
     st.markdown('</div>', unsafe_allow_html=True)
 
 st.markdown('<div class="box">', unsafe_allow_html=True)
-st.write("### Stock Distribution Over Periods")
+st.write("### Stock Distribution Over Periods (Selected Fon)")
 stock_period_distribution = df[df['fon_adi'] == selected_fon_adi].groupby(['hisse_kodu', 'period']).size().unstack(fill_value=0)
 st.dataframe(stock_period_distribution.style.applymap(highlight_cells),width=1200)
 st.markdown('</div>', unsafe_allow_html=True)
 
-filtered_df.style.applymap(highlight_cells, subset=['nominal_deger'])
-
-
 st.markdown('<div class="box">', unsafe_allow_html=True)
-st.write("### Stock Distribution for Selected Periods and Fons")
-selected_stock_distribution = df[(df['fon_adi']==selected_fon_adi)]['hisse_kodu'].value_counts().reset_index()
-selected_stock_distribution.columns = ['hisse_kodu', 'count']
-st.dataframe(selected_stock_distribution.style.set_properties(**{'background-color': 'white', 'color': 'black'}),width=1200)
+st.write("### Stock Distribution Over Periods")
+stock_period_distribution = df.groupby(['hisse_kodu', 'period']).size().unstack(fill_value=0)
+st.dataframe(stock_period_distribution.style.applymap(highlight_cells),width=1200)
 st.markdown('</div>', unsafe_allow_html=True)
