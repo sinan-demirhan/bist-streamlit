@@ -7,8 +7,8 @@ import pickle
 # Function to fetch stock data
 def fetch_stock_data():
     today = datetime.now()
-    month = (today.month - 3) % 12 or 12
-    year = today.year + ((today.month - 3) // 12)
+    month = (today.month - 4) % 12 or 12
+    year = today.year + ((today.month - 4) // 12)
 
     my_date = today.replace(year=year, month=month, day=1).strftime("%Y-%m-%d")
 
@@ -22,10 +22,16 @@ def fetch_stock_data():
             self.id = stock_id
             self.hisse_kodu = stock_index.split(".")[0]
             self.raw_data = yf.download(stock_index, start=my_date, end=today)
-
+            self.info_data = yf.Ticker(stock_index)
         def set_the_delivery_data(self):
             my_data = self.raw_data[['Close']].reset_index()
             my_data["hisse_kodu"] = self.hisse_kodu
+            if 'sector' in self.info_data.info:
+                my_data["sector"] = self.info_data.info['sector']
+                my_data["industry"] = self.info_data.info['industry']
+            else:
+                my_data["sector"] = 'Unknown'
+                my_data["industry"] = 'Unknown'
             self.data = my_data
 
     indeces = [f"{hisse.split('.')[0]}.IS" for hisse in df["hisse_kodu"].unique()]
