@@ -1,4 +1,5 @@
 import streamlit as st
+import streamlit as st
 import pandas as pd
 from pickle import load as pickle_load
 
@@ -68,6 +69,67 @@ def calculate_percentage_change(a, b):
     except ZeroDivisionError:
         return None  
     
+def new_added_stocks_all_fons_func():
+    new_added_stocks_all_fons = pd.DataFrame()
+    for spec_fon in sorted(df['fon_adi'].unique()):
+
+
+        last_period =sorted(df[(df['fon_adi']==spec_fon)]['period'].unique(), reverse=True)[0]
+        previous_period = sorted(df[(df['fon_adi']==spec_fon)]['period'].unique(), reverse=True)[1]
+
+        prev_data = df[(df['fon_adi']==spec_fon) & (df['period']==previous_period)][["hisse_kodu","yuzdelik_deger"]].rename(columns={"yuzdelik_deger":"yuzdelik_deger_eski"})
+        last_data = df[(df['fon_adi']==spec_fon) & (df['period']==last_period)][["hisse_kodu","yuzdelik_deger","alis_tarihi"]].rename(columns={"yuzdelik_deger":"yuzdelik_deger_yeni"})
+
+        prev_last_diff_data = pd.merge(prev_data,last_data, on = ["hisse_kodu"],how ='outer').set_index("hisse_kodu")
+
+        df_new = prev_last_diff_data[prev_last_diff_data.isna().any(axis=1)]
+        # df_new["alis_satis_tarihi"] = df_new['alis_tarihi'].combine_first(df_new['satis_tarihi'])
+        df_new = pd.merge(df_new,stock_close_data.rename(columns={'Date':'alis_tarihi','Close':'alis_fiyat'}),on=["hisse_kodu",'alis_tarihi'],how="left")
+
+        df_new = pd.merge(df_new,stock_close_data.rename(columns={'Close':'son_fiyat'}), on=["hisse_kodu"],how="left")
+        df_new['Date'] = pd.to_datetime(df_new['Date'], errors='coerce')
+        df_new = df_new[df_new["Date"]==df_new['Date'].max()].drop(columns="Date").reset_index(drop=True)
+        df_new["degisim"] =df_new.apply(lambda x: calculate_percentage_change(x['alis_fiyat'], x['son_fiyat']), axis=1)
+        df_new["fon_name"] = spec_fon
+
+        new_added_stocks_all_fons = pd.concat([new_added_stocks_all_fons,df_new]).reset_index(drop=True)
+    return new_added_stocks_all_fons.sort_values(by=["hisse_kodu"])
+
+def industry_perc_change():
+    last_data = df[(df['period']==sorted(df['period'].unique(), reverse=True)[0])][["hisse_kodu"]]
+    last_data = pd.merge(last_data,stock_close_data_sector, on=["hisse_kodu"],how="left")
+    last_data = last_data.groupby(["industry"]).agg({"hisse_kodu":'nunique',
+                                                     'sector':'count'}).reset_index().rename(columns={
+        "hisse_kodu":"unique_hisse","sector":"fonda_toplam_tutulan_hisse"
+    })
+    last_data = last_data[last_data["industry"]!="Unknown"]
+
+    last_data["buy_rate_old"] = last_data.apply(lambda x:(x["fonda_toplam_tutulan_hisse"]/df["fon_adi"].nunique())/x["unique_hisse"],1)
+    last_data = last_data.sort_values(by="buy_rate_old",ascending=False).reset_index(drop=True)
+
+
+    prev_data = df[(df['period']==sorted(df['period'].unique(), reverse=True)[1])][["hisse_kodu"]]
+    prev_data = pd.merge(prev_data,stock_close_data_sector, on=["hisse_kodu"],how="left")
+    prev_data = prev_data.groupby(["industry"]).agg({"hisse_kodu":'nunique',
+                                                     'sector':'count'}).reset_index().rename(columns={
+        "hisse_kodu":"unique_hisse","sector":"fonda_toplam_tutulan_hisse"
+    })
+    prev_data = prev_data[prev_data["industry"]!="Unknown"]
+    prev_data["buy_rate_new"] = prev_data.apply(lambda x:(x["fonda_toplam_tutulan_hisse"]/df["fon_adi"].nunique())/x["unique_hisse"],1)
+    prev_data = prev_data.sort_values(by="buy_rate_new",ascending=False).reset_index(drop=True)
+
+    industry_based_data = pd.merge(last_data[["industry","unique_hisse","buy_rate_old"]],
+             prev_data[["industry","buy_rate_new"]], on=["industry"],how="left")
+
+    industry_based_data = industry_based_data[(industry_based_data["buy_rate_old"]> 0.1) & 
+                                              (industry_based_data["buy_rate_new"]> 0.1)]
+
+    industry_based_data['change'] = ((industry_based_data['buy_rate_new'] - 
+                                             industry_based_data['buy_rate_old']) / industry_based_data['buy_rate_old']) * 100
+    industry_based_data = industry_based_data.sort_values(by="change",ascending=False).reset_index(drop=True)
+
+    return industry_based_data
+    
 def highlight_max(s):
     is_max = s == s.max()
     return ['background-color: lightgreen' if v else '' for v in is_max]
@@ -91,7 +153,9 @@ def highlight_cells(val):
 # Load data
 analysis_result = read_data("analysis_data.pickle")
 df = pd.DataFrame(analysis_result["TUM_FONLAR"])
-stock_close_data= read_stock_clode_data("stock_close_data.csv")
+stock_close_data_all= read_stock_clode_data("stock_close_data.csv")
+stock_close_data= stock_close_data_all.drop(columns = ["sector","industry"])
+stock_close_data_sector= stock_close_data_all[["hisse_kodu","sector","industry"]].drop_duplicates()
 
 # Sidebar filters
 st.sidebar.title("Filters")
@@ -146,9 +210,19 @@ st.dataframe(filtered_df.style.set_properties(**{'background-color': 'white', 'c
 st.markdown('<div class="subtitle">New Added vs Removed Stocks in the Last Month</div>', unsafe_allow_html=True)
 st.dataframe(df_new.style.applymap(highlight_degisim, subset=['degisim']),width=1200)
 
+# Newly Added vs Removed Stocks
+st.markdown('<div class="subtitle">New Added vs Removed Stocks in the Last Month For All Fons</div>', unsafe_allow_html=True)
+st.dataframe(new_added_stocks_all_fons_func().style.applymap(highlight_degisim, subset=['degisim']),width=1200)
+
 # Prev vs Current Fon Stocks
 st.markdown('<div class="subtitle">Prev vs Current Fon Stocks</div>', unsafe_allow_html=True)
 st.dataframe(prev_last_diff_data.drop(columns="alis_tarihi").style.apply(highlight_max, subset=['yuzdelik_deger_eski', 'yuzdelik_deger_yeni'], axis=1),width=1200)
+
+# Industry Percentage Change
+st.markdown('<div class="subtitle">Industry Percentage Change</div>', unsafe_allow_html=True)
+st.dataframe(industry_perc_change().style.set_properties(**{'background-color': 'white', 'color': 'black'}),width=1200)
+
+
 
 # Analysis Section
 
@@ -173,6 +247,7 @@ with col2:
     st.write(f"### Most Chosen Stocks in the Last Period ({last_period})")
     last_period_stocks = df[df['period']==selected_period]['hisse_kodu'].value_counts().reset_index()
     last_period_stocks.columns = ['hisse_kodu', 'count']
+    last_period_stocks = pd.merge(last_period_stocks,stock_close_data_sector, on=["hisse_kodu"],how="left")
     st.dataframe(last_period_stocks.style.set_properties(**{'background-color': 'white', 'color': 'black'}),width=1200)
     st.markdown('</div>', unsafe_allow_html=True)
 
