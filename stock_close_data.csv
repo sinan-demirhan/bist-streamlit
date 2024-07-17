@@ -88,6 +88,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,27.600000381469727,A1CAP,Financial Services,Capital Markets
 2024-07-11,28.020000457763672,A1CAP,Financial Services,Capital Markets
 2024-07-12,27.780000686645508,A1CAP,Financial Services,Capital Markets
+2024-07-16,27.639999389648438,A1CAP,Financial Services,Capital Markets
+2024-07-17,27.920000076293945,A1CAP,Financial Services,Capital Markets
 2024-02-29,546.5,ADEL,Industrials,Business Equipment & Supplies
 2024-03-01,531.5,ADEL,Industrials,Business Equipment & Supplies
 2024-03-04,516.5,ADEL,Industrials,Business Equipment & Supplies
@@ -176,6 +178,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,537.5,ADEL,Industrials,Business Equipment & Supplies
 2024-07-11,538.5,ADEL,Industrials,Business Equipment & Supplies
 2024-07-12,536.5,ADEL,Industrials,Business Equipment & Supplies
+2024-07-16,547.5,ADEL,Industrials,Business Equipment & Supplies
+2024-07-17,536.0,ADEL,Industrials,Business Equipment & Supplies
 2024-02-29,2.9100000858306885,ADESE,Real Estate,Real Estate—Diversified
 2024-03-01,2.9000000953674316,ADESE,Real Estate,Real Estate—Diversified
 2024-03-04,2.9000000953674316,ADESE,Real Estate,Real Estate—Diversified
@@ -264,6 +268,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,2.0899999141693115,ADESE,Real Estate,Real Estate—Diversified
 2024-07-11,2.1600000858306885,ADESE,Real Estate,Real Estate—Diversified
 2024-07-12,2.180000066757202,ADESE,Real Estate,Real Estate—Diversified
+2024-07-16,2.240000009536743,ADESE,Real Estate,Real Estate—Diversified
+2024-07-17,2.2899999618530273,ADESE,Real Estate,Real Estate—Diversified
 2024-02-29,38.119998931884766,ADGYO,Real Estate,REIT—Residential
 2024-03-01,37.41999816894531,ADGYO,Real Estate,REIT—Residential
 2024-03-04,39.97999954223633,ADGYO,Real Estate,REIT—Residential
@@ -353,6 +359,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,29.719999313354492,ADGYO,Real Estate,REIT—Residential
 2024-07-11,29.8799991607666,ADGYO,Real Estate,REIT—Residential
 2024-07-12,30.200000762939453,ADGYO,Real Estate,REIT—Residential
+2024-07-16,31.440000534057617,ADGYO,Real Estate,REIT—Residential
+2024-07-17,32.29999923706055,ADGYO,Real Estate,REIT—Residential
 2024-02-29,155.6999969482422,AEFES,Consumer Defensive,Beverages—Brewers
 2024-03-01,149.89999389648438,AEFES,Consumer Defensive,Beverages—Brewers
 2024-03-04,148.1999969482422,AEFES,Consumer Defensive,Beverages—Brewers
@@ -441,6 +449,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,289.5,AEFES,Consumer Defensive,Beverages—Brewers
 2024-07-11,288.5,AEFES,Consumer Defensive,Beverages—Brewers
 2024-07-12,290.0,AEFES,Consumer Defensive,Beverages—Brewers
+2024-07-16,299.0,AEFES,Consumer Defensive,Beverages—Brewers
+2024-07-17,301.75,AEFES,Consumer Defensive,Beverages—Brewers
 2024-02-29,13.239999771118164,AFYON,Basic Materials,Building Materials
 2024-03-01,13.170000076293945,AFYON,Basic Materials,Building Materials
 2024-03-04,12.65999984741211,AFYON,Basic Materials,Building Materials
@@ -529,6 +539,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,12.930000305175781,AFYON,Basic Materials,Building Materials
 2024-07-11,13.119999885559082,AFYON,Basic Materials,Building Materials
 2024-07-12,13.1899995803833,AFYON,Basic Materials,Building Materials
+2024-07-16,13.390000343322754,AFYON,Basic Materials,Building Materials
+2024-07-17,14.020000457763672,AFYON,Basic Materials,Building Materials
 2024-02-29,64.5,AGESA,Financial Services,Insurance—Diversified
 2024-03-01,64.19999694824219,AGESA,Financial Services,Insurance—Diversified
 2024-03-04,64.4000015258789,AGESA,Financial Services,Insurance—Diversified
@@ -617,6 +629,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,109.0,AGESA,Financial Services,Insurance—Diversified
 2024-07-11,108.9000015258789,AGESA,Financial Services,Insurance—Diversified
 2024-07-12,108.9000015258789,AGESA,Financial Services,Insurance—Diversified
+2024-07-16,115.69999694824219,AGESA,Financial Services,Insurance—Diversified
+2024-07-17,117.4000015258789,AGESA,Financial Services,Insurance—Diversified
 2024-02-29,255.5,AGHOL,Industrials,Conglomerates
 2024-03-01,255.5,AGHOL,Industrials,Conglomerates
 2024-03-04,255.75,AGHOL,Industrials,Conglomerates
@@ -705,6 +719,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,437.0,AGHOL,Industrials,Conglomerates
 2024-07-11,436.5,AGHOL,Industrials,Conglomerates
 2024-07-12,446.0,AGHOL,Industrials,Conglomerates
+2024-07-16,466.5,AGHOL,Industrials,Conglomerates
+2024-07-17,466.5,AGHOL,Industrials,Conglomerates
 2024-02-29,36.400001525878906,AGROT,Industrials,Conglomerates
 2024-03-01,35.91999816894531,AGROT,Industrials,Conglomerates
 2024-03-04,33.79999923706055,AGROT,Industrials,Conglomerates
@@ -794,6 +810,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,15.84000015258789,AGROT,Industrials,Conglomerates
 2024-07-11,15.800000190734863,AGROT,Industrials,Conglomerates
 2024-07-12,16.610000610351562,AGROT,Industrials,Conglomerates
+2024-07-16,15.979999542236328,AGROT,Industrials,Conglomerates
+2024-07-17,16.09000015258789,AGROT,Industrials,Conglomerates
 2024-02-29,41.58000183105469,AKBNK,Financial Services,Banks—Regional
 2024-03-01,40.29999923706055,AKBNK,Financial Services,Banks—Regional
 2024-03-04,39.02000045776367,AKBNK,Financial Services,Banks—Regional
@@ -882,6 +900,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,64.0,AKBNK,Financial Services,Banks—Regional
 2024-07-11,66.69999694824219,AKBNK,Financial Services,Banks—Regional
 2024-07-12,66.69999694824219,AKBNK,Financial Services,Banks—Regional
+2024-07-16,68.30000305175781,AKBNK,Financial Services,Banks—Regional
+2024-07-17,67.8499984741211,AKBNK,Financial Services,Banks—Regional
 2024-02-29,157.0,AKCNS,Basic Materials,Building Materials
 2024-03-01,155.60000610351562,AKCNS,Basic Materials,Building Materials
 2024-03-04,155.3000030517578,AKCNS,Basic Materials,Building Materials
@@ -970,6 +990,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,151.3000030517578,AKCNS,Basic Materials,Building Materials
 2024-07-11,153.8000030517578,AKCNS,Basic Materials,Building Materials
 2024-07-12,154.5,AKCNS,Basic Materials,Building Materials
+2024-07-16,157.0,AKCNS,Basic Materials,Building Materials
+2024-07-17,156.89999389648438,AKCNS,Basic Materials,Building Materials
 2024-02-29,5.559999942779541,AKENR,Utilities,Utilities—Regulated Electric
 2024-03-01,5.860000133514404,AKENR,Utilities,Utilities—Regulated Electric
 2024-03-04,5.889999866485596,AKENR,Utilities,Utilities—Regulated Electric
@@ -1058,6 +1080,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,13.039999961853027,AKENR,Utilities,Utilities—Regulated Electric
 2024-07-11,13.140000343322754,AKENR,Utilities,Utilities—Regulated Electric
 2024-07-12,13.039999961853027,AKENR,Utilities,Utilities—Regulated Electric
+2024-07-16,13.020000457763672,AKENR,Utilities,Utilities—Regulated Electric
+2024-07-17,13.050000190734863,AKENR,Utilities,Utilities—Regulated Electric
 2024-02-29,2.509999990463257,AKFGY,Real Estate,REIT—Hotel & Motel
 2024-03-01,2.5799999237060547,AKFGY,Real Estate,REIT—Hotel & Motel
 2024-03-04,2.5899999141693115,AKFGY,Real Estate,REIT—Hotel & Motel
@@ -1146,6 +1170,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,2.509999990463257,AKFGY,Real Estate,REIT—Hotel & Motel
 2024-07-11,2.549999952316284,AKFGY,Real Estate,REIT—Hotel & Motel
 2024-07-12,2.5399999618530273,AKFGY,Real Estate,REIT—Hotel & Motel
+2024-07-16,2.549999952316284,AKFGY,Real Estate,REIT—Hotel & Motel
+2024-07-17,2.5799999237060547,AKFGY,Real Estate,REIT—Hotel & Motel
 2024-02-29,27.280000686645508,AKFYE,Utilities,Utilities—Renewable
 2024-03-01,27.31999969482422,AKFYE,Utilities,Utilities—Renewable
 2024-03-04,28.440000534057617,AKFYE,Utilities,Utilities—Renewable
@@ -1234,6 +1260,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,24.459999084472656,AKFYE,Utilities,Utilities—Renewable
 2024-07-11,24.84000015258789,AKFYE,Utilities,Utilities—Renewable
 2024-07-12,24.959999084472656,AKFYE,Utilities,Utilities—Renewable
+2024-07-16,24.579999923706055,AKFYE,Utilities,Utilities—Renewable
+2024-07-17,24.959999084472656,AKFYE,Utilities,Utilities—Renewable
 2024-02-29,6.119999885559082,AKGRT,Financial Services,Insurance—Diversified
 2024-03-01,6.110000133514404,AKGRT,Financial Services,Insurance—Diversified
 2024-03-04,5.960000038146973,AKGRT,Financial Services,Insurance—Diversified
@@ -1322,6 +1350,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,7.269999980926514,AKGRT,Financial Services,Insurance—Diversified
 2024-07-11,7.079999923706055,AKGRT,Financial Services,Insurance—Diversified
 2024-07-12,7.039999961853027,AKGRT,Financial Services,Insurance—Diversified
+2024-07-16,7.079999923706055,AKGRT,Financial Services,Insurance—Diversified
+2024-07-17,7.0,AKGRT,Financial Services,Insurance—Diversified
 2024-02-29,229.10000610351562,AKMGY,Real Estate,REIT—Retail
 2024-03-01,245.0,AKMGY,Real Estate,REIT—Retail
 2024-03-04,241.6999969482422,AKMGY,Real Estate,REIT—Retail
@@ -1410,6 +1440,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,242.60000610351562,AKMGY,Real Estate,REIT—Retail
 2024-07-11,242.8000030517578,AKMGY,Real Estate,REIT—Retail
 2024-07-12,242.0,AKMGY,Real Estate,REIT—Retail
+2024-07-16,241.0,AKMGY,Real Estate,REIT—Retail
+2024-07-17,242.3000030517578,AKMGY,Real Estate,REIT—Retail
 2024-02-29,106.4000015258789,AKSA,Consumer Cyclical,Textile Manufacturing
 2024-03-01,107.0,AKSA,Consumer Cyclical,Textile Manufacturing
 2024-03-04,104.0,AKSA,Consumer Cyclical,Textile Manufacturing
@@ -1498,6 +1530,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,140.0,AKSA,Consumer Cyclical,Textile Manufacturing
 2024-07-11,139.0,AKSA,Consumer Cyclical,Textile Manufacturing
 2024-07-12,143.1999969482422,AKSA,Consumer Cyclical,Textile Manufacturing
+2024-07-16,144.5,AKSA,Consumer Cyclical,Textile Manufacturing
+2024-07-17,148.3000030517578,AKSA,Consumer Cyclical,Textile Manufacturing
 2024-02-29,37.65999984741211,AKSEN,Utilities,Utilities—Independent Power Producers
 2024-03-01,37.060001373291016,AKSEN,Utilities,Utilities—Independent Power Producers
 2024-03-04,37.52000045776367,AKSEN,Utilities,Utilities—Independent Power Producers
@@ -1586,6 +1620,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,42.720001220703125,AKSEN,Utilities,Utilities—Independent Power Producers
 2024-07-11,43.119998931884766,AKSEN,Utilities,Utilities—Independent Power Producers
 2024-07-12,43.279998779296875,AKSEN,Utilities,Utilities—Independent Power Producers
+2024-07-16,44.7400016784668,AKSEN,Utilities,Utilities—Independent Power Producers
+2024-07-17,44.97999954223633,AKSEN,Utilities,Utilities—Independent Power Producers
 2024-02-29,16.809999465942383,AKSGY,Real Estate,REIT—Diversified
 2024-03-01,17.399999618530273,AKSGY,Real Estate,REIT—Diversified
 2024-03-04,17.969999313354492,AKSGY,Real Estate,REIT—Diversified
@@ -1674,6 +1710,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,19.81999969482422,AKSGY,Real Estate,REIT—Diversified
 2024-07-11,20.0,AKSGY,Real Estate,REIT—Diversified
 2024-07-12,19.90999984741211,AKSGY,Real Estate,REIT—Diversified
+2024-07-16,19.940000534057617,AKSGY,Real Estate,REIT—Diversified
+2024-07-17,20.420000076293945,AKSGY,Real Estate,REIT—Diversified
 2024-02-29,132.60000610351562,ALARK,Industrials,Conglomerates
 2024-03-01,127.5,ALARK,Industrials,Conglomerates
 2024-03-04,125.5,ALARK,Industrials,Conglomerates
@@ -1762,6 +1800,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,104.9000015258789,ALARK,Industrials,Conglomerates
 2024-07-11,106.30000305175781,ALARK,Industrials,Conglomerates
 2024-07-12,105.80000305175781,ALARK,Industrials,Conglomerates
+2024-07-16,105.0,ALARK,Industrials,Conglomerates
+2024-07-17,103.80000305175781,ALARK,Industrials,Conglomerates
 2024-02-29,4.269999980926514,ALBRK,Financial Services,Banks—Regional
 2024-03-01,4.239999771118164,ALBRK,Financial Services,Banks—Regional
 2024-03-04,4.170000076293945,ALBRK,Financial Services,Banks—Regional
@@ -1850,6 +1890,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,6.079999923706055,ALBRK,Financial Services,Banks—Regional
 2024-07-11,6.349999904632568,ALBRK,Financial Services,Banks—Regional
 2024-07-12,6.269999980926514,ALBRK,Financial Services,Banks—Regional
+2024-07-16,6.320000171661377,ALBRK,Financial Services,Banks—Regional
+2024-07-17,6.460000038146973,ALBRK,Financial Services,Banks—Regional
 2024-02-29,149.8000030517578,ALCTL,Technology,Communication Equipment
 2024-03-01,134.89999389648438,ALCTL,Technology,Communication Equipment
 2024-03-04,121.5999984741211,ALCTL,Technology,Communication Equipment
@@ -1938,6 +1980,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,94.1500015258789,ALCTL,Technology,Communication Equipment
 2024-07-11,93.80000305175781,ALCTL,Technology,Communication Equipment
 2024-07-12,95.5,ALCTL,Technology,Communication Equipment
+2024-07-16,96.5999984741211,ALCTL,Technology,Communication Equipment
+2024-07-17,96.0,ALCTL,Technology,Communication Equipment
 2024-02-29,105.9000015258789,ALFAS,Technology,Solar
 2024-03-01,104.0999984741211,ALFAS,Technology,Solar
 2024-03-04,110.0999984741211,ALFAS,Technology,Solar
@@ -2026,6 +2070,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,68.0,ALFAS,Technology,Solar
 2024-07-11,74.80000305175781,ALFAS,Technology,Solar
 2024-07-12,69.94999694824219,ALFAS,Technology,Solar
+2024-07-16,68.44999694824219,ALFAS,Technology,Solar
+2024-07-17,67.5999984741211,ALFAS,Technology,Solar
 2024-02-29,49.439998626708984,ALGYO,Real Estate,REIT—Diversified
 2024-03-01,49.81999969482422,ALGYO,Real Estate,REIT—Diversified
 2024-03-04,48.7599983215332,ALGYO,Real Estate,REIT—Diversified
@@ -2114,6 +2160,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,48.7400016784668,ALGYO,Real Estate,REIT—Diversified
 2024-07-11,48.619998931884766,ALGYO,Real Estate,REIT—Diversified
 2024-07-12,49.79999923706055,ALGYO,Real Estate,REIT—Diversified
+2024-07-16,50.0,ALGYO,Real Estate,REIT—Diversified
+2024-07-17,51.0,ALGYO,Real Estate,REIT—Diversified
 2024-02-29,41.720001220703125,ALKIM,Basic Materials,Paper & Paper Products
 2024-03-01,43.20000076293945,ALKIM,Basic Materials,Paper & Paper Products
 2024-03-04,42.5,ALKIM,Basic Materials,Paper & Paper Products
@@ -2202,6 +2250,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,33.41999816894531,ALKIM,Basic Materials,Paper & Paper Products
 2024-07-11,34.779998779296875,ALKIM,Basic Materials,Paper & Paper Products
 2024-07-12,35.29999923706055,ALKIM,Basic Materials,Paper & Paper Products
+2024-07-16,35.68000030517578,ALKIM,Basic Materials,Paper & Paper Products
+2024-07-17,35.65999984741211,ALKIM,Basic Materials,Paper & Paper Products
 2024-06-04,25.260000228881836,ALKLC,Unknown,Unknown
 2024-06-05,27.780000686645508,ALKLC,Unknown,Unknown
 2024-06-06,30.540000915527344,ALKLC,Unknown,Unknown
@@ -2228,6 +2278,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,22.299999237060547,ALKLC,Unknown,Unknown
 2024-07-11,23.139999389648438,ALKLC,Unknown,Unknown
 2024-07-12,23.280000686645508,ALKLC,Unknown,Unknown
+2024-07-16,22.760000228881836,ALKLC,Unknown,Unknown
+2024-07-17,23.100000381469727,ALKLC,Unknown,Unknown
 2024-02-29,8.40999984741211,ALMAD,Energy,Thermal Coal
 2024-03-01,9.020000457763672,ALMAD,Energy,Thermal Coal
 2024-03-04,9.100000381469727,ALMAD,Energy,Thermal Coal
@@ -2316,6 +2368,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,6.929999828338623,ALMAD,Energy,Thermal Coal
 2024-07-11,7.619999885559082,ALMAD,Energy,Thermal Coal
 2024-07-12,7.849999904632568,ALMAD,Energy,Thermal Coal
+2024-07-16,8.050000190734863,ALMAD,Energy,Thermal Coal
+2024-07-17,8.40999984741211,ALMAD,Energy,Thermal Coal
 2024-02-29,21.3799991607666,ALVES,Unknown,Unknown
 2024-03-01,23.5,ALVES,Unknown,Unknown
 2024-03-04,25.84000015258789,ALVES,Unknown,Unknown
@@ -2405,6 +2459,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,42.560001373291016,ALVES,Unknown,Unknown
 2024-07-11,44.599998474121094,ALVES,Unknown,Unknown
 2024-07-12,47.20000076293945,ALVES,Unknown,Unknown
+2024-07-16,51.54999923706055,ALVES,Unknown,Unknown
+2024-07-17,53.5,ALVES,Unknown,Unknown
 2024-02-29,16.68000030517578,ANELE,Industrials,Engineering & Construction
 2024-03-01,16.350000381469727,ANELE,Industrials,Engineering & Construction
 2024-03-04,15.5,ANELE,Industrials,Engineering & Construction
@@ -2493,6 +2549,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,15.199999809265137,ANELE,Industrials,Engineering & Construction
 2024-07-11,15.5,ANELE,Industrials,Engineering & Construction
 2024-07-12,15.3100004196167,ANELE,Industrials,Engineering & Construction
+2024-07-16,15.489999771118164,ANELE,Industrials,Engineering & Construction
+2024-07-17,15.5,ANELE,Industrials,Engineering & Construction
 2024-02-29,48.2599983215332,ANHYT,Financial Services,Insurance—Life
 2024-03-01,49.540000915527344,ANHYT,Financial Services,Insurance—Life
 2024-03-04,47.720001220703125,ANHYT,Financial Services,Insurance—Life
@@ -2581,6 +2639,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,140.8000030517578,ANHYT,Financial Services,Insurance—Life
 2024-07-11,139.3000030517578,ANHYT,Financial Services,Insurance—Life
 2024-07-12,135.10000610351562,ANHYT,Financial Services,Insurance—Life
+2024-07-16,135.89999389648438,ANHYT,Financial Services,Insurance—Life
+2024-07-17,137.0,ANHYT,Financial Services,Insurance—Life
 2024-02-29,68.5,ANSGR,Financial Services,Insurance—Diversified
 2024-03-01,68.0,ANSGR,Financial Services,Insurance—Diversified
 2024-03-04,67.4000015258789,ANSGR,Financial Services,Insurance—Diversified
@@ -2669,6 +2729,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,110.0,ANSGR,Financial Services,Insurance—Diversified
 2024-07-11,105.80000305175781,ANSGR,Financial Services,Insurance—Diversified
 2024-07-12,112.0999984741211,ANSGR,Financial Services,Insurance—Diversified
+2024-07-16,111.9000015258789,ANSGR,Financial Services,Insurance—Diversified
+2024-07-17,112.5,ANSGR,Financial Services,Insurance—Diversified
 2024-02-29,169.0,ARCLK,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-03-01,166.0,ARCLK,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-03-04,158.5,ARCLK,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
@@ -2757,6 +2819,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,165.5,ARCLK,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-07-11,169.8000030517578,ARCLK,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-07-12,170.60000610351562,ARCLK,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+2024-07-16,172.3000030517578,ARCLK,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+2024-07-17,171.39999389648438,ARCLK,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-02-29,53.099998474121094,ARDYZ,Technology,Software—Infrastructure
 2024-03-01,55.150001525878906,ARDYZ,Technology,Software—Infrastructure
 2024-03-04,49.81999969482422,ARDYZ,Technology,Software—Infrastructure
@@ -2845,6 +2909,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,38.880001068115234,ARDYZ,Technology,Software—Infrastructure
 2024-07-11,39.400001525878906,ARDYZ,Technology,Software—Infrastructure
 2024-07-12,40.41999816894531,ARDYZ,Technology,Software—Infrastructure
+2024-07-16,40.68000030517578,ARDYZ,Technology,Software—Infrastructure
+2024-07-17,40.5,ARDYZ,Technology,Software—Infrastructure
 2024-02-29,51.04999923706055,ARENA,Technology,Electronics & Computer Distribution
 2024-03-01,50.75,ARENA,Technology,Electronics & Computer Distribution
 2024-03-04,49.540000915527344,ARENA,Technology,Electronics & Computer Distribution
@@ -2933,6 +2999,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,47.52000045776367,ARENA,Technology,Electronics & Computer Distribution
 2024-07-11,48.099998474121094,ARENA,Technology,Electronics & Computer Distribution
 2024-07-12,47.08000183105469,ARENA,Technology,Electronics & Computer Distribution
+2024-07-16,46.20000076293945,ARENA,Technology,Electronics & Computer Distribution
+2024-07-17,44.459999084472656,ARENA,Technology,Electronics & Computer Distribution
 2024-02-29,14.789999961853027,ARSAN,Consumer Cyclical,Textile Manufacturing
 2024-03-01,14.65999984741211,ARSAN,Consumer Cyclical,Textile Manufacturing
 2024-03-04,14.100000381469727,ARSAN,Consumer Cyclical,Textile Manufacturing
@@ -3021,6 +3089,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,19.010000228881836,ARSAN,Consumer Cyclical,Textile Manufacturing
 2024-07-11,19.18000030517578,ARSAN,Consumer Cyclical,Textile Manufacturing
 2024-07-12,19.149999618530273,ARSAN,Consumer Cyclical,Textile Manufacturing
+2024-07-16,19.079999923706055,ARSAN,Consumer Cyclical,Textile Manufacturing
+2024-07-17,20.360000610351562,ARSAN,Consumer Cyclical,Textile Manufacturing
 2024-03-04,27.8799991607666,ARTMS,Consumer Cyclical,Textile Manufacturing
 2024-03-05,30.65999984741211,ARTMS,Consumer Cyclical,Textile Manufacturing
 2024-03-06,33.720001220703125,ARTMS,Consumer Cyclical,Textile Manufacturing
@@ -3108,6 +3178,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,49.91999816894531,ARTMS,Consumer Cyclical,Textile Manufacturing
 2024-07-11,49.2400016784668,ARTMS,Consumer Cyclical,Textile Manufacturing
 2024-07-12,50.54999923706055,ARTMS,Consumer Cyclical,Textile Manufacturing
+2024-07-16,52.29999923706055,ARTMS,Consumer Cyclical,Textile Manufacturing
+2024-07-17,52.400001525878906,ARTMS,Consumer Cyclical,Textile Manufacturing
 2024-02-29,49.97999954223633,ARZUM,Technology,Consumer Electronics
 2024-03-01,54.95000076293945,ARZUM,Technology,Consumer Electronics
 2024-03-04,60.400001525878906,ARZUM,Technology,Consumer Electronics
@@ -3196,6 +3268,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,52.900001525878906,ARZUM,Technology,Consumer Electronics
 2024-07-11,54.79999923706055,ARZUM,Technology,Consumer Electronics
 2024-07-12,54.29999923706055,ARZUM,Technology,Consumer Electronics
+2024-07-16,53.5,ARZUM,Technology,Consumer Electronics
+2024-07-17,52.45000076293945,ARZUM,Technology,Consumer Electronics
 2024-02-29,60.0,ASELS,Industrials,Aerospace & Defense
 2024-03-01,59.20000076293945,ASELS,Industrials,Aerospace & Defense
 2024-03-04,58.54999923706055,ASELS,Industrials,Aerospace & Defense
@@ -3284,6 +3358,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,65.0,ASELS,Industrials,Aerospace & Defense
 2024-07-11,64.9000015258789,ASELS,Industrials,Aerospace & Defense
 2024-07-12,63.79999923706055,ASELS,Industrials,Aerospace & Defense
+2024-07-16,63.25,ASELS,Industrials,Aerospace & Defense
+2024-07-17,63.5,ASELS,Industrials,Aerospace & Defense
 2024-02-29,15.649999618530273,ASGYO,Real Estate,Real Estate—Development
 2024-03-01,15.819999694824219,ASGYO,Real Estate,Real Estate—Development
 2024-03-04,15.25,ASGYO,Real Estate,Real Estate—Development
@@ -3373,6 +3449,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,12.729999542236328,ASGYO,Real Estate,Real Estate—Development
 2024-07-11,12.960000038146973,ASGYO,Real Estate,Real Estate—Development
 2024-07-12,12.890000343322754,ASGYO,Real Estate,Real Estate—Development
+2024-07-16,12.899999618530273,ASGYO,Real Estate,Real Estate—Development
+2024-07-17,13.100000381469727,ASGYO,Real Estate,Real Estate—Development
 2024-02-29,121.30000305175781,ASTOR,Industrials,Electrical Equipment & Parts
 2024-03-01,121.5,ASTOR,Industrials,Electrical Equipment & Parts
 2024-03-04,122.19999694824219,ASTOR,Industrials,Electrical Equipment & Parts
@@ -3461,6 +3539,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,91.3499984741211,ASTOR,Industrials,Electrical Equipment & Parts
 2024-07-11,94.05000305175781,ASTOR,Industrials,Electrical Equipment & Parts
 2024-07-12,94.5,ASTOR,Industrials,Electrical Equipment & Parts
+2024-07-16,93.4000015258789,ASTOR,Industrials,Electrical Equipment & Parts
+2024-07-17,93.6500015258789,ASTOR,Industrials,Electrical Equipment & Parts
 2024-02-29,53.70000076293945,ATAKP,Consumer Defensive,Packaged Foods
 2024-03-01,53.79999923706055,ATAKP,Consumer Defensive,Packaged Foods
 2024-03-04,54.54999923706055,ATAKP,Consumer Defensive,Packaged Foods
@@ -3550,6 +3630,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,49.400001525878906,ATAKP,Consumer Defensive,Packaged Foods
 2024-07-11,49.34000015258789,ATAKP,Consumer Defensive,Packaged Foods
 2024-07-12,49.79999923706055,ATAKP,Consumer Defensive,Packaged Foods
+2024-07-16,49.900001525878906,ATAKP,Consumer Defensive,Packaged Foods
+2024-07-17,49.58000183105469,ATAKP,Consumer Defensive,Packaged Foods
 2024-02-29,162.1999969482422,ATATP,Technology,Software—Infrastructure
 2024-03-01,163.0,ATATP,Technology,Software—Infrastructure
 2024-03-04,146.6999969482422,ATATP,Technology,Software—Infrastructure
@@ -3638,6 +3720,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,133.89999389648438,ATATP,Technology,Software—Infrastructure
 2024-07-11,132.0,ATATP,Technology,Software—Infrastructure
 2024-07-12,145.1999969482422,ATATP,Technology,Software—Infrastructure
+2024-07-16,135.10000610351562,ATATP,Technology,Software—Infrastructure
+2024-07-17,136.0,ATATP,Technology,Software—Infrastructure
 2024-02-29,8.850000381469727,AVGYO,Real Estate,REIT—Specialty
 2024-03-01,8.800000190734863,AVGYO,Real Estate,REIT—Specialty
 2024-03-04,8.720000267028809,AVGYO,Real Estate,REIT—Specialty
@@ -3726,6 +3810,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,7.429999828338623,AVGYO,Real Estate,REIT—Specialty
 2024-07-11,7.800000190734863,AVGYO,Real Estate,REIT—Specialty
 2024-07-12,7.849999904632568,AVGYO,Real Estate,REIT—Specialty
+2024-07-16,8.100000381469727,AVGYO,Real Estate,REIT—Specialty
+2024-07-17,8.90999984741211,AVGYO,Real Estate,REIT—Specialty
 2024-02-29,47.91999816894531,AVPGY,Real Estate,Real Estate—Diversified
 2024-03-01,48.880001068115234,AVPGY,Real Estate,Real Estate—Diversified
 2024-03-04,46.79999923706055,AVPGY,Real Estate,Real Estate—Diversified
@@ -3815,6 +3901,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,42.0,AVPGY,Real Estate,Real Estate—Diversified
 2024-07-11,43.79999923706055,AVPGY,Real Estate,Real Estate—Diversified
 2024-07-12,44.81999969482422,AVPGY,Real Estate,Real Estate—Diversified
+2024-07-16,46.47999954223633,AVPGY,Real Estate,Real Estate—Diversified
+2024-07-17,46.02000045776367,AVPGY,Real Estate,Real Estate—Diversified
 2024-02-29,29.0,AYDEM,Utilities,Utilities—Renewable
 2024-03-01,29.479999542236328,AYDEM,Utilities,Utilities—Renewable
 2024-03-04,29.579999923706055,AYDEM,Utilities,Utilities—Renewable
@@ -3903,6 +3991,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,34.900001525878906,AYDEM,Utilities,Utilities—Renewable
 2024-07-11,35.08000183105469,AYDEM,Utilities,Utilities—Renewable
 2024-07-12,34.7599983215332,AYDEM,Utilities,Utilities—Renewable
+2024-07-16,34.81999969482422,AYDEM,Utilities,Utilities—Renewable
+2024-07-17,35.15999984741211,AYDEM,Utilities,Utilities—Renewable
 2024-02-29,153.5,AYGAZ,Utilities,Utilities—Regulated Gas
 2024-03-01,155.10000610351562,AYGAZ,Utilities,Utilities—Regulated Gas
 2024-03-04,148.0,AYGAZ,Utilities,Utilities—Regulated Gas
@@ -3991,6 +4081,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,169.3000030517578,AYGAZ,Utilities,Utilities—Regulated Gas
 2024-07-11,172.1999969482422,AYGAZ,Utilities,Utilities—Regulated Gas
 2024-07-12,171.89999389648438,AYGAZ,Utilities,Utilities—Regulated Gas
+2024-07-16,171.60000610351562,AYGAZ,Utilities,Utilities—Regulated Gas
+2024-07-17,171.3000030517578,AYGAZ,Utilities,Utilities—Regulated Gas
 2024-02-29,154.39999389648438,AZTEK,Technology,Electronics & Computer Distribution
 2024-03-01,143.5,AZTEK,Technology,Electronics & Computer Distribution
 2024-03-04,137.10000610351562,AZTEK,Technology,Electronics & Computer Distribution
@@ -4080,6 +4172,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,52.70000076293945,AZTEK,Technology,Electronics & Computer Distribution
 2024-07-11,51.04999923706055,AZTEK,Technology,Electronics & Computer Distribution
 2024-07-12,52.099998474121094,AZTEK,Technology,Electronics & Computer Distribution
+2024-07-16,51.54999923706055,AZTEK,Technology,Electronics & Computer Distribution
+2024-07-17,52.20000076293945,AZTEK,Technology,Electronics & Computer Distribution
 2024-02-29,155.89999389648438,BANVT,Consumer Defensive,Packaged Foods
 2024-03-01,165.0,BANVT,Consumer Defensive,Packaged Foods
 2024-03-04,181.5,BANVT,Consumer Defensive,Packaged Foods
@@ -4168,6 +4262,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,325.0,BANVT,Consumer Defensive,Packaged Foods
 2024-07-11,331.0,BANVT,Consumer Defensive,Packaged Foods
 2024-07-12,331.0,BANVT,Consumer Defensive,Packaged Foods
+2024-07-16,323.5,BANVT,Consumer Defensive,Packaged Foods
+2024-07-17,327.25,BANVT,Consumer Defensive,Packaged Foods
 2024-03-11,20.65999984741211,BARMA,Consumer Cyclical,Packaging & Containers
 2024-03-12,19.899999618530273,BARMA,Consumer Cyclical,Packaging & Containers
 2024-03-13,19.200000762939453,BARMA,Consumer Cyclical,Packaging & Containers
@@ -4249,6 +4345,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,17.809999465942383,BARMA,Consumer Cyclical,Packaging & Containers
 2024-07-11,18.139999389648438,BARMA,Consumer Cyclical,Packaging & Containers
 2024-07-12,18.219999313354492,BARMA,Consumer Cyclical,Packaging & Containers
+2024-07-16,18.399999618530273,BARMA,Consumer Cyclical,Packaging & Containers
+2024-07-17,18.440000534057617,BARMA,Consumer Cyclical,Packaging & Containers
 2024-02-29,22.479999542236328,BASGZ,Utilities,Utilities—Regulated Gas
 2024-03-01,22.18000030517578,BASGZ,Utilities,Utilities—Regulated Gas
 2024-03-04,21.739999771118164,BASGZ,Utilities,Utilities—Regulated Gas
@@ -4338,6 +4436,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,33.18000030517578,BASGZ,Utilities,Utilities—Regulated Gas
 2024-07-11,32.79999923706055,BASGZ,Utilities,Utilities—Regulated Gas
 2024-07-12,32.02000045776367,BASGZ,Utilities,Utilities—Regulated Gas
+2024-07-16,32.65999984741211,BASGZ,Utilities,Utilities—Regulated Gas
+2024-07-17,32.97999954223633,BASGZ,Utilities,Utilities—Regulated Gas
 2024-02-29,5.039999961853027,BEGYO,Real Estate,Real Estate—Development
 2024-03-01,5.039999961853027,BEGYO,Real Estate,Real Estate—Development
 2024-03-04,4.960000038146973,BEGYO,Real Estate,Real Estate—Development
@@ -4427,6 +4527,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,3.3499999046325684,BEGYO,Real Estate,Real Estate—Development
 2024-07-11,3.5199999809265137,BEGYO,Real Estate,Real Estate—Development
 2024-07-12,3.5999999046325684,BEGYO,Real Estate,Real Estate—Development
+2024-07-16,3.559999942779541,BEGYO,Real Estate,Real Estate—Development
+2024-07-17,3.7899999618530273,BEGYO,Real Estate,Real Estate—Development
 2024-02-29,20.219999313354492,BERA,Industrials,Conglomerates
 2024-03-01,19.850000381469727,BERA,Industrials,Conglomerates
 2024-03-04,20.5,BERA,Industrials,Conglomerates
@@ -4515,6 +4617,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,19.450000762939453,BERA,Industrials,Conglomerates
 2024-07-11,19.260000228881836,BERA,Industrials,Conglomerates
 2024-07-12,18.739999771118164,BERA,Industrials,Conglomerates
+2024-07-16,18.520000457763672,BERA,Industrials,Conglomerates
+2024-07-17,18.3700008392334,BERA,Industrials,Conglomerates
 2024-02-29,46.70000076293945,BIENY,Industrials,Building Products & Equipment
 2024-03-01,47.15999984741211,BIENY,Industrials,Building Products & Equipment
 2024-03-04,45.619998931884766,BIENY,Industrials,Building Products & Equipment
@@ -4604,6 +4708,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,32.540000915527344,BIENY,Industrials,Building Products & Equipment
 2024-07-11,34.880001068115234,BIENY,Industrials,Building Products & Equipment
 2024-07-12,34.5,BIENY,Industrials,Building Products & Equipment
+2024-07-16,34.47999954223633,BIENY,Industrials,Building Products & Equipment
+2024-07-17,34.560001373291016,BIENY,Industrials,Building Products & Equipment
 2024-02-29,31.260000228881836,BIGCH,Consumer Cyclical,Restaurants
 2024-03-01,32.18000030517578,BIGCH,Consumer Cyclical,Restaurants
 2024-03-04,31.5,BIGCH,Consumer Cyclical,Restaurants
@@ -4693,6 +4799,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,31.959999084472656,BIGCH,Consumer Cyclical,Restaurants
 2024-07-11,32.15999984741211,BIGCH,Consumer Cyclical,Restaurants
 2024-07-12,32.02000045776367,BIGCH,Consumer Cyclical,Restaurants
+2024-07-16,32.279998779296875,BIGCH,Consumer Cyclical,Restaurants
+2024-07-17,31.979999542236328,BIGCH,Consumer Cyclical,Restaurants
 2024-02-29,388.25,BIMAS,Consumer Defensive,Grocery Stores
 2024-03-01,381.0,BIMAS,Consumer Defensive,Grocery Stores
 2024-03-04,373.0,BIMAS,Consumer Defensive,Grocery Stores
@@ -4781,6 +4889,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,543.0,BIMAS,Consumer Defensive,Grocery Stores
 2024-07-11,570.0,BIMAS,Consumer Defensive,Grocery Stores
 2024-07-12,578.5,BIMAS,Consumer Defensive,Grocery Stores
+2024-07-16,585.5,BIMAS,Consumer Defensive,Grocery Stores
+2024-07-17,596.0,BIMAS,Consumer Defensive,Grocery Stores
 2024-02-29,610.0,BINHO,Industrials,Conglomerates
 2024-03-01,595.0,BINHO,Industrials,Conglomerates
 2024-03-04,567.0,BINHO,Industrials,Conglomerates
@@ -4870,6 +4980,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,390.25,BINHO,Industrials,Conglomerates
 2024-07-11,394.25,BINHO,Industrials,Conglomerates
 2024-07-12,392.75,BINHO,Industrials,Conglomerates
+2024-07-16,387.25,BINHO,Industrials,Conglomerates
+2024-07-17,384.25,BINHO,Industrials,Conglomerates
 2024-02-29,20.31999969482422,BIOEN,Utilities,Utilities—Renewable
 2024-03-01,20.6200008392334,BIOEN,Utilities,Utilities—Renewable
 2024-03-04,20.399999618530273,BIOEN,Utilities,Utilities—Renewable
@@ -4959,6 +5071,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,19.75,BIOEN,Utilities,Utilities—Renewable
 2024-07-11,20.299999237060547,BIOEN,Utilities,Utilities—Renewable
 2024-07-12,20.299999237060547,BIOEN,Utilities,Utilities—Renewable
+2024-07-16,19.959999084472656,BIOEN,Utilities,Utilities—Renewable
+2024-07-17,19.610000610351562,BIOEN,Utilities,Utilities—Renewable
 2024-02-29,46.439998626708984,BIZIM,Consumer Cyclical,Department Stores
 2024-03-01,46.97999954223633,BIZIM,Consumer Cyclical,Department Stores
 2024-03-04,49.0,BIZIM,Consumer Cyclical,Department Stores
@@ -5047,6 +5161,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,34.97999954223633,BIZIM,Consumer Cyclical,Department Stores
 2024-07-11,36.279998779296875,BIZIM,Consumer Cyclical,Department Stores
 2024-07-12,36.7400016784668,BIZIM,Consumer Cyclical,Department Stores
+2024-07-16,37.15999984741211,BIZIM,Consumer Cyclical,Department Stores
+2024-07-17,37.0,BIZIM,Consumer Cyclical,Department Stores
 2024-02-29,19.209999084472656,BLCYT,Consumer Cyclical,Textile Manufacturing
 2024-03-01,20.1200008392334,BLCYT,Consumer Cyclical,Textile Manufacturing
 2024-03-04,19.959999084472656,BLCYT,Consumer Cyclical,Textile Manufacturing
@@ -5135,6 +5251,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,17.770000457763672,BLCYT,Consumer Cyclical,Textile Manufacturing
 2024-07-11,18.170000076293945,BLCYT,Consumer Cyclical,Textile Manufacturing
 2024-07-12,18.420000076293945,BLCYT,Consumer Cyclical,Textile Manufacturing
+2024-07-16,20.15999984741211,BLCYT,Consumer Cyclical,Textile Manufacturing
+2024-07-17,20.860000610351562,BLCYT,Consumer Cyclical,Textile Manufacturing
 2024-02-29,12.5,BNTAS,Consumer Cyclical,Packaging & Containers
 2024-03-01,12.600000381469727,BNTAS,Consumer Cyclical,Packaging & Containers
 2024-03-04,12.229999542236328,BNTAS,Consumer Cyclical,Packaging & Containers
@@ -5223,6 +5341,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,11.199999809265137,BNTAS,Consumer Cyclical,Packaging & Containers
 2024-07-11,11.380000114440918,BNTAS,Consumer Cyclical,Packaging & Containers
 2024-07-12,11.350000381469727,BNTAS,Consumer Cyclical,Packaging & Containers
+2024-07-16,12.260000228881836,BNTAS,Consumer Cyclical,Packaging & Containers
+2024-07-17,12.65999984741211,BNTAS,Consumer Cyclical,Packaging & Containers
 2024-02-29,38.02000045776367,BOBET,Basic Materials,Building Materials
 2024-03-01,37.18000030517578,BOBET,Basic Materials,Building Materials
 2024-03-04,36.08000183105469,BOBET,Basic Materials,Building Materials
@@ -5312,6 +5432,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,28.280000686645508,BOBET,Basic Materials,Building Materials
 2024-07-11,29.0,BOBET,Basic Materials,Building Materials
 2024-07-12,29.600000381469727,BOBET,Basic Materials,Building Materials
+2024-07-16,29.18000030517578,BOBET,Basic Materials,Building Materials
+2024-07-17,29.31999969482422,BOBET,Basic Materials,Building Materials
 2024-02-29,51.099998474121094,BORSK,Consumer Defensive,Confectioners
 2024-03-01,51.5,BORSK,Consumer Defensive,Confectioners
 2024-03-04,47.18000030517578,BORSK,Consumer Defensive,Confectioners
@@ -5401,6 +5523,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,27.360000610351562,BORSK,Consumer Defensive,Confectioners
 2024-07-11,28.280000686645508,BORSK,Consumer Defensive,Confectioners
 2024-07-12,28.139999389648438,BORSK,Consumer Defensive,Confectioners
+2024-07-16,28.200000762939453,BORSK,Consumer Defensive,Confectioners
+2024-07-17,28.520000457763672,BORSK,Consumer Defensive,Confectioners
 2024-02-29,11.5,BOSSA,Consumer Cyclical,Textile Manufacturing
 2024-03-01,11.390000343322754,BOSSA,Consumer Cyclical,Textile Manufacturing
 2024-03-04,11.359999656677246,BOSSA,Consumer Cyclical,Textile Manufacturing
@@ -5489,6 +5613,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,16.979999542236328,BOSSA,Consumer Cyclical,Textile Manufacturing
 2024-07-11,17.420000076293945,BOSSA,Consumer Cyclical,Textile Manufacturing
 2024-07-12,17.200000762939453,BOSSA,Consumer Cyclical,Textile Manufacturing
+2024-07-16,17.25,BOSSA,Consumer Cyclical,Textile Manufacturing
+2024-07-17,17.299999237060547,BOSSA,Consumer Cyclical,Textile Manufacturing
 2024-02-29,199.60000610351562,BRKVY,Financial Services,Asset Management
 2024-03-01,219.5,BRKVY,Financial Services,Asset Management
 2024-03-04,233.60000610351562,BRKVY,Financial Services,Asset Management
@@ -5578,6 +5704,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,54.650001525878906,BRKVY,Financial Services,Asset Management
 2024-07-11,55.79999923706055,BRKVY,Financial Services,Asset Management
 2024-07-12,56.099998474121094,BRKVY,Financial Services,Asset Management
+2024-07-16,57.29999923706055,BRKVY,Financial Services,Asset Management
+2024-07-17,56.400001525878906,BRKVY,Financial Services,Asset Management
 2024-02-29,31.68000030517578,BRLSM,Industrials,Engineering & Construction
 2024-03-01,30.600000381469727,BRLSM,Industrials,Engineering & Construction
 2024-03-04,29.31999969482422,BRLSM,Industrials,Engineering & Construction
@@ -5666,6 +5794,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,18.09000015258789,BRLSM,Industrials,Engineering & Construction
 2024-07-11,18.809999465942383,BRLSM,Industrials,Engineering & Construction
 2024-07-12,19.139999389648438,BRLSM,Industrials,Engineering & Construction
+2024-07-16,19.059999465942383,BRLSM,Industrials,Engineering & Construction
+2024-07-17,19.1200008392334,BRLSM,Industrials,Engineering & Construction
 2024-02-29,114.30000305175781,BTCIM,Basic Materials,Building Materials
 2024-03-01,120.9000015258789,BTCIM,Basic Materials,Building Materials
 2024-03-04,120.5,BTCIM,Basic Materials,Building Materials
@@ -5754,6 +5884,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,168.0,BTCIM,Basic Materials,Building Materials
 2024-07-11,168.10000610351562,BTCIM,Basic Materials,Building Materials
 2024-07-12,164.0,BTCIM,Basic Materials,Building Materials
+2024-07-16,156.8000030517578,BTCIM,Basic Materials,Building Materials
+2024-07-17,153.60000610351562,BTCIM,Basic Materials,Building Materials
 2024-02-29,8.25,BUCIM,Basic Materials,Building Materials
 2024-03-01,8.40999984741211,BUCIM,Basic Materials,Building Materials
 2024-03-04,8.0,BUCIM,Basic Materials,Building Materials
@@ -5842,6 +5974,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,8.199999809265137,BUCIM,Basic Materials,Building Materials
 2024-07-11,8.40999984741211,BUCIM,Basic Materials,Building Materials
 2024-07-12,8.5,BUCIM,Basic Materials,Building Materials
+2024-07-16,8.520000457763672,BUCIM,Basic Materials,Building Materials
+2024-07-17,8.520000457763672,BUCIM,Basic Materials,Building Materials
 2024-02-29,33.380001068115234,BYDNR,Consumer Cyclical,Restaurants
 2024-03-01,34.599998474121094,BYDNR,Consumer Cyclical,Restaurants
 2024-03-04,34.900001525878906,BYDNR,Consumer Cyclical,Restaurants
@@ -5931,6 +6065,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,27.040000915527344,BYDNR,Consumer Cyclical,Restaurants
 2024-07-11,27.81999969482422,BYDNR,Consumer Cyclical,Restaurants
 2024-07-12,27.559999465942383,BYDNR,Consumer Cyclical,Restaurants
+2024-07-16,28.200000762939453,BYDNR,Consumer Cyclical,Restaurants
+2024-07-17,28.719999313354492,BYDNR,Consumer Cyclical,Restaurants
 2024-02-29,2.4216809272766113,CANTE,Utilities,Utilities—Independent Power Producers
 2024-03-01,2.4726080894470215,CANTE,Utilities,Utilities—Independent Power Producers
 2024-03-04,2.3854970932006836,CANTE,Utilities,Utilities—Independent Power Producers
@@ -6020,6 +6156,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,1.7899999618530273,CANTE,Utilities,Utilities—Independent Power Producers
 2024-07-11,1.8200000524520874,CANTE,Utilities,Utilities—Independent Power Producers
 2024-07-12,1.8700000047683716,CANTE,Utilities,Utilities—Independent Power Producers
+2024-07-16,1.8700000047683716,CANTE,Utilities,Utilities—Independent Power Producers
+2024-07-17,1.8799999952316284,CANTE,Utilities,Utilities—Independent Power Producers
 2024-02-29,69.69999694824219,CATES,Utilities,Utilities—Independent Power Producers
 2024-03-01,72.94999694824219,CATES,Utilities,Utilities—Independent Power Producers
 2024-03-04,71.9000015258789,CATES,Utilities,Utilities—Independent Power Producers
@@ -6109,6 +6247,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,44.79999923706055,CATES,Utilities,Utilities—Independent Power Producers
 2024-07-11,45.439998626708984,CATES,Utilities,Utilities—Independent Power Producers
 2024-07-12,45.959999084472656,CATES,Utilities,Utilities—Independent Power Producers
+2024-07-16,46.560001373291016,CATES,Utilities,Utilities—Independent Power Producers
+2024-07-17,46.65999984741211,CATES,Utilities,Utilities—Independent Power Producers
 2024-02-29,647.0,CCOLA,Consumer Defensive,Beverages—Non-Alcoholic
 2024-03-01,620.0,CCOLA,Consumer Defensive,Beverages—Non-Alcoholic
 2024-03-04,624.0,CCOLA,Consumer Defensive,Beverages—Non-Alcoholic
@@ -6197,6 +6337,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,825.5,CCOLA,Consumer Defensive,Beverages—Non-Alcoholic
 2024-07-11,829.0,CCOLA,Consumer Defensive,Beverages—Non-Alcoholic
 2024-07-12,855.5,CCOLA,Consumer Defensive,Beverages—Non-Alcoholic
+2024-07-16,897.5,CCOLA,Consumer Defensive,Beverages—Non-Alcoholic
+2024-07-17,886.0,CCOLA,Consumer Defensive,Beverages—Non-Alcoholic
 2024-02-29,5.090000152587891,CEMAS,Industrials,Metal Fabrication
 2024-03-01,5.179999828338623,CEMAS,Industrials,Metal Fabrication
 2024-03-04,5.159999847412109,CEMAS,Industrials,Metal Fabrication
@@ -6285,6 +6427,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,3.690000057220459,CEMAS,Industrials,Metal Fabrication
 2024-07-11,3.8299999237060547,CEMAS,Industrials,Metal Fabrication
 2024-07-12,3.799999952316284,CEMAS,Industrials,Metal Fabrication
+2024-07-16,4.099999904632568,CEMAS,Industrials,Metal Fabrication
+2024-07-17,4.510000228881836,CEMAS,Industrials,Metal Fabrication
 2024-02-29,13.880000114440918,CEMTS,Basic Materials,Steel
 2024-03-01,13.65999984741211,CEMTS,Basic Materials,Steel
 2024-03-04,12.300000190734863,CEMTS,Basic Materials,Steel
@@ -6373,6 +6517,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,11.329999923706055,CEMTS,Basic Materials,Steel
 2024-07-11,11.760000228881836,CEMTS,Basic Materials,Steel
 2024-07-12,11.6899995803833,CEMTS,Basic Materials,Steel
+2024-07-16,11.5600004196167,CEMTS,Basic Materials,Steel
+2024-07-17,11.460000038146973,CEMTS,Basic Materials,Steel
 2024-02-29,35.0,CIMSA,Basic Materials,Building Materials
 2024-03-01,34.779998779296875,CIMSA,Basic Materials,Building Materials
 2024-03-04,33.86000061035156,CIMSA,Basic Materials,Building Materials
@@ -6461,6 +6607,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,34.400001525878906,CIMSA,Basic Materials,Building Materials
 2024-07-11,35.20000076293945,CIMSA,Basic Materials,Building Materials
 2024-07-12,35.099998474121094,CIMSA,Basic Materials,Building Materials
+2024-07-16,34.91999816894531,CIMSA,Basic Materials,Building Materials
+2024-07-17,34.91999816894531,CIMSA,Basic Materials,Building Materials
 2024-02-29,1362.0,CLEBI,Industrials,Airports & Air Services
 2024-03-01,1324.0,CLEBI,Industrials,Airports & Air Services
 2024-03-04,1269.0,CLEBI,Industrials,Airports & Air Services
@@ -6549,6 +6697,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,2595.0,CLEBI,Industrials,Airports & Air Services
 2024-07-11,2474.0,CLEBI,Industrials,Airports & Air Services
 2024-07-12,2527.5,CLEBI,Industrials,Airports & Air Services
+2024-07-16,2439.0,CLEBI,Industrials,Airports & Air Services
+2024-07-17,2406.0,CLEBI,Industrials,Airports & Air Services
 2024-02-29,6.650000095367432,CONSE,Utilities,Utilities—Renewable
 2024-03-01,6.730000019073486,CONSE,Utilities,Utilities—Renewable
 2024-03-04,6.679999828338623,CONSE,Utilities,Utilities—Renewable
@@ -6638,6 +6788,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,5.239999771118164,CONSE,Utilities,Utilities—Renewable
 2024-07-11,5.360000133514404,CONSE,Utilities,Utilities—Renewable
 2024-07-12,5.360000133514404,CONSE,Utilities,Utilities—Renewable
+2024-07-16,5.369999885559082,CONSE,Utilities,Utilities—Renewable
+2024-07-17,5.429999828338623,CONSE,Utilities,Utilities—Renewable
 2024-02-29,152.39999389648438,CRFSA,Consumer Defensive,Grocery Stores
 2024-03-01,163.0,CRFSA,Consumer Defensive,Grocery Stores
 2024-03-04,179.3000030517578,CRFSA,Consumer Defensive,Grocery Stores
@@ -6726,6 +6878,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,110.80000305175781,CRFSA,Consumer Defensive,Grocery Stores
 2024-07-11,116.19999694824219,CRFSA,Consumer Defensive,Grocery Stores
 2024-07-12,115.5999984741211,CRFSA,Consumer Defensive,Grocery Stores
+2024-07-16,118.5,CRFSA,Consumer Defensive,Grocery Stores
+2024-07-17,118.19999694824219,CRFSA,Consumer Defensive,Grocery Stores
 2024-02-29,30.200000762939453,CUSAN,Industrials,Building Products & Equipment
 2024-03-01,29.0,CUSAN,Industrials,Building Products & Equipment
 2024-03-04,27.899999618530273,CUSAN,Industrials,Building Products & Equipment
@@ -6814,6 +6968,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,23.040000915527344,CUSAN,Industrials,Building Products & Equipment
 2024-07-11,23.299999237060547,CUSAN,Industrials,Building Products & Equipment
 2024-07-12,23.299999237060547,CUSAN,Industrials,Building Products & Equipment
+2024-07-16,23.299999237060547,CUSAN,Industrials,Building Products & Equipment
+2024-07-17,23.719999313354492,CUSAN,Industrials,Building Products & Equipment
 2024-02-29,410.0,CVKMD,Basic Materials,Other Industrial Metals & Mining
 2024-03-01,416.75,CVKMD,Basic Materials,Other Industrial Metals & Mining
 2024-03-04,398.5,CVKMD,Basic Materials,Other Industrial Metals & Mining
@@ -6903,6 +7059,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,441.0,CVKMD,Basic Materials,Other Industrial Metals & Mining
 2024-07-11,439.0,CVKMD,Basic Materials,Other Industrial Metals & Mining
 2024-07-12,438.75,CVKMD,Basic Materials,Other Industrial Metals & Mining
+2024-07-16,450.75,CVKMD,Basic Materials,Other Industrial Metals & Mining
+2024-07-17,450.0,CVKMD,Basic Materials,Other Industrial Metals & Mining
 2024-02-29,309.25,CWENE,Technology,Solar
 2024-03-01,303.5,CWENE,Technology,Solar
 2024-03-04,297.75,CWENE,Technology,Solar
@@ -6992,6 +7150,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,196.6999969482422,CWENE,Technology,Solar
 2024-07-11,206.3000030517578,CWENE,Technology,Solar
 2024-07-12,206.10000610351562,CWENE,Technology,Solar
+2024-07-16,201.5,CWENE,Technology,Solar
+2024-07-17,201.8000030517578,CWENE,Technology,Solar
 2024-02-29,35.0,DAPGM,Real Estate,Real Estate—Development
 2024-03-01,34.119998931884766,DAPGM,Real Estate,Real Estate—Development
 2024-03-04,35.68000030517578,DAPGM,Real Estate,Real Estate—Development
@@ -7080,6 +7240,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,34.52000045776367,DAPGM,Real Estate,Real Estate—Development
 2024-07-11,35.0,DAPGM,Real Estate,Real Estate—Development
 2024-07-12,36.15999984741211,DAPGM,Real Estate,Real Estate—Development
+2024-07-16,36.91999816894531,DAPGM,Real Estate,Real Estate—Development
+2024-07-17,36.29999923706055,DAPGM,Real Estate,Real Estate—Development
 2024-02-29,13.359999656677246,DERHL,Consumer Cyclical,Apparel Manufacturing
 2024-03-01,14.3100004196167,DERHL,Consumer Cyclical,Apparel Manufacturing
 2024-03-04,15.550000190734863,DERHL,Consumer Cyclical,Apparel Manufacturing
@@ -7168,6 +7330,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,8.140000343322754,DERHL,Consumer Cyclical,Apparel Manufacturing
 2024-07-11,8.380000114440918,DERHL,Consumer Cyclical,Apparel Manufacturing
 2024-07-12,9.0600004196167,DERHL,Consumer Cyclical,Apparel Manufacturing
+2024-07-16,9.4399995803833,DERHL,Consumer Cyclical,Apparel Manufacturing
+2024-07-17,10.100000381469727,DERHL,Consumer Cyclical,Apparel Manufacturing
 2024-02-29,23.540000915527344,DESA,Consumer Cyclical,Footwear & Accessories
 2024-03-01,24.700000762939453,DESA,Consumer Cyclical,Footwear & Accessories
 2024-03-04,23.200000762939453,DESA,Consumer Cyclical,Footwear & Accessories
@@ -7256,6 +7420,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,26.100000381469727,DESA,Consumer Cyclical,Footwear & Accessories
 2024-07-11,25.959999084472656,DESA,Consumer Cyclical,Footwear & Accessories
 2024-07-12,24.940000534057617,DESA,Consumer Cyclical,Footwear & Accessories
+2024-07-16,25.15999984741211,DESA,Consumer Cyclical,Footwear & Accessories
+2024-07-17,25.059999465942383,DESA,Consumer Cyclical,Footwear & Accessories
 2024-02-29,45.540000915527344,DESPC,Technology,Electronics & Computer Distribution
 2024-03-01,45.15999984741211,DESPC,Technology,Electronics & Computer Distribution
 2024-03-04,43.5,DESPC,Technology,Electronics & Computer Distribution
@@ -7344,6 +7510,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,38.20000076293945,DESPC,Technology,Electronics & Computer Distribution
 2024-07-11,39.099998474121094,DESPC,Technology,Electronics & Computer Distribution
 2024-07-12,39.619998931884766,DESPC,Technology,Electronics & Computer Distribution
+2024-07-16,39.31999969482422,DESPC,Technology,Electronics & Computer Distribution
+2024-07-17,40.099998474121094,DESPC,Technology,Electronics & Computer Distribution
 2024-02-29,77.75,DEVA,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-03-01,79.25,DEVA,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-03-04,76.0,DEVA,Healthcare,Drug Manufacturers—Specialty & Generic
@@ -7432,6 +7600,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,75.44999694824219,DEVA,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-07-11,76.5,DEVA,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-07-12,77.30000305175781,DEVA,Healthcare,Drug Manufacturers—Specialty & Generic
+2024-07-16,75.9000015258789,DEVA,Healthcare,Drug Manufacturers—Specialty & Generic
+2024-07-17,76.19999694824219,DEVA,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-02-29,43.79999923706055,DGATE,Technology,Electronics & Computer Distribution
 2024-03-01,43.97999954223633,DGATE,Technology,Electronics & Computer Distribution
 2024-03-04,40.7400016784668,DGATE,Technology,Electronics & Computer Distribution
@@ -7520,6 +7690,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,34.15999984741211,DGATE,Technology,Electronics & Computer Distribution
 2024-07-11,33.099998474121094,DGATE,Technology,Electronics & Computer Distribution
 2024-07-12,34.099998474121094,DGATE,Technology,Electronics & Computer Distribution
+2024-07-16,34.79999923706055,DGATE,Technology,Electronics & Computer Distribution
+2024-07-17,35.84000015258789,DGATE,Technology,Electronics & Computer Distribution
 2024-02-29,11.449999809265137,DGNMO,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-03-01,11.470000267028809,DGNMO,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-03-04,11.4399995803833,DGNMO,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
@@ -7608,6 +7780,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,10.84000015258789,DGNMO,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-07-11,11.600000381469727,DGNMO,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-07-12,11.489999771118164,DGNMO,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+2024-07-16,12.020000457763672,DGNMO,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+2024-07-17,11.880000114440918,DGNMO,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-02-29,16.31999969482422,DMRGD,Consumer Defensive,Packaged Foods
 2024-03-01,16.610000610351562,DMRGD,Consumer Defensive,Packaged Foods
 2024-03-04,17.059999465942383,DMRGD,Consumer Defensive,Packaged Foods
@@ -7697,6 +7871,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,14.510000228881836,DMRGD,Consumer Defensive,Packaged Foods
 2024-07-11,14.270000457763672,DMRGD,Consumer Defensive,Packaged Foods
 2024-07-12,14.399999618530273,DMRGD,Consumer Defensive,Packaged Foods
+2024-07-16,14.369999885559082,DMRGD,Consumer Defensive,Packaged Foods
+2024-07-17,14.59000015258789,DMRGD,Consumer Defensive,Packaged Foods
 2024-02-29,267.25,DOAS,Consumer Cyclical,Auto & Truck Dealerships
 2024-03-01,264.0,DOAS,Consumer Cyclical,Auto & Truck Dealerships
 2024-03-04,267.5,DOAS,Consumer Cyclical,Auto & Truck Dealerships
@@ -7785,6 +7961,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,261.0,DOAS,Consumer Cyclical,Auto & Truck Dealerships
 2024-07-11,267.0,DOAS,Consumer Cyclical,Auto & Truck Dealerships
 2024-07-12,271.5,DOAS,Consumer Cyclical,Auto & Truck Dealerships
+2024-07-16,270.25,DOAS,Consumer Cyclical,Auto & Truck Dealerships
+2024-07-17,266.75,DOAS,Consumer Cyclical,Auto & Truck Dealerships
 2024-02-29,49.0,DOFER,Basic Materials,Steel
 2024-03-01,47.20000076293945,DOFER,Basic Materials,Steel
 2024-03-04,48.0,DOFER,Basic Materials,Steel
@@ -7874,6 +8052,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,37.15999984741211,DOFER,Basic Materials,Steel
 2024-07-11,37.060001373291016,DOFER,Basic Materials,Steel
 2024-07-12,39.02000045776367,DOFER,Basic Materials,Steel
+2024-07-16,37.70000076293945,DOFER,Basic Materials,Steel
+2024-07-17,37.7400016784668,DOFER,Basic Materials,Steel
 2024-02-29,13.550000190734863,DOHOL,Industrials,Conglomerates
 2024-03-01,13.789999961853027,DOHOL,Industrials,Conglomerates
 2024-03-04,13.489999771118164,DOHOL,Industrials,Conglomerates
@@ -7962,6 +8142,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,16.299999237060547,DOHOL,Industrials,Conglomerates
 2024-07-11,17.260000228881836,DOHOL,Industrials,Conglomerates
 2024-07-12,17.31999969482422,DOHOL,Industrials,Conglomerates
+2024-07-16,17.190000534057617,DOHOL,Industrials,Conglomerates
+2024-07-17,17.270000457763672,DOHOL,Industrials,Conglomerates
 2024-02-29,66.9000015258789,EBEBK,Consumer Cyclical,Specialty Retail
 2024-03-01,67.30000305175781,EBEBK,Consumer Cyclical,Specialty Retail
 2024-03-04,65.69999694824219,EBEBK,Consumer Cyclical,Specialty Retail
@@ -8051,6 +8233,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,44.41999816894531,EBEBK,Consumer Cyclical,Specialty Retail
 2024-07-11,45.41999816894531,EBEBK,Consumer Cyclical,Specialty Retail
 2024-07-12,46.5,EBEBK,Consumer Cyclical,Specialty Retail
+2024-07-16,47.20000076293945,EBEBK,Consumer Cyclical,Specialty Retail
+2024-07-17,49.97999954223633,EBEBK,Consumer Cyclical,Specialty Retail
 2024-02-29,53.70000076293945,ECILC,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-03-01,54.5,ECILC,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-03-04,51.45000076293945,ECILC,Healthcare,Drug Manufacturers—Specialty & Generic
@@ -8139,6 +8323,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,50.79999923706055,ECILC,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-07-11,52.349998474121094,ECILC,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-07-12,53.599998474121094,ECILC,Healthcare,Drug Manufacturers—Specialty & Generic
+2024-07-16,54.349998474121094,ECILC,Healthcare,Drug Manufacturers—Specialty & Generic
+2024-07-17,53.849998474121094,ECILC,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-02-29,267.25,ECZYT,Industrials,Conglomerates
 2024-03-01,259.75,ECZYT,Industrials,Conglomerates
 2024-03-04,252.0,ECZYT,Industrials,Conglomerates
@@ -8227,6 +8413,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,216.5,ECZYT,Industrials,Conglomerates
 2024-07-11,224.8000030517578,ECZYT,Industrials,Conglomerates
 2024-07-12,225.0,ECZYT,Industrials,Conglomerates
+2024-07-16,235.0,ECZYT,Industrials,Conglomerates
+2024-07-17,229.10000610351562,ECZYT,Industrials,Conglomerates
 2024-03-11,30.719999313354492,EDATA,Technology,Information Technology Services
 2024-03-12,28.200000762939453,EDATA,Technology,Information Technology Services
 2024-03-13,29.15999984741211,EDATA,Technology,Information Technology Services
@@ -8308,6 +8496,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,15.949999809265137,EDATA,Technology,Information Technology Services
 2024-07-11,16.229999542236328,EDATA,Technology,Information Technology Services
 2024-07-12,16.559999465942383,EDATA,Technology,Information Technology Services
+2024-07-16,16.8799991607666,EDATA,Technology,Information Technology Services
+2024-07-17,17.5,EDATA,Technology,Information Technology Services
 2024-02-29,20.100000381469727,EGEPO,Healthcare,Medical Care Facilities
 2024-03-01,20.219999313354492,EGEPO,Healthcare,Medical Care Facilities
 2024-03-04,19.799999237060547,EGEPO,Healthcare,Medical Care Facilities
@@ -8397,6 +8587,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,19.299999237060547,EGEPO,Healthcare,Medical Care Facilities
 2024-07-11,19.700000762939453,EGEPO,Healthcare,Medical Care Facilities
 2024-07-12,20.440000534057617,EGEPO,Healthcare,Medical Care Facilities
+2024-07-16,20.219999313354492,EGEPO,Healthcare,Medical Care Facilities
+2024-07-17,19.760000228881836,EGEPO,Healthcare,Medical Care Facilities
 2024-02-29,216.8000030517578,EGPRO,Industrials,Building Products & Equipment
 2024-03-01,212.0,EGPRO,Industrials,Building Products & Equipment
 2024-03-04,213.60000610351562,EGPRO,Industrials,Building Products & Equipment
@@ -8485,6 +8677,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,198.3000030517578,EGPRO,Industrials,Building Products & Equipment
 2024-07-11,203.39999389648438,EGPRO,Industrials,Building Products & Equipment
 2024-07-12,205.1999969482422,EGPRO,Industrials,Building Products & Equipment
+2024-07-16,207.3000030517578,EGPRO,Industrials,Building Products & Equipment
+2024-07-17,207.0,EGPRO,Industrials,Building Products & Equipment
 2024-02-29,11.100000381469727,EKGYO,Real Estate,REIT—Residential
 2024-03-01,11.34000015258789,EKGYO,Real Estate,REIT—Residential
 2024-03-04,11.40999984741211,EKGYO,Real Estate,REIT—Residential
@@ -8573,6 +8767,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,11.069999694824219,EKGYO,Real Estate,REIT—Residential
 2024-07-11,11.350000381469727,EKGYO,Real Estate,REIT—Residential
 2024-07-12,11.25,EKGYO,Real Estate,REIT—Residential
+2024-07-16,11.140000343322754,EKGYO,Real Estate,REIT—Residential
+2024-07-17,11.5,EKGYO,Real Estate,REIT—Residential
 2024-02-29,59.349998474121094,EKOS,Industrials,Electrical Equipment & Parts
 2024-03-01,57.29999923706055,EKOS,Industrials,Electrical Equipment & Parts
 2024-03-04,56.0,EKOS,Industrials,Electrical Equipment & Parts
@@ -8662,6 +8858,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,31.299999237060547,EKOS,Industrials,Electrical Equipment & Parts
 2024-07-11,32.29999923706055,EKOS,Industrials,Electrical Equipment & Parts
 2024-07-12,32.65999984741211,EKOS,Industrials,Electrical Equipment & Parts
+2024-07-16,32.880001068115234,EKOS,Industrials,Electrical Equipment & Parts
+2024-07-17,33.81999969482422,EKOS,Industrials,Electrical Equipment & Parts
 2024-02-29,54.70000076293945,ELITE,Consumer Defensive,Beverages—Non-Alcoholic
 2024-03-01,56.04999923706055,ELITE,Consumer Defensive,Beverages—Non-Alcoholic
 2024-03-04,54.20000076293945,ELITE,Consumer Defensive,Beverages—Non-Alcoholic
@@ -8750,6 +8948,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,27.719999313354492,ELITE,Consumer Defensive,Beverages—Non-Alcoholic
 2024-07-11,28.700000762939453,ELITE,Consumer Defensive,Beverages—Non-Alcoholic
 2024-07-12,29.3799991607666,ELITE,Consumer Defensive,Beverages—Non-Alcoholic
+2024-07-16,30.34000015258789,ELITE,Consumer Defensive,Beverages—Non-Alcoholic
+2024-07-17,31.559999465942383,ELITE,Consumer Defensive,Beverages—Non-Alcoholic
 2024-02-29,148.0,ENERY,Utilities,Utilities—Regulated Gas
 2024-03-01,150.0,ENERY,Utilities,Utilities—Regulated Gas
 2024-03-04,146.0,ENERY,Utilities,Utilities—Regulated Gas
@@ -8839,6 +9039,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,181.6999969482422,ENERY,Utilities,Utilities—Regulated Gas
 2024-07-11,190.1999969482422,ENERY,Utilities,Utilities—Regulated Gas
 2024-07-12,184.0,ENERY,Utilities,Utilities—Regulated Gas
+2024-07-16,182.1999969482422,ENERY,Utilities,Utilities—Regulated Gas
+2024-07-17,182.0,ENERY,Utilities,Utilities—Regulated Gas
 2024-02-29,62.400001525878906,ENJSA,Utilities,Utilities—Regulated Electric
 2024-03-01,62.0,ENJSA,Utilities,Utilities—Regulated Electric
 2024-03-04,60.150001525878906,ENJSA,Utilities,Utilities—Regulated Electric
@@ -8927,6 +9129,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,64.80000305175781,ENJSA,Utilities,Utilities—Regulated Electric
 2024-07-11,65.5,ENJSA,Utilities,Utilities—Regulated Electric
 2024-07-12,65.6500015258789,ENJSA,Utilities,Utilities—Regulated Electric
+2024-07-16,66.6500015258789,ENJSA,Utilities,Utilities—Regulated Electric
+2024-07-17,66.05000305175781,ENJSA,Utilities,Utilities—Regulated Electric
 2024-02-29,37.79999923706055,ENKAI,Industrials,Engineering & Construction
 2024-03-01,37.18000030517578,ENKAI,Industrials,Engineering & Construction
 2024-03-04,37.13999938964844,ENKAI,Industrials,Engineering & Construction
@@ -9015,6 +9219,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,40.70000076293945,ENKAI,Industrials,Engineering & Construction
 2024-07-11,41.41999816894531,ENKAI,Industrials,Engineering & Construction
 2024-07-12,42.13999938964844,ENKAI,Industrials,Engineering & Construction
+2024-07-16,43.31999969482422,ENKAI,Industrials,Engineering & Construction
+2024-07-17,43.20000076293945,ENKAI,Industrials,Engineering & Construction
 2024-05-02,12.390000343322754,ENTRA,Unknown,Unknown
 2024-05-03,12.109999656677246,ENTRA,Unknown,Unknown
 2024-05-06,11.960000038146973,ENTRA,Unknown,Unknown
@@ -9064,6 +9270,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,9.90999984741211,ENTRA,Unknown,Unknown
 2024-07-11,10.039999961853027,ENTRA,Unknown,Unknown
 2024-07-12,9.979999542236328,ENTRA,Unknown,Unknown
+2024-07-16,9.970000267028809,ENTRA,Unknown,Unknown
+2024-07-17,9.970000267028809,ENTRA,Unknown,Unknown
 2024-02-29,45.52000045776367,EREGL,Basic Materials,Steel
 2024-03-01,45.939998626708984,EREGL,Basic Materials,Steel
 2024-03-04,46.02000045776367,EREGL,Basic Materials,Steel
@@ -9152,6 +9360,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,55.0,EREGL,Basic Materials,Steel
 2024-07-11,55.150001525878906,EREGL,Basic Materials,Steel
 2024-07-12,55.25,EREGL,Basic Materials,Steel
+2024-07-16,56.900001525878906,EREGL,Basic Materials,Steel
+2024-07-17,56.70000076293945,EREGL,Basic Materials,Steel
 2024-02-29,186.3000030517578,ESCAR,Industrials,Rental & Leasing Services
 2024-03-01,200.0,ESCAR,Industrials,Rental & Leasing Services
 2024-03-04,208.60000610351562,ESCAR,Industrials,Rental & Leasing Services
@@ -9240,6 +9450,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,377.5,ESCAR,Industrials,Rental & Leasing Services
 2024-07-11,363.75,ESCAR,Industrials,Rental & Leasing Services
 2024-07-12,353.5,ESCAR,Industrials,Rental & Leasing Services
+2024-07-16,368.0,ESCAR,Industrials,Rental & Leasing Services
+2024-07-17,364.75,ESCAR,Industrials,Rental & Leasing Services
 2024-02-29,91.3499984741211,ESCOM,Technology,Information Technology Services
 2024-03-01,87.94999694824219,ESCOM,Technology,Information Technology Services
 2024-03-04,86.5,ESCOM,Technology,Information Technology Services
@@ -9328,6 +9540,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,57.04999923706055,ESCOM,Technology,Information Technology Services
 2024-07-11,57.599998474121094,ESCOM,Technology,Information Technology Services
 2024-07-12,57.75,ESCOM,Technology,Information Technology Services
+2024-07-16,57.70000076293945,ESCOM,Technology,Information Technology Services
+2024-07-17,57.900001525878906,ESCOM,Technology,Information Technology Services
 2024-02-29,23.020000457763672,ESEN,Utilities,Utilities—Renewable
 2024-03-01,23.239999771118164,ESEN,Utilities,Utilities—Renewable
 2024-03-04,21.940000534057617,ESEN,Utilities,Utilities—Renewable
@@ -9416,6 +9630,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,21.100000381469727,ESEN,Utilities,Utilities—Renewable
 2024-07-11,21.65999984741211,ESEN,Utilities,Utilities—Renewable
 2024-07-12,21.420000076293945,ESEN,Utilities,Utilities—Renewable
+2024-07-16,21.260000228881836,ESEN,Utilities,Utilities—Renewable
+2024-07-17,21.399999618530273,ESEN,Utilities,Utilities—Renewable
 2024-02-29,174.10000610351562,EUPWR,Industrials,Electrical Equipment & Parts
 2024-03-01,170.1999969482422,EUPWR,Industrials,Electrical Equipment & Parts
 2024-03-04,166.3000030517578,EUPWR,Industrials,Electrical Equipment & Parts
@@ -9505,6 +9721,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,91.9000015258789,EUPWR,Industrials,Electrical Equipment & Parts
 2024-07-11,96.4000015258789,EUPWR,Industrials,Electrical Equipment & Parts
 2024-07-12,95.94999694824219,EUPWR,Industrials,Electrical Equipment & Parts
+2024-07-16,93.8499984741211,EUPWR,Industrials,Electrical Equipment & Parts
+2024-07-17,93.94999694824219,EUPWR,Industrials,Electrical Equipment & Parts
 2024-02-29,19.440000534057617,EUREN,Industrials,Building Products & Equipment
 2024-03-01,20.200000762939453,EUREN,Industrials,Building Products & Equipment
 2024-03-04,21.31999969482422,EUREN,Industrials,Building Products & Equipment
@@ -9594,6 +9812,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,14.319999694824219,EUREN,Industrials,Building Products & Equipment
 2024-07-11,14.649999618530273,EUREN,Industrials,Building Products & Equipment
 2024-07-12,14.930000305175781,EUREN,Industrials,Building Products & Equipment
+2024-07-16,14.670000076293945,EUREN,Industrials,Building Products & Equipment
+2024-07-17,14.84000015258789,EUREN,Industrials,Building Products & Equipment
 2024-02-29,20.239999771118164,FADE,Consumer Defensive,Packaged Foods
 2024-03-01,19.719999313354492,FADE,Consumer Defensive,Packaged Foods
 2024-03-04,20.020000457763672,FADE,Consumer Defensive,Packaged Foods
@@ -9682,6 +9902,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,16.3799991607666,FADE,Consumer Defensive,Packaged Foods
 2024-07-11,16.059999465942383,FADE,Consumer Defensive,Packaged Foods
 2024-07-12,16.09000015258789,FADE,Consumer Defensive,Packaged Foods
+2024-07-16,16.030000686645508,FADE,Consumer Defensive,Packaged Foods
+2024-07-17,15.979999542236328,FADE,Consumer Defensive,Packaged Foods
 2024-02-29,36.439998626708984,FONET,Healthcare,Health Information Services
 2024-03-01,40.08000183105469,FONET,Healthcare,Health Information Services
 2024-03-04,44.08000183105469,FONET,Healthcare,Health Information Services
@@ -9770,6 +9992,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,16.110000610351562,FONET,Healthcare,Health Information Services
 2024-07-11,16.25,FONET,Healthcare,Health Information Services
 2024-07-12,16.479999542236328,FONET,Healthcare,Health Information Services
+2024-07-16,16.920000076293945,FONET,Healthcare,Health Information Services
+2024-07-17,16.850000381469727,FONET,Healthcare,Health Information Services
 2024-02-29,90.94999694824219,FORTE,Technology,Software—Application
 2024-03-01,86.8499984741211,FORTE,Technology,Software—Application
 2024-03-04,82.55000305175781,FORTE,Technology,Software—Application
@@ -9859,6 +10083,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,51.349998474121094,FORTE,Technology,Software—Application
 2024-07-11,52.849998474121094,FORTE,Technology,Software—Application
 2024-07-12,53.29999923706055,FORTE,Technology,Software—Application
+2024-07-16,53.599998474121094,FORTE,Technology,Software—Application
+2024-07-17,54.099998474121094,FORTE,Technology,Software—Application
 2024-02-29,8.649999618530273,FRIGO,Consumer Defensive,Packaged Foods
 2024-03-01,8.850000381469727,FRIGO,Consumer Defensive,Packaged Foods
 2024-03-04,8.600000381469727,FRIGO,Consumer Defensive,Packaged Foods
@@ -9947,6 +10173,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,7.739999771118164,FRIGO,Consumer Defensive,Packaged Foods
 2024-07-11,7.949999809265137,FRIGO,Consumer Defensive,Packaged Foods
 2024-07-12,7.960000038146973,FRIGO,Consumer Defensive,Packaged Foods
+2024-07-16,8.260000228881836,FRIGO,Consumer Defensive,Packaged Foods
+2024-07-17,8.239999771118164,FRIGO,Consumer Defensive,Packaged Foods
 2024-02-29,1017.0,FROTO,Consumer Cyclical,Auto Manufacturers
 2024-03-01,1008.0,FROTO,Consumer Cyclical,Auto Manufacturers
 2024-03-04,983.0,FROTO,Consumer Cyclical,Auto Manufacturers
@@ -10035,6 +10263,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,1039.0,FROTO,Consumer Cyclical,Auto Manufacturers
 2024-07-11,1078.0,FROTO,Consumer Cyclical,Auto Manufacturers
 2024-07-12,1069.0,FROTO,Consumer Cyclical,Auto Manufacturers
+2024-07-16,1057.0,FROTO,Consumer Cyclical,Auto Manufacturers
+2024-07-17,1053.0,FROTO,Consumer Cyclical,Auto Manufacturers
 2024-02-29,15.479999542236328,FZLGY,Real Estate,REIT—Residential
 2024-03-01,15.84000015258789,FZLGY,Real Estate,REIT—Residential
 2024-03-04,14.890000343322754,FZLGY,Real Estate,REIT—Residential
@@ -10124,6 +10354,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,11.75,FZLGY,Real Estate,REIT—Residential
 2024-07-11,12.039999961853027,FZLGY,Real Estate,REIT—Residential
 2024-07-12,12.119999885559082,FZLGY,Real Estate,REIT—Residential
+2024-07-16,12.329999923706055,FZLGY,Real Estate,REIT—Residential
+2024-07-17,12.529999732971191,FZLGY,Real Estate,REIT—Residential
 2024-02-29,63.099998474121094,GARAN,Financial Services,Banks—Regional
 2024-03-01,61.849998474121094,GARAN,Financial Services,Banks—Regional
 2024-03-04,60.25,GARAN,Financial Services,Banks—Regional
@@ -10212,6 +10444,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,123.30000305175781,GARAN,Financial Services,Banks—Regional
 2024-07-11,132.39999389648438,GARAN,Financial Services,Banks—Regional
 2024-07-12,132.5,GARAN,Financial Services,Banks—Regional
+2024-07-16,132.89999389648438,GARAN,Financial Services,Banks—Regional
+2024-07-17,132.5,GARAN,Financial Services,Banks—Regional
 2024-02-29,35.47999954223633,GARFA,Financial Services,Credit Services
 2024-03-01,36.0,GARFA,Financial Services,Credit Services
 2024-03-04,34.63999938964844,GARFA,Financial Services,Credit Services
@@ -10301,6 +10535,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,21.479999542236328,GARFA,Financial Services,Credit Services
 2024-07-11,21.780000686645508,GARFA,Financial Services,Credit Services
 2024-07-12,21.940000534057617,GARFA,Financial Services,Credit Services
+2024-07-16,24.1200008392334,GARFA,Financial Services,Credit Services
+2024-07-17,26.520000457763672,GARFA,Financial Services,Credit Services
 2024-02-29,14.739999771118164,GEDIK,Financial Services,Capital Markets
 2024-03-01,15.270000457763672,GEDIK,Financial Services,Capital Markets
 2024-03-04,15.029999732971191,GEDIK,Financial Services,Capital Markets
@@ -10389,6 +10625,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,14.899999618530273,GEDIK,Financial Services,Capital Markets
 2024-07-11,14.899999618530273,GEDIK,Financial Services,Capital Markets
 2024-07-12,14.979999542236328,GEDIK,Financial Services,Capital Markets
+2024-07-16,14.850000381469727,GEDIK,Financial Services,Capital Markets
+2024-07-17,14.720000267028809,GEDIK,Financial Services,Capital Markets
 2024-02-29,28.559999465942383,GEDZA,Basic Materials,Specialty Chemicals
 2024-03-01,28.65999984741211,GEDZA,Basic Materials,Specialty Chemicals
 2024-03-04,27.8799991607666,GEDZA,Basic Materials,Specialty Chemicals
@@ -10477,6 +10715,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,23.760000228881836,GEDZA,Basic Materials,Specialty Chemicals
 2024-07-11,24.479999542236328,GEDZA,Basic Materials,Specialty Chemicals
 2024-07-12,24.440000534057617,GEDZA,Basic Materials,Specialty Chemicals
+2024-07-16,24.6200008392334,GEDZA,Basic Materials,Specialty Chemicals
+2024-07-17,24.899999618530273,GEDZA,Basic Materials,Specialty Chemicals
 2024-02-29,71.9000015258789,GENIL,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-03-01,74.0,GENIL,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-03-04,74.0,GENIL,Healthcare,Drug Manufacturers—Specialty & Generic
@@ -10565,6 +10805,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,68.94999694824219,GENIL,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-07-11,71.3499984741211,GENIL,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-07-12,71.0,GENIL,Healthcare,Drug Manufacturers—Specialty & Generic
+2024-07-16,69.0999984741211,GENIL,Healthcare,Drug Manufacturers—Specialty & Generic
+2024-07-17,69.3499984741211,GENIL,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-02-29,9.789999961853027,GENTS,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-03-01,9.770000457763672,GENTS,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-03-04,10.300000190734863,GENTS,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
@@ -10653,6 +10895,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,8.800000190734863,GENTS,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-07-11,9.199999809265137,GENTS,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-07-12,9.319999694824219,GENTS,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+2024-07-16,9.5,GENTS,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+2024-07-17,9.449999809265137,GENTS,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-02-29,77.5,GESAN,Industrials,Engineering & Construction
 2024-03-01,76.69999694824219,GESAN,Industrials,Engineering & Construction
 2024-03-04,74.0,GESAN,Industrials,Engineering & Construction
@@ -10741,6 +10985,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,46.70000076293945,GESAN,Industrials,Engineering & Construction
 2024-07-11,49.41999816894531,GESAN,Industrials,Engineering & Construction
 2024-07-12,49.68000030517578,GESAN,Industrials,Engineering & Construction
+2024-07-16,48.540000915527344,GESAN,Industrials,Engineering & Construction
+2024-07-17,48.5,GESAN,Industrials,Engineering & Construction
 2024-02-29,45.5,GIPTA,Consumer Cyclical,Specialty Retail
 2024-03-01,45.20000076293945,GIPTA,Consumer Cyclical,Specialty Retail
 2024-03-04,44.939998626708984,GIPTA,Consumer Cyclical,Specialty Retail
@@ -10830,6 +11076,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,29.899999618530273,GIPTA,Consumer Cyclical,Specialty Retail
 2024-07-11,30.5,GIPTA,Consumer Cyclical,Specialty Retail
 2024-07-12,30.600000381469727,GIPTA,Consumer Cyclical,Specialty Retail
+2024-07-16,31.65999984741211,GIPTA,Consumer Cyclical,Specialty Retail
+2024-07-17,33.2599983215332,GIPTA,Consumer Cyclical,Specialty Retail
 2024-02-29,46.900001525878906,GLCVY,Financial Services,Asset Management
 2024-03-01,50.5,GLCVY,Financial Services,Asset Management
 2024-03-04,49.279998779296875,GLCVY,Financial Services,Asset Management
@@ -10918,6 +11166,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,42.31999969482422,GLCVY,Financial Services,Asset Management
 2024-07-11,43.97999954223633,GLCVY,Financial Services,Asset Management
 2024-07-12,44.040000915527344,GLCVY,Financial Services,Asset Management
+2024-07-16,46.099998474121094,GLCVY,Financial Services,Asset Management
+2024-07-17,45.220001220703125,GLCVY,Financial Services,Asset Management
 2024-02-29,14.279999732971191,GLRYH,Financial Services,Asset Management
 2024-03-01,14.149999618530273,GLRYH,Financial Services,Asset Management
 2024-03-04,14.869999885559082,GLRYH,Financial Services,Asset Management
@@ -11006,6 +11256,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,12.010000228881836,GLRYH,Financial Services,Asset Management
 2024-07-11,11.989999771118164,GLRYH,Financial Services,Asset Management
 2024-07-12,11.890000343322754,GLRYH,Financial Services,Asset Management
+2024-07-16,11.789999961853027,GLRYH,Financial Services,Asset Management
+2024-07-17,11.979999542236328,GLRYH,Financial Services,Asset Management
 2024-02-29,12.579999923706055,GLYHO,Industrials,Conglomerates
 2024-03-01,13.0,GLYHO,Industrials,Conglomerates
 2024-03-04,12.680000305175781,GLYHO,Industrials,Conglomerates
@@ -11094,6 +11346,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,14.170000076293945,GLYHO,Industrials,Conglomerates
 2024-07-11,15.579999923706055,GLYHO,Industrials,Conglomerates
 2024-07-12,15.59000015258789,GLYHO,Industrials,Conglomerates
+2024-07-16,15.739999771118164,GLYHO,Industrials,Conglomerates
+2024-07-17,16.079999923706055,GLYHO,Industrials,Conglomerates
 2024-02-29,24.440000534057617,GOKNR,Consumer Defensive,Packaged Foods
 2024-03-01,25.979999542236328,GOKNR,Consumer Defensive,Packaged Foods
 2024-03-04,26.459999084472656,GOKNR,Consumer Defensive,Packaged Foods
@@ -11182,6 +11436,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,28.979999542236328,GOKNR,Consumer Defensive,Packaged Foods
 2024-07-11,30.0,GOKNR,Consumer Defensive,Packaged Foods
 2024-07-12,29.5,GOKNR,Consumer Defensive,Packaged Foods
+2024-07-16,29.540000915527344,GOKNR,Consumer Defensive,Packaged Foods
+2024-07-17,31.260000228881836,GOKNR,Consumer Defensive,Packaged Foods
 2024-02-29,318.0,GOLTS,Basic Materials,Building Materials
 2024-03-01,306.5,GOLTS,Basic Materials,Building Materials
 2024-03-04,306.5,GOLTS,Basic Materials,Building Materials
@@ -11270,6 +11526,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,519.0,GOLTS,Basic Materials,Building Materials
 2024-07-11,524.0,GOLTS,Basic Materials,Building Materials
 2024-07-12,553.5,GOLTS,Basic Materials,Building Materials
+2024-07-16,548.5,GOLTS,Basic Materials,Building Materials
+2024-07-17,547.5,GOLTS,Basic Materials,Building Materials
 2024-02-29,22.799999237060547,GOODY,Consumer Cyclical,Auto Parts
 2024-03-01,23.139999389648438,GOODY,Consumer Cyclical,Auto Parts
 2024-03-04,23.260000228881836,GOODY,Consumer Cyclical,Auto Parts
@@ -11358,6 +11616,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,19.510000228881836,GOODY,Consumer Cyclical,Auto Parts
 2024-07-11,20.940000534057617,GOODY,Consumer Cyclical,Auto Parts
 2024-07-12,20.899999618530273,GOODY,Consumer Cyclical,Auto Parts
+2024-07-16,21.219999313354492,GOODY,Consumer Cyclical,Auto Parts
+2024-07-17,21.100000381469727,GOODY,Consumer Cyclical,Auto Parts
 2024-02-29,25.299999237060547,GOZDE,Financial Services,Asset Management
 2024-03-01,25.479999542236328,GOZDE,Financial Services,Asset Management
 2024-03-04,26.0,GOZDE,Financial Services,Asset Management
@@ -11446,6 +11706,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,29.360000610351562,GOZDE,Financial Services,Asset Management
 2024-07-11,29.600000381469727,GOZDE,Financial Services,Asset Management
 2024-07-12,29.100000381469727,GOZDE,Financial Services,Asset Management
+2024-07-16,29.15999984741211,GOZDE,Financial Services,Asset Management
+2024-07-17,28.6200008392334,GOZDE,Financial Services,Asset Management
 2024-02-29,80.5,GRSEL,Industrials,Railroads
 2024-03-01,79.55000305175781,GRSEL,Industrials,Railroads
 2024-03-04,76.55000305175781,GRSEL,Industrials,Railroads
@@ -11535,6 +11797,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,138.0,GRSEL,Industrials,Railroads
 2024-07-11,136.1999969482422,GRSEL,Industrials,Railroads
 2024-07-12,135.6999969482422,GRSEL,Industrials,Railroads
+2024-07-16,133.5,GRSEL,Industrials,Railroads
+2024-07-17,133.8000030517578,GRSEL,Industrials,Railroads
 2024-02-29,10.180000305175781,GSDDE,Industrials,Marine Shipping
 2024-03-01,10.40999984741211,GSDDE,Industrials,Marine Shipping
 2024-03-04,10.010000228881836,GSDDE,Industrials,Marine Shipping
@@ -11623,6 +11887,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,8.5600004196167,GSDDE,Industrials,Marine Shipping
 2024-07-11,8.75,GSDDE,Industrials,Marine Shipping
 2024-07-12,8.869999885559082,GSDDE,Industrials,Marine Shipping
+2024-07-16,8.899999618530273,GSDDE,Industrials,Marine Shipping
+2024-07-17,8.9399995803833,GSDDE,Industrials,Marine Shipping
 2024-02-29,4.349999904632568,GSDHO,Industrials,Marine Shipping
 2024-03-01,4.420000076293945,GSDHO,Industrials,Marine Shipping
 2024-03-04,4.230000019073486,GSDHO,Industrials,Marine Shipping
@@ -11711,6 +11977,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,3.890000104904175,GSDHO,Industrials,Marine Shipping
 2024-07-11,4.0,GSDHO,Industrials,Marine Shipping
 2024-07-12,4.010000228881836,GSDHO,Industrials,Marine Shipping
+2024-07-16,4.079999923706055,GSDHO,Industrials,Marine Shipping
+2024-07-17,4.090000152587891,GSDHO,Industrials,Marine Shipping
 2024-02-29,200.60000610351562,GUBRF,Basic Materials,Agricultural Inputs
 2024-03-01,195.6999969482422,GUBRF,Basic Materials,Agricultural Inputs
 2024-03-04,187.8000030517578,GUBRF,Basic Materials,Agricultural Inputs
@@ -11799,6 +12067,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,138.8000030517578,GUBRF,Basic Materials,Agricultural Inputs
 2024-07-11,152.60000610351562,GUBRF,Basic Materials,Agricultural Inputs
 2024-07-12,167.8000030517578,GUBRF,Basic Materials,Agricultural Inputs
+2024-07-16,166.8000030517578,GUBRF,Basic Materials,Agricultural Inputs
+2024-07-17,168.0,GUBRF,Basic Materials,Agricultural Inputs
 2024-02-29,27.860000610351562,GWIND,Utilities,Utilities—Renewable
 2024-03-01,27.81999969482422,GWIND,Utilities,Utilities—Renewable
 2024-03-04,27.0,GWIND,Utilities,Utilities—Renewable
@@ -11887,6 +12157,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,32.599998474121094,GWIND,Utilities,Utilities—Renewable
 2024-07-11,32.7599983215332,GWIND,Utilities,Utilities—Renewable
 2024-07-12,32.0,GWIND,Utilities,Utilities—Renewable
+2024-07-16,33.20000076293945,GWIND,Utilities,Utilities—Renewable
+2024-07-17,33.5,GWIND,Utilities,Utilities—Renewable
 2024-02-29,40.099998474121094,GZNMI,Consumer Cyclical,Travel Services
 2024-03-01,41.13999938964844,GZNMI,Consumer Cyclical,Travel Services
 2024-03-04,41.29999923706055,GZNMI,Consumer Cyclical,Travel Services
@@ -11975,6 +12247,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,32.380001068115234,GZNMI,Consumer Cyclical,Travel Services
 2024-07-11,32.58000183105469,GZNMI,Consumer Cyclical,Travel Services
 2024-07-12,32.7400016784668,GZNMI,Consumer Cyclical,Travel Services
+2024-07-16,34.279998779296875,GZNMI,Consumer Cyclical,Travel Services
+2024-07-17,34.63999938964844,GZNMI,Consumer Cyclical,Travel Services
 2024-02-29,14.479999542236328,HALKB,Financial Services,Banks—Regional
 2024-03-01,14.279999732971191,HALKB,Financial Services,Banks—Regional
 2024-03-04,13.75,HALKB,Financial Services,Banks—Regional
@@ -12063,6 +12337,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,18.40999984741211,HALKB,Financial Services,Banks—Regional
 2024-07-11,18.979999542236328,HALKB,Financial Services,Banks—Regional
 2024-07-12,18.860000610351562,HALKB,Financial Services,Banks—Regional
+2024-07-16,18.920000076293945,HALKB,Financial Services,Banks—Regional
+2024-07-17,19.450000762939453,HALKB,Financial Services,Banks—Regional
 2024-02-29,16.299999237060547,HATEK,Consumer Cyclical,Textile Manufacturing
 2024-03-01,16.280000686645508,HATEK,Consumer Cyclical,Textile Manufacturing
 2024-03-04,16.489999771118164,HATEK,Consumer Cyclical,Textile Manufacturing
@@ -12151,6 +12427,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,12.829999923706055,HATEK,Consumer Cyclical,Textile Manufacturing
 2024-07-11,13.170000076293945,HATEK,Consumer Cyclical,Textile Manufacturing
 2024-07-12,13.279999732971191,HATEK,Consumer Cyclical,Textile Manufacturing
+2024-07-16,13.369999885559082,HATEK,Consumer Cyclical,Textile Manufacturing
+2024-07-17,13.460000038146973,HATEK,Consumer Cyclical,Textile Manufacturing
 2024-02-29,86.0,HATSN,Industrials,Aerospace & Defense
 2024-03-01,84.0999984741211,HATSN,Industrials,Aerospace & Defense
 2024-03-04,79.0,HATSN,Industrials,Aerospace & Defense
@@ -12240,6 +12518,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,51.0,HATSN,Industrials,Aerospace & Defense
 2024-07-11,52.400001525878906,HATSN,Industrials,Aerospace & Defense
 2024-07-12,52.29999923706055,HATSN,Industrials,Aerospace & Defense
+2024-07-16,53.04999923706055,HATSN,Industrials,Aerospace & Defense
+2024-07-17,53.25,HATSN,Industrials,Aerospace & Defense
 2024-02-29,2.049999952316284,HDFGS,Financial Services,Asset Management
 2024-03-01,2.140000104904175,HDFGS,Financial Services,Asset Management
 2024-03-04,2.1600000858306885,HDFGS,Financial Services,Asset Management
@@ -12328,6 +12608,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,1.7599999904632568,HDFGS,Financial Services,Asset Management
 2024-07-11,1.75,HDFGS,Financial Services,Asset Management
 2024-07-12,1.7699999809265137,HDFGS,Financial Services,Asset Management
+2024-07-16,1.7799999713897705,HDFGS,Financial Services,Asset Management
+2024-07-17,1.7799999713897705,HDFGS,Financial Services,Asset Management
 2024-02-29,27.34000015258789,HEDEF,Financial Services,Asset Management
 2024-03-01,28.0,HEDEF,Financial Services,Asset Management
 2024-03-04,28.139999389648438,HEDEF,Financial Services,Asset Management
@@ -12416,6 +12698,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,24.260000228881836,HEDEF,Financial Services,Asset Management
 2024-07-11,24.200000762939453,HEDEF,Financial Services,Asset Management
 2024-07-12,24.0,HEDEF,Financial Services,Asset Management
+2024-07-16,24.079999923706055,HEDEF,Financial Services,Asset Management
+2024-07-17,23.899999618530273,HEDEF,Financial Services,Asset Management
 2024-02-29,19.100000381469727,HEKTS,Basic Materials,Agricultural Inputs
 2024-03-01,19.399999618530273,HEKTS,Basic Materials,Agricultural Inputs
 2024-03-04,18.510000228881836,HEKTS,Basic Materials,Agricultural Inputs
@@ -12504,6 +12788,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,11.90999984741211,HEKTS,Basic Materials,Agricultural Inputs
 2024-07-11,12.260000228881836,HEKTS,Basic Materials,Agricultural Inputs
 2024-07-12,12.569999694824219,HEKTS,Basic Materials,Agricultural Inputs
+2024-07-16,12.9399995803833,HEKTS,Basic Materials,Agricultural Inputs
+2024-07-17,13.1899995803833,HEKTS,Basic Materials,Agricultural Inputs
 2024-02-29,3.430000066757202,HLGYO,Real Estate,REIT—Diversified
 2024-03-01,3.549999952316284,HLGYO,Real Estate,REIT—Diversified
 2024-03-04,3.5899999141693115,HLGYO,Real Estate,REIT—Diversified
@@ -12592,6 +12878,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,2.819999933242798,HLGYO,Real Estate,REIT—Diversified
 2024-07-11,2.869999885559082,HLGYO,Real Estate,REIT—Diversified
 2024-07-12,2.950000047683716,HLGYO,Real Estate,REIT—Diversified
+2024-07-16,2.9700000286102295,HLGYO,Real Estate,REIT—Diversified
+2024-07-17,3.069999933242798,HLGYO,Real Estate,REIT—Diversified
 2024-02-29,3.430000066757202,HLGYO,Real Estate,REIT—Diversified
 2024-03-01,3.549999952316284,HLGYO,Real Estate,REIT—Diversified
 2024-03-04,3.5899999141693115,HLGYO,Real Estate,REIT—Diversified
@@ -12680,6 +12968,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,2.819999933242798,HLGYO,Real Estate,REIT—Diversified
 2024-07-11,2.869999885559082,HLGYO,Real Estate,REIT—Diversified
 2024-07-12,2.950000047683716,HLGYO,Real Estate,REIT—Diversified
+2024-07-16,2.9700000286102295,HLGYO,Real Estate,REIT—Diversified
+2024-07-17,3.069999933242798,HLGYO,Real Estate,REIT—Diversified
 2024-06-07,53.95000076293945,HOROZ,Unknown,Unknown
 2024-06-10,48.560001373291016,HOROZ,Unknown,Unknown
 2024-06-11,51.0,HOROZ,Unknown,Unknown
@@ -12703,6 +12993,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,44.040000915527344,HOROZ,Unknown,Unknown
 2024-07-11,44.65999984741211,HOROZ,Unknown,Unknown
 2024-07-12,45.779998779296875,HOROZ,Unknown,Unknown
+2024-07-16,46.380001068115234,HOROZ,Unknown,Unknown
+2024-07-17,46.68000030517578,HOROZ,Unknown,Unknown
 2024-05-23,77.0,HRKET,Unknown,Unknown
 2024-05-24,84.69999694824219,HRKET,Unknown,Unknown
 2024-05-27,93.1500015258789,HRKET,Unknown,Unknown
@@ -12737,6 +13029,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,75.80000305175781,HRKET,Unknown,Unknown
 2024-07-11,77.5,HRKET,Unknown,Unknown
 2024-07-12,75.94999694824219,HRKET,Unknown,Unknown
+2024-07-16,78.6500015258789,HRKET,Unknown,Unknown
+2024-07-17,78.0,HRKET,Unknown,Unknown
 2024-02-29,72.0,HTTBT,Technology,Software—Application
 2024-03-01,69.5999984741211,HTTBT,Technology,Software—Application
 2024-03-04,64.0999984741211,HTTBT,Technology,Software—Application
@@ -12825,6 +13119,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,70.9000015258789,HTTBT,Technology,Software—Application
 2024-07-11,71.3499984741211,HTTBT,Technology,Software—Application
 2024-07-12,71.75,HTTBT,Technology,Software—Application
+2024-07-16,71.94999694824219,HTTBT,Technology,Software—Application
+2024-07-17,72.44999694824219,HTTBT,Technology,Software—Application
 2024-02-29,4.869999885559082,HURGZ,Communication Services,Publishing
 2024-03-01,5.099999904632568,HURGZ,Communication Services,Publishing
 2024-03-04,5.139999866485596,HURGZ,Communication Services,Publishing
@@ -12913,6 +13209,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,4.190000057220459,HURGZ,Communication Services,Publishing
 2024-07-11,4.25,HURGZ,Communication Services,Publishing
 2024-07-12,4.489999771118164,HURGZ,Communication Services,Publishing
+2024-07-16,4.480000019073486,HURGZ,Communication Services,Publishing
+2024-07-17,4.340000152587891,HURGZ,Communication Services,Publishing
 2024-02-29,16.34000015258789,ICBCT,Financial Services,Banks—Regional
 2024-03-01,16.600000381469727,ICBCT,Financial Services,Banks—Regional
 2024-03-04,15.949999809265137,ICBCT,Financial Services,Banks—Regional
@@ -13001,6 +13299,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,14.479999542236328,ICBCT,Financial Services,Banks—Regional
 2024-07-11,15.0,ICBCT,Financial Services,Banks—Regional
 2024-07-12,15.140000343322754,ICBCT,Financial Services,Banks—Regional
+2024-07-16,15.390000343322754,ICBCT,Financial Services,Banks—Regional
+2024-07-17,16.31999969482422,ICBCT,Financial Services,Banks—Regional
 2024-02-29,13.880000114440918,IHAAS,Communication Services,Broadcasting
 2024-03-01,14.010000228881836,IHAAS,Communication Services,Broadcasting
 2024-03-04,14.600000381469727,IHAAS,Communication Services,Broadcasting
@@ -13090,6 +13390,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,27.0,IHAAS,Communication Services,Broadcasting
 2024-07-11,27.139999389648438,IHAAS,Communication Services,Broadcasting
 2024-07-12,26.399999618530273,IHAAS,Communication Services,Broadcasting
+2024-07-16,26.6200008392334,IHAAS,Communication Services,Broadcasting
+2024-07-17,27.0,IHAAS,Communication Services,Broadcasting
 2024-02-29,1.399999976158142,IHGZT,Communication Services,Publishing
 2024-03-01,1.4199999570846558,IHGZT,Communication Services,Publishing
 2024-03-04,1.4299999475479126,IHGZT,Communication Services,Publishing
@@ -13178,6 +13480,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,1.399999976158142,IHGZT,Communication Services,Publishing
 2024-07-11,1.409999966621399,IHGZT,Communication Services,Publishing
 2024-07-12,1.5499999523162842,IHGZT,Communication Services,Publishing
+2024-07-16,1.7000000476837158,IHGZT,Communication Services,Publishing
+2024-07-17,1.6100000143051147,IHGZT,Communication Services,Publishing
 2024-02-29,16.190000534057617,IMASM,Industrials,Specialty Industrial Machinery
 2024-03-01,16.829999923706055,IMASM,Industrials,Specialty Industrial Machinery
 2024-03-04,18.510000228881836,IMASM,Industrials,Specialty Industrial Machinery
@@ -13267,6 +13571,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,12.630000114440918,IMASM,Industrials,Specialty Industrial Machinery
 2024-07-11,12.890000343322754,IMASM,Industrials,Specialty Industrial Machinery
 2024-07-12,12.880000114440918,IMASM,Industrials,Specialty Industrial Machinery
+2024-07-16,12.899999618530273,IMASM,Industrials,Specialty Industrial Machinery
+2024-07-17,13.079999923706055,IMASM,Industrials,Specialty Industrial Machinery
 2024-02-29,10.90999984741211,INDES,Technology,Computer Hardware
 2024-03-01,10.399999618530273,INDES,Technology,Computer Hardware
 2024-03-04,9.979999542236328,INDES,Technology,Computer Hardware
@@ -13355,6 +13661,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,7.949999809265137,INDES,Technology,Computer Hardware
 2024-07-11,8.180000305175781,INDES,Technology,Computer Hardware
 2024-07-12,8.210000038146973,INDES,Technology,Computer Hardware
+2024-07-16,8.279999732971191,INDES,Technology,Computer Hardware
+2024-07-17,8.350000381469727,INDES,Technology,Computer Hardware
 2024-02-29,15.130000114440918,INFO,Financial Services,Capital Markets
 2024-03-01,15.170000076293945,INFO,Financial Services,Capital Markets
 2024-03-04,15.119999885559082,INFO,Financial Services,Capital Markets
@@ -13443,6 +13751,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,10.069999694824219,INFO,Financial Services,Capital Markets
 2024-07-11,10.229999542236328,INFO,Financial Services,Capital Markets
 2024-07-12,10.279999732971191,INFO,Financial Services,Capital Markets
+2024-07-16,10.369999885559082,INFO,Financial Services,Capital Markets
+2024-07-17,10.319999694824219,INFO,Financial Services,Capital Markets
 2024-02-29,3.9175000190734863,INVEO,Financial Services,Capital Markets
 2024-03-01,3.9175000190734863,INVEO,Financial Services,Capital Markets
 2024-03-04,3.9175000190734863,INVEO,Financial Services,Capital Markets
@@ -13532,6 +13842,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,3.9175000190734863,INVEO,Financial Services,Capital Markets
 2024-07-11,3.9175000190734863,INVEO,Financial Services,Capital Markets
 2024-07-12,3.9175000190734863,INVEO,Financial Services,Capital Markets
+2024-07-16,3.9175000190734863,INVEO,Financial Services,Capital Markets
+2024-07-17,43.18000030517578,INVEO,Financial Services,Capital Markets
 2024-02-29,41.20000076293945,IPEKE,Basic Materials,Gold
 2024-03-01,41.08000183105469,IPEKE,Basic Materials,Gold
 2024-03-04,41.380001068115234,IPEKE,Basic Materials,Gold
@@ -13620,6 +13932,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,44.15999984741211,IPEKE,Basic Materials,Gold
 2024-07-11,44.81999969482422,IPEKE,Basic Materials,Gold
 2024-07-12,45.86000061035156,IPEKE,Basic Materials,Gold
+2024-07-16,45.97999954223633,IPEKE,Basic Materials,Gold
+2024-07-17,43.97999954223633,IPEKE,Basic Materials,Gold
 2024-02-29,11.100000381469727,ISCTR,Financial Services,Banks—Regional
 2024-03-01,10.710000038146973,ISCTR,Financial Services,Banks—Regional
 2024-03-04,10.319999694824219,ISCTR,Financial Services,Banks—Regional
@@ -13708,6 +14022,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,15.8100004196167,ISCTR,Financial Services,Banks—Regional
 2024-07-11,16.489999771118164,ISCTR,Financial Services,Banks—Regional
 2024-07-12,17.100000381469727,ISCTR,Financial Services,Banks—Regional
+2024-07-16,17.6200008392334,ISCTR,Financial Services,Banks—Regional
+2024-07-17,17.43000030517578,ISCTR,Financial Services,Banks—Regional
 2024-02-29,40.63999938964844,ISDMR,Basic Materials,Steel
 2024-03-01,40.220001220703125,ISDMR,Basic Materials,Steel
 2024-03-04,40.02000045776367,ISDMR,Basic Materials,Steel
@@ -13796,6 +14112,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,39.79999923706055,ISDMR,Basic Materials,Steel
 2024-07-11,40.599998474121094,ISDMR,Basic Materials,Steel
 2024-07-12,40.560001373291016,ISDMR,Basic Materials,Steel
+2024-07-16,41.13999938964844,ISDMR,Basic Materials,Steel
+2024-07-17,41.459999084472656,ISDMR,Basic Materials,Steel
 2024-02-29,11.359999656677246,ISFIN,Financial Services,Credit Services
 2024-03-01,11.529999732971191,ISFIN,Financial Services,Credit Services
 2024-03-04,11.34000015258789,ISFIN,Financial Services,Credit Services
@@ -13884,6 +14202,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,16.0,ISFIN,Financial Services,Credit Services
 2024-07-11,16.350000381469727,ISFIN,Financial Services,Credit Services
 2024-07-12,16.93000030517578,ISFIN,Financial Services,Credit Services
+2024-07-16,17.010000228881836,ISFIN,Financial Services,Credit Services
+2024-07-17,17.010000228881836,ISFIN,Financial Services,Credit Services
 2024-02-29,17.309999465942383,ISGYO,Real Estate,REIT—Diversified
 2024-03-01,17.329999923706055,ISGYO,Real Estate,REIT—Diversified
 2024-03-04,16.8799991607666,ISGYO,Real Estate,REIT—Diversified
@@ -13972,6 +14292,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,17.420000076293945,ISGYO,Real Estate,REIT—Diversified
 2024-07-11,17.559999465942383,ISGYO,Real Estate,REIT—Diversified
 2024-07-12,17.709999084472656,ISGYO,Real Estate,REIT—Diversified
+2024-07-16,17.850000381469727,ISGYO,Real Estate,REIT—Diversified
+2024-07-17,17.920000076293945,ISGYO,Real Estate,REIT—Diversified
 2024-02-29,9.449999809265137,ISKPL,Industrials,Specialty Business Services
 2024-03-01,9.789999961853027,ISKPL,Industrials,Specialty Business Services
 2024-03-04,9.420000076293945,ISKPL,Industrials,Specialty Business Services
@@ -14061,6 +14383,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,12.920000076293945,ISKPL,Industrials,Specialty Business Services
 2024-07-11,13.329999923706055,ISKPL,Industrials,Specialty Business Services
 2024-07-12,13.470000267028809,ISKPL,Industrials,Specialty Business Services
+2024-07-16,13.880000114440918,ISKPL,Industrials,Specialty Business Services
+2024-07-17,13.75,ISKPL,Industrials,Specialty Business Services
 2024-02-29,37.18000030517578,ISMEN,Financial Services,Capital Markets
 2024-03-01,36.900001525878906,ISMEN,Financial Services,Capital Markets
 2024-03-04,36.36000061035156,ISMEN,Financial Services,Capital Markets
@@ -14149,6 +14473,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,39.13999938964844,ISMEN,Financial Services,Capital Markets
 2024-07-11,40.619998931884766,ISMEN,Financial Services,Capital Markets
 2024-07-12,41.7400016784668,ISMEN,Financial Services,Capital Markets
+2024-07-16,41.52000045776367,ISMEN,Financial Services,Capital Markets
+2024-07-17,41.79999923706055,ISMEN,Financial Services,Capital Markets
 2024-02-29,31.799999237060547,IZENR,Utilities,Utilities—Independent Power Producers
 2024-03-01,32.31999969482422,IZENR,Utilities,Utilities—Independent Power Producers
 2024-03-04,30.760000228881836,IZENR,Utilities,Utilities—Independent Power Producers
@@ -14238,6 +14564,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,22.200000762939453,IZENR,Utilities,Utilities—Independent Power Producers
 2024-07-11,22.739999771118164,IZENR,Utilities,Utilities—Independent Power Producers
 2024-07-12,22.8799991607666,IZENR,Utilities,Utilities—Independent Power Producers
+2024-07-16,22.8799991607666,IZENR,Utilities,Utilities—Independent Power Producers
+2024-07-17,22.860000610351562,IZENR,Utilities,Utilities—Independent Power Producers
 2024-02-29,17.25,IZFAS,Consumer Defensive,Household & Personal Products
 2024-03-01,17.75,IZFAS,Consumer Defensive,Household & Personal Products
 2024-03-04,17.399999618530273,IZFAS,Consumer Defensive,Household & Personal Products
@@ -14326,6 +14654,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,46.0,IZFAS,Consumer Defensive,Household & Personal Products
 2024-07-11,46.400001525878906,IZFAS,Consumer Defensive,Household & Personal Products
 2024-07-12,46.81999969482422,IZFAS,Consumer Defensive,Household & Personal Products
+2024-07-16,47.70000076293945,IZFAS,Consumer Defensive,Household & Personal Products
+2024-07-17,47.959999084472656,IZFAS,Consumer Defensive,Household & Personal Products
 2024-02-29,17.399999618530273,KAREL,Technology,Communication Equipment
 2024-03-01,17.309999465942383,KAREL,Technology,Communication Equipment
 2024-03-04,16.649999618530273,KAREL,Technology,Communication Equipment
@@ -14414,6 +14744,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,15.779999732971191,KAREL,Technology,Communication Equipment
 2024-07-11,15.699999809265137,KAREL,Technology,Communication Equipment
 2024-07-12,15.65999984741211,KAREL,Technology,Communication Equipment
+2024-07-16,15.470000267028809,KAREL,Technology,Communication Equipment
+2024-07-17,15.329999923706055,KAREL,Technology,Communication Equipment
 2024-02-29,10.0,KARSN,Consumer Cyclical,Auto Manufacturers
 2024-03-01,10.279999732971191,KARSN,Consumer Cyclical,Auto Manufacturers
 2024-03-04,9.869999885559082,KARSN,Consumer Cyclical,Auto Manufacturers
@@ -14502,6 +14834,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,16.469999313354492,KARSN,Consumer Cyclical,Auto Manufacturers
 2024-07-11,16.3799991607666,KARSN,Consumer Cyclical,Auto Manufacturers
 2024-07-12,16.34000015258789,KARSN,Consumer Cyclical,Auto Manufacturers
+2024-07-16,15.770000457763672,KARSN,Consumer Cyclical,Auto Manufacturers
+2024-07-17,15.899999618530273,KARSN,Consumer Cyclical,Auto Manufacturers
 2024-02-29,53.75,KARYE,Utilities,Utilities—Renewable
 2024-03-01,51.75,KARYE,Utilities,Utilities—Renewable
 2024-03-04,56.900001525878906,KARYE,Utilities,Utilities—Renewable
@@ -14591,6 +14925,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,29.31999969482422,KARYE,Utilities,Utilities—Renewable
 2024-07-11,30.059999465942383,KARYE,Utilities,Utilities—Renewable
 2024-07-12,30.1200008392334,KARYE,Utilities,Utilities—Renewable
+2024-07-16,30.200000762939453,KARYE,Utilities,Utilities—Renewable
+2024-07-17,29.979999542236328,KARYE,Utilities,Utilities—Renewable
 2024-02-29,35.70000076293945,KAYSE,Consumer Defensive,Confectioners
 2024-03-01,35.959999084472656,KAYSE,Consumer Defensive,Confectioners
 2024-03-04,35.58000183105469,KAYSE,Consumer Defensive,Confectioners
@@ -14680,6 +15016,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,26.899999618530273,KAYSE,Consumer Defensive,Confectioners
 2024-07-11,27.719999313354492,KAYSE,Consumer Defensive,Confectioners
 2024-07-12,27.719999313354492,KAYSE,Consumer Defensive,Confectioners
+2024-07-16,28.079999923706055,KAYSE,Consumer Defensive,Confectioners
+2024-07-17,27.899999618530273,KAYSE,Consumer Defensive,Confectioners
 2024-02-29,174.10000610351562,KBORU,Basic Materials,Building Materials
 2024-03-01,157.60000610351562,KBORU,Basic Materials,Building Materials
 2024-03-04,148.5,KBORU,Basic Materials,Building Materials
@@ -14769,6 +15107,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,78.4000015258789,KBORU,Basic Materials,Building Materials
 2024-07-11,80.55000305175781,KBORU,Basic Materials,Building Materials
 2024-07-12,81.19999694824219,KBORU,Basic Materials,Building Materials
+2024-07-16,80.8499984741211,KBORU,Basic Materials,Building Materials
+2024-07-17,82.55000305175781,KBORU,Basic Materials,Building Materials
 2024-02-29,58.95000076293945,KCAER,Basic Materials,Steel
 2024-03-01,54.900001525878906,KCAER,Basic Materials,Steel
 2024-03-04,55.04999923706055,KCAER,Basic Materials,Steel
@@ -14857,6 +15197,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,48.47999954223633,KCAER,Basic Materials,Steel
 2024-07-11,48.63999938964844,KCAER,Basic Materials,Steel
 2024-07-12,49.380001068115234,KCAER,Basic Materials,Steel
+2024-07-16,48.79999923706055,KCAER,Basic Materials,Steel
+2024-07-17,48.7400016784668,KCAER,Basic Materials,Steel
 2024-02-29,168.1999969482422,KCHOL,Industrials,Conglomerates
 2024-03-01,165.60000610351562,KCHOL,Industrials,Conglomerates
 2024-03-04,164.5,KCHOL,Industrials,Conglomerates
@@ -14945,6 +15287,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,224.6999969482422,KCHOL,Industrials,Conglomerates
 2024-07-11,230.89999389648438,KCHOL,Industrials,Conglomerates
 2024-07-12,230.0,KCHOL,Industrials,Conglomerates
+2024-07-16,229.89999389648438,KCHOL,Industrials,Conglomerates
+2024-07-17,227.6999969482422,KCHOL,Industrials,Conglomerates
 2024-02-29,174.5,KFEIN,Technology,Software—Application
 2024-03-01,182.0,KFEIN,Technology,Software—Application
 2024-03-04,174.39999389648438,KFEIN,Technology,Software—Application
@@ -15033,6 +15377,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,104.80000305175781,KFEIN,Technology,Software—Application
 2024-07-11,104.5,KFEIN,Technology,Software—Application
 2024-07-12,108.0,KFEIN,Technology,Software—Application
+2024-07-16,107.5999984741211,KFEIN,Technology,Software—Application
+2024-07-17,108.5999984741211,KFEIN,Technology,Software—Application
 2024-02-29,30.260000228881836,KLKIM,Basic Materials,Specialty Chemicals
 2024-03-01,31.079999923706055,KLKIM,Basic Materials,Specialty Chemicals
 2024-03-04,30.299999237060547,KLKIM,Basic Materials,Specialty Chemicals
@@ -15121,6 +15467,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,27.979999542236328,KLKIM,Basic Materials,Specialty Chemicals
 2024-07-11,28.899999618530273,KLKIM,Basic Materials,Specialty Chemicals
 2024-07-12,28.360000610351562,KLKIM,Basic Materials,Specialty Chemicals
+2024-07-16,28.200000762939453,KLKIM,Basic Materials,Specialty Chemicals
+2024-07-17,28.18000030517578,KLKIM,Basic Materials,Specialty Chemicals
 2024-02-29,62.0,KLRHO,Industrials,Conglomerates
 2024-03-01,61.25,KLRHO,Industrials,Conglomerates
 2024-03-04,59.45000076293945,KLRHO,Industrials,Conglomerates
@@ -15210,6 +15558,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,33.5,KLRHO,Industrials,Conglomerates
 2024-07-11,34.18000030517578,KLRHO,Industrials,Conglomerates
 2024-07-12,34.439998626708984,KLRHO,Industrials,Conglomerates
+2024-07-16,33.84000015258789,KLRHO,Industrials,Conglomerates
+2024-07-17,34.36000061035156,KLRHO,Industrials,Conglomerates
 2024-02-29,79.0,KLSER,Industrials,Building Products & Equipment
 2024-03-01,75.69999694824219,KLSER,Industrials,Building Products & Equipment
 2024-03-04,72.25,KLSER,Industrials,Building Products & Equipment
@@ -15299,6 +15649,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,48.65999984741211,KLSER,Industrials,Building Products & Equipment
 2024-07-11,53.5,KLSER,Industrials,Building Products & Equipment
 2024-07-12,52.150001525878906,KLSER,Industrials,Building Products & Equipment
+2024-07-16,53.04999923706055,KLSER,Industrials,Building Products & Equipment
+2024-07-17,53.5,KLSER,Industrials,Building Products & Equipment
 2024-02-29,67.0,KMPUR,Basic Materials,Specialty Chemicals
 2024-03-01,66.4000015258789,KMPUR,Basic Materials,Specialty Chemicals
 2024-03-04,64.94999694824219,KMPUR,Basic Materials,Specialty Chemicals
@@ -15387,6 +15739,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,55.150001525878906,KMPUR,Basic Materials,Specialty Chemicals
 2024-07-11,57.0,KMPUR,Basic Materials,Specialty Chemicals
 2024-07-12,56.75,KMPUR,Basic Materials,Specialty Chemicals
+2024-07-16,56.650001525878906,KMPUR,Basic Materials,Specialty Chemicals
+2024-07-17,57.349998474121094,KMPUR,Basic Materials,Specialty Chemicals
 2024-05-17,22.540000915527344,KOCMT,Unknown,Unknown
 2024-05-20,24.780000686645508,KOCMT,Unknown,Unknown
 2024-05-21,27.239999771118164,KOCMT,Unknown,Unknown
@@ -15425,6 +15779,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,17.709999084472656,KOCMT,Unknown,Unknown
 2024-07-11,17.899999618530273,KOCMT,Unknown,Unknown
 2024-07-12,17.700000762939453,KOCMT,Unknown,Unknown
+2024-07-16,17.709999084472656,KOCMT,Unknown,Unknown
+2024-07-17,17.799999237060547,KOCMT,Unknown,Unknown
 2024-02-29,58.79999923706055,KONKA,Basic Materials,Paper & Paper Products
 2024-03-01,57.25,KONKA,Basic Materials,Paper & Paper Products
 2024-03-04,58.25,KONKA,Basic Materials,Paper & Paper Products
@@ -15513,6 +15869,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,47.91999816894531,KONKA,Basic Materials,Paper & Paper Products
 2024-07-11,49.5,KONKA,Basic Materials,Paper & Paper Products
 2024-07-12,49.599998474121094,KONKA,Basic Materials,Paper & Paper Products
+2024-07-16,49.70000076293945,KONKA,Basic Materials,Paper & Paper Products
+2024-07-17,50.0,KONKA,Basic Materials,Paper & Paper Products
 2024-02-29,287.0,KONTR,Industrials,Conglomerates
 2024-03-01,286.0,KONTR,Industrials,Conglomerates
 2024-03-04,273.25,KONTR,Industrials,Conglomerates
@@ -15601,6 +15959,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,170.89999389648438,KONTR,Industrials,Conglomerates
 2024-07-11,177.60000610351562,KONTR,Industrials,Conglomerates
 2024-07-12,175.10000610351562,KONTR,Industrials,Conglomerates
+2024-07-16,170.0,KONTR,Industrials,Conglomerates
+2024-07-17,167.6999969482422,KONTR,Industrials,Conglomerates
 2024-02-29,50.599998474121094,KOPOL,Basic Materials,Specialty Chemicals
 2024-03-01,53.45000076293945,KOPOL,Basic Materials,Specialty Chemicals
 2024-03-04,50.349998474121094,KOPOL,Basic Materials,Specialty Chemicals
@@ -15690,6 +16050,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,53.70000076293945,KOPOL,Basic Materials,Specialty Chemicals
 2024-07-11,52.5,KOPOL,Basic Materials,Specialty Chemicals
 2024-07-12,50.0,KOPOL,Basic Materials,Specialty Chemicals
+2024-07-16,51.04999923706055,KOPOL,Basic Materials,Specialty Chemicals
+2024-07-17,49.81999969482422,KOPOL,Basic Materials,Specialty Chemicals
 2024-02-29,96.05000305175781,KORDS,Consumer Cyclical,Textile Manufacturing
 2024-03-01,103.0,KORDS,Consumer Cyclical,Textile Manufacturing
 2024-03-04,110.0,KORDS,Consumer Cyclical,Textile Manufacturing
@@ -15778,6 +16140,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,94.05000305175781,KORDS,Consumer Cyclical,Textile Manufacturing
 2024-07-11,95.80000305175781,KORDS,Consumer Cyclical,Textile Manufacturing
 2024-07-12,96.5999984741211,KORDS,Consumer Cyclical,Textile Manufacturing
+2024-07-16,97.5,KORDS,Consumer Cyclical,Textile Manufacturing
+2024-07-17,95.5999984741211,KORDS,Consumer Cyclical,Textile Manufacturing
 2024-05-10,33.540000915527344,KOTON,Consumer Cyclical,Apparel Manufacturing
 2024-05-13,30.200000762939453,KOTON,Consumer Cyclical,Apparel Manufacturing
 2024-05-14,28.579999923706055,KOTON,Consumer Cyclical,Apparel Manufacturing
@@ -15821,6 +16185,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,20.799999237060547,KOTON,Consumer Cyclical,Apparel Manufacturing
 2024-07-11,21.760000228881836,KOTON,Consumer Cyclical,Apparel Manufacturing
 2024-07-12,21.799999237060547,KOTON,Consumer Cyclical,Apparel Manufacturing
+2024-07-16,22.1200008392334,KOTON,Consumer Cyclical,Apparel Manufacturing
+2024-07-17,22.239999771118164,KOTON,Consumer Cyclical,Apparel Manufacturing
 2024-02-29,51.04999923706055,KOZAA,Basic Materials,Other Industrial Metals & Mining
 2024-03-01,51.849998474121094,KOZAA,Basic Materials,Other Industrial Metals & Mining
 2024-03-04,52.95000076293945,KOZAA,Basic Materials,Other Industrial Metals & Mining
@@ -15909,6 +16275,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,60.95000076293945,KOZAA,Basic Materials,Other Industrial Metals & Mining
 2024-07-11,61.45000076293945,KOZAA,Basic Materials,Other Industrial Metals & Mining
 2024-07-12,62.5,KOZAA,Basic Materials,Other Industrial Metals & Mining
+2024-07-16,62.400001525878906,KOZAA,Basic Materials,Other Industrial Metals & Mining
+2024-07-17,59.75,KOZAA,Basic Materials,Other Industrial Metals & Mining
 2024-02-29,22.899999618530273,KOZAL,Basic Materials,Gold
 2024-03-01,22.780000686645508,KOZAL,Basic Materials,Gold
 2024-03-04,22.860000610351562,KOZAL,Basic Materials,Gold
@@ -15997,6 +16365,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,21.899999618530273,KOZAL,Basic Materials,Gold
 2024-07-11,22.399999618530273,KOZAL,Basic Materials,Gold
 2024-07-12,23.0,KOZAL,Basic Materials,Gold
+2024-07-16,23.260000228881836,KOZAL,Basic Materials,Gold
+2024-07-17,23.040000915527344,KOZAL,Basic Materials,Gold
 2024-02-29,22.5,KRDMA,Basic Materials,Steel
 2024-03-01,22.200000762939453,KRDMA,Basic Materials,Steel
 2024-03-04,21.899999618530273,KRDMA,Basic Materials,Steel
@@ -16085,6 +16455,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,25.5,KRDMA,Basic Materials,Steel
 2024-07-11,26.299999237060547,KRDMA,Basic Materials,Steel
 2024-07-12,26.100000381469727,KRDMA,Basic Materials,Steel
+2024-07-16,26.200000762939453,KRDMA,Basic Materials,Steel
+2024-07-17,26.520000457763672,KRDMA,Basic Materials,Steel
 2024-02-29,26.860000610351562,KRDMD,Basic Materials,Steel
 2024-03-01,27.139999389648438,KRDMD,Basic Materials,Steel
 2024-03-04,26.579999923706055,KRDMD,Basic Materials,Steel
@@ -16173,6 +16545,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,31.219999313354492,KRDMD,Basic Materials,Steel
 2024-07-11,31.81999969482422,KRDMD,Basic Materials,Steel
 2024-07-12,31.440000534057617,KRDMD,Basic Materials,Steel
+2024-07-16,32.13999938964844,KRDMD,Basic Materials,Steel
+2024-07-17,32.900001525878906,KRDMD,Basic Materials,Steel
 2024-02-29,27.5,KRONT,Technology,Software—Infrastructure
 2024-03-01,26.600000381469727,KRONT,Technology,Software—Infrastructure
 2024-03-04,28.0,KRONT,Technology,Software—Infrastructure
@@ -16261,6 +16635,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,21.860000610351562,KRONT,Technology,Software—Infrastructure
 2024-07-11,22.65999984741211,KRONT,Technology,Software—Infrastructure
 2024-07-12,22.5,KRONT,Technology,Software—Infrastructure
+2024-07-16,22.780000686645508,KRONT,Technology,Software—Infrastructure
+2024-07-17,22.860000610351562,KRONT,Technology,Software—Infrastructure
 2024-02-29,11.680000305175781,KRSTL,Consumer Defensive,Beverages—Non-Alcoholic
 2024-03-01,11.4399995803833,KRSTL,Consumer Defensive,Beverages—Non-Alcoholic
 2024-03-04,11.199999809265137,KRSTL,Consumer Defensive,Beverages—Non-Alcoholic
@@ -16349,6 +16725,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,6.900000095367432,KRSTL,Consumer Defensive,Beverages—Non-Alcoholic
 2024-07-11,7.010000228881836,KRSTL,Consumer Defensive,Beverages—Non-Alcoholic
 2024-07-12,7.110000133514404,KRSTL,Consumer Defensive,Beverages—Non-Alcoholic
+2024-07-16,7.059999942779541,KRSTL,Consumer Defensive,Beverages—Non-Alcoholic
+2024-07-17,7.130000114440918,KRSTL,Consumer Defensive,Beverages—Non-Alcoholic
 2024-02-29,35.900001525878906,KRTEK,Consumer Cyclical,Textile Manufacturing
 2024-03-01,36.599998474121094,KRTEK,Consumer Cyclical,Textile Manufacturing
 2024-03-04,36.97999954223633,KRTEK,Consumer Cyclical,Textile Manufacturing
@@ -16437,6 +16815,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,28.979999542236328,KRTEK,Consumer Cyclical,Textile Manufacturing
 2024-07-11,30.059999465942383,KRTEK,Consumer Cyclical,Textile Manufacturing
 2024-07-12,30.079999923706055,KRTEK,Consumer Cyclical,Textile Manufacturing
+2024-07-16,31.100000381469727,KRTEK,Consumer Cyclical,Textile Manufacturing
+2024-07-17,31.559999465942383,KRTEK,Consumer Cyclical,Textile Manufacturing
 2024-02-29,27.940000534057617,KRVGD,Consumer Defensive,Confectioners
 2024-03-01,28.639999389648438,KRVGD,Consumer Defensive,Confectioners
 2024-03-04,29.280000686645508,KRVGD,Consumer Defensive,Confectioners
@@ -16525,6 +16905,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,25.100000381469727,KRVGD,Consumer Defensive,Confectioners
 2024-07-11,26.040000915527344,KRVGD,Consumer Defensive,Confectioners
 2024-07-12,26.100000381469727,KRVGD,Consumer Defensive,Confectioners
+2024-07-16,26.81999969482422,KRVGD,Consumer Defensive,Confectioners
+2024-07-17,26.780000686645508,KRVGD,Consumer Defensive,Confectioners
 2024-02-29,118.80000305175781,KTLEV,Financial Services,Credit Services
 2024-03-01,107.0,KTLEV,Financial Services,Credit Services
 2024-03-04,104.5,KTLEV,Financial Services,Credit Services
@@ -16614,6 +16996,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,49.040000915527344,KTLEV,Financial Services,Credit Services
 2024-07-11,53.900001525878906,KTLEV,Financial Services,Credit Services
 2024-07-12,48.52000045776367,KTLEV,Financial Services,Credit Services
+2024-07-16,46.459999084472656,KTLEV,Financial Services,Credit Services
+2024-07-17,46.52000045776367,KTLEV,Financial Services,Credit Services
 2024-02-29,27.540000915527344,KZGYO,Real Estate,REIT—Hotel & Motel
 2024-03-01,28.940000534057617,KZGYO,Real Estate,REIT—Hotel & Motel
 2024-03-04,27.299999237060547,KZGYO,Real Estate,REIT—Hotel & Motel
@@ -16703,6 +17087,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,20.440000534057617,KZGYO,Real Estate,REIT—Hotel & Motel
 2024-07-11,20.600000381469727,KZGYO,Real Estate,REIT—Hotel & Motel
 2024-07-12,20.540000915527344,KZGYO,Real Estate,REIT—Hotel & Motel
+2024-07-16,21.100000381469727,KZGYO,Real Estate,REIT—Hotel & Motel
+2024-07-17,22.059999465942383,KZGYO,Real Estate,REIT—Hotel & Motel
 2024-02-29,68.6500015258789,LIDER,Industrials,Rental & Leasing Services
 2024-03-01,69.75,LIDER,Industrials,Rental & Leasing Services
 2024-03-04,68.75,LIDER,Industrials,Rental & Leasing Services
@@ -16792,6 +17178,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,80.4000015258789,LIDER,Industrials,Rental & Leasing Services
 2024-07-11,82.0,LIDER,Industrials,Rental & Leasing Services
 2024-07-12,78.94999694824219,LIDER,Industrials,Rental & Leasing Services
+2024-07-16,76.94999694824219,LIDER,Industrials,Rental & Leasing Services
+2024-07-17,78.0,LIDER,Industrials,Rental & Leasing Services
 2024-02-29,8.199999809265137,LIDFA,Financial Services,Credit Services
 2024-03-01,8.34000015258789,LIDFA,Financial Services,Credit Services
 2024-03-04,8.220000267028809,LIDFA,Financial Services,Credit Services
@@ -16880,6 +17268,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,8.020000457763672,LIDFA,Financial Services,Credit Services
 2024-07-11,8.119999885559082,LIDFA,Financial Services,Credit Services
 2024-07-12,8.119999885559082,LIDFA,Financial Services,Credit Services
+2024-07-16,8.390000343322754,LIDFA,Financial Services,Credit Services
+2024-07-17,8.420000076293945,LIDFA,Financial Services,Credit Services
 2024-05-09,41.13999938964844,LILAK,Consumer Defensive,Household & Personal Products
 2024-05-10,39.84000015258789,LILAK,Consumer Defensive,Household & Personal Products
 2024-05-13,35.86000061035156,LILAK,Consumer Defensive,Household & Personal Products
@@ -16924,6 +17314,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,25.299999237060547,LILAK,Consumer Defensive,Household & Personal Products
 2024-07-11,25.860000610351562,LILAK,Consumer Defensive,Household & Personal Products
 2024-07-12,25.920000076293945,LILAK,Consumer Defensive,Household & Personal Products
+2024-07-16,26.420000076293945,LILAK,Consumer Defensive,Household & Personal Products
+2024-07-17,26.479999542236328,LILAK,Consumer Defensive,Household & Personal Products
 2024-02-29,59.75,LKMNH,Healthcare,Medical Care Facilities
 2024-03-01,60.54999923706055,LKMNH,Healthcare,Medical Care Facilities
 2024-03-04,62.349998474121094,LKMNH,Healthcare,Medical Care Facilities
@@ -17012,6 +17404,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,91.44999694824219,LKMNH,Healthcare,Medical Care Facilities
 2024-07-11,93.94999694824219,LKMNH,Healthcare,Medical Care Facilities
 2024-07-12,95.0,LKMNH,Healthcare,Medical Care Facilities
+2024-07-16,100.19999694824219,LKMNH,Healthcare,Medical Care Facilities
+2024-07-17,97.5,LKMNH,Healthcare,Medical Care Facilities
 2024-02-29,28.65999984741211,LMKDC,Basic Materials,Building Materials
 2024-03-01,31.520000457763672,LMKDC,Basic Materials,Building Materials
 2024-03-04,34.65999984741211,LMKDC,Basic Materials,Building Materials
@@ -17101,6 +17495,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,23.139999389648438,LMKDC,Basic Materials,Building Materials
 2024-07-11,23.260000228881836,LMKDC,Basic Materials,Building Materials
 2024-07-12,22.899999618530273,LMKDC,Basic Materials,Building Materials
+2024-07-16,23.079999923706055,LMKDC,Basic Materials,Building Materials
+2024-07-17,22.860000610351562,LMKDC,Basic Materials,Building Materials
 2024-02-29,107.4000015258789,LOGO,Technology,Software—Application
 2024-03-01,103.19999694824219,LOGO,Technology,Software—Application
 2024-03-04,101.5,LOGO,Technology,Software—Application
@@ -17189,6 +17585,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,103.5999984741211,LOGO,Technology,Software—Application
 2024-07-11,106.5,LOGO,Technology,Software—Application
 2024-07-12,107.5,LOGO,Technology,Software—Application
+2024-07-16,103.0,LOGO,Technology,Software—Application
+2024-07-17,100.0,LOGO,Technology,Software—Application
 2024-02-29,3.299999952316284,LRSHO,Industrials,Conglomerates
 2024-03-01,3.430000066757202,LRSHO,Industrials,Conglomerates
 2024-03-04,3.309999942779541,LRSHO,Industrials,Conglomerates
@@ -17278,6 +17676,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,2.990000009536743,LRSHO,Industrials,Conglomerates
 2024-07-11,3.009999990463257,LRSHO,Industrials,Conglomerates
 2024-07-12,3.0,LRSHO,Industrials,Conglomerates
+2024-07-16,3.009999990463257,LRSHO,Industrials,Conglomerates
+2024-07-17,3.0199999809265137,LRSHO,Industrials,Conglomerates
 2024-02-29,3.299999952316284,LRSHO,Industrials,Conglomerates
 2024-03-01,3.430000066757202,LRSHO,Industrials,Conglomerates
 2024-03-04,3.309999942779541,LRSHO,Industrials,Conglomerates
@@ -17367,6 +17767,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,2.990000009536743,LRSHO,Industrials,Conglomerates
 2024-07-11,3.009999990463257,LRSHO,Industrials,Conglomerates
 2024-07-12,3.0,LRSHO,Industrials,Conglomerates
+2024-07-16,3.009999990463257,LRSHO,Industrials,Conglomerates
+2024-07-17,3.0199999809265137,LRSHO,Industrials,Conglomerates
 2024-02-29,30.299999237060547,MAKIM,Industrials,Specialty Industrial Machinery
 2024-03-01,30.125,MAKIM,Industrials,Specialty Industrial Machinery
 2024-03-04,28.649999618530273,MAKIM,Industrials,Specialty Industrial Machinery
@@ -17455,6 +17857,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,34.400001525878906,MAKIM,Industrials,Specialty Industrial Machinery
 2024-07-11,34.380001068115234,MAKIM,Industrials,Specialty Industrial Machinery
 2024-07-12,35.560001373291016,MAKIM,Industrials,Specialty Industrial Machinery
+2024-07-16,32.959999084472656,MAKIM,Industrials,Specialty Industrial Machinery
+2024-07-17,33.0,MAKIM,Industrials,Specialty Industrial Machinery
 2024-02-29,23.600000381469727,MARBL,Basic Materials,Building Materials
 2024-03-01,22.799999237060547,MARBL,Basic Materials,Building Materials
 2024-03-04,22.18000030517578,MARBL,Basic Materials,Building Materials
@@ -17544,6 +17948,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,14.630000114440918,MARBL,Basic Materials,Building Materials
 2024-07-11,15.0,MARBL,Basic Materials,Building Materials
 2024-07-12,15.039999961853027,MARBL,Basic Materials,Building Materials
+2024-07-16,16.100000381469727,MARBL,Basic Materials,Building Materials
+2024-07-17,16.049999237060547,MARBL,Basic Materials,Building Materials
 2024-02-29,4.800000190734863,MARTI,Consumer Cyclical,Lodging
 2024-03-01,5.039999961853027,MARTI,Consumer Cyclical,Lodging
 2024-03-04,5.090000152587891,MARTI,Consumer Cyclical,Lodging
@@ -17632,6 +18038,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,3.440000057220459,MARTI,Consumer Cyclical,Lodging
 2024-07-11,3.7100000381469727,MARTI,Consumer Cyclical,Lodging
 2024-07-12,3.75,MARTI,Consumer Cyclical,Lodging
+2024-07-16,3.809999942779541,MARTI,Consumer Cyclical,Lodging
+2024-07-17,4.190000057220459,MARTI,Consumer Cyclical,Lodging
 2024-02-29,70.94999694824219,MAVI,Consumer Cyclical,Apparel Retail
 2024-03-01,71.55000305175781,MAVI,Consumer Cyclical,Apparel Retail
 2024-03-04,70.5,MAVI,Consumer Cyclical,Apparel Retail
@@ -17720,6 +18128,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,128.8000030517578,MAVI,Consumer Cyclical,Apparel Retail
 2024-07-11,131.5,MAVI,Consumer Cyclical,Apparel Retail
 2024-07-12,132.6999969482422,MAVI,Consumer Cyclical,Apparel Retail
+2024-07-16,136.1999969482422,MAVI,Consumer Cyclical,Apparel Retail
+2024-07-17,132.0,MAVI,Consumer Cyclical,Apparel Retail
 2024-02-29,38.97999954223633,MEDTR,Healthcare,Medical Devices
 2024-03-01,38.52000045776367,MEDTR,Healthcare,Medical Devices
 2024-03-04,37.119998931884766,MEDTR,Healthcare,Medical Devices
@@ -17808,6 +18218,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,37.599998474121094,MEDTR,Healthcare,Medical Devices
 2024-07-11,37.70000076293945,MEDTR,Healthcare,Medical Devices
 2024-07-12,37.63999938964844,MEDTR,Healthcare,Medical Devices
+2024-07-16,37.58000183105469,MEDTR,Healthcare,Medical Devices
+2024-07-17,37.52000045776367,MEDTR,Healthcare,Medical Devices
 2024-02-29,5.039999961853027,MEGAP,Basic Materials,Specialty Chemicals
 2024-03-01,5.090000152587891,MEGAP,Basic Materials,Specialty Chemicals
 2024-03-04,5.03000020980835,MEGAP,Basic Materials,Specialty Chemicals
@@ -17896,6 +18308,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,7.320000171661377,MEGAP,Basic Materials,Specialty Chemicals
 2024-07-11,7.400000095367432,MEGAP,Basic Materials,Specialty Chemicals
 2024-07-12,7.300000190734863,MEGAP,Basic Materials,Specialty Chemicals
+2024-07-16,7.320000171661377,MEGAP,Basic Materials,Specialty Chemicals
+2024-07-17,7.53000020980835,MEGAP,Basic Materials,Specialty Chemicals
 2024-02-29,58.0,MEGMT,Industrials,Electrical Equipment & Parts
 2024-03-01,56.0,MEGMT,Industrials,Electrical Equipment & Parts
 2024-03-04,53.75,MEGMT,Industrials,Electrical Equipment & Parts
@@ -17985,6 +18399,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,42.0,MEGMT,Industrials,Electrical Equipment & Parts
 2024-07-11,41.5,MEGMT,Industrials,Electrical Equipment & Parts
 2024-07-12,40.400001525878906,MEGMT,Industrials,Electrical Equipment & Parts
+2024-07-16,40.08000183105469,MEGMT,Industrials,Electrical Equipment & Parts
+2024-07-17,40.02000045776367,MEGMT,Industrials,Electrical Equipment & Parts
 2024-02-29,72.0,MEKAG,Basic Materials,Building Materials
 2024-03-01,75.75,MEKAG,Basic Materials,Building Materials
 2024-03-04,72.05000305175781,MEKAG,Basic Materials,Building Materials
@@ -18074,6 +18490,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,54.0,MEKAG,Basic Materials,Building Materials
 2024-07-11,54.099998474121094,MEKAG,Basic Materials,Building Materials
 2024-07-12,55.400001525878906,MEKAG,Basic Materials,Building Materials
+2024-07-16,55.29999923706055,MEKAG,Basic Materials,Building Materials
+2024-07-17,55.849998474121094,MEKAG,Basic Materials,Building Materials
 2024-02-29,2.680000066757202,METRO,Consumer Defensive,Packaged Foods
 2024-03-01,2.740000009536743,METRO,Consumer Defensive,Packaged Foods
 2024-03-04,2.75,METRO,Consumer Defensive,Packaged Foods
@@ -18162,6 +18580,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,2.7699999809265137,METRO,Consumer Defensive,Packaged Foods
 2024-07-11,2.700000047683716,METRO,Consumer Defensive,Packaged Foods
 2024-07-12,2.7300000190734863,METRO,Consumer Defensive,Packaged Foods
+2024-07-16,2.809999942779541,METRO,Consumer Defensive,Packaged Foods
+2024-07-17,2.869999885559082,METRO,Consumer Defensive,Packaged Foods
 2024-02-29,493.25,MGROS,Consumer Defensive,Grocery Stores
 2024-03-01,490.75,MGROS,Consumer Defensive,Grocery Stores
 2024-03-04,474.0,MGROS,Consumer Defensive,Grocery Stores
@@ -18250,6 +18670,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,554.0,MGROS,Consumer Defensive,Grocery Stores
 2024-07-11,548.5,MGROS,Consumer Defensive,Grocery Stores
 2024-07-12,561.0,MGROS,Consumer Defensive,Grocery Stores
+2024-07-16,567.0,MGROS,Consumer Defensive,Grocery Stores
+2024-07-17,574.0,MGROS,Consumer Defensive,Grocery Stores
 2024-02-29,6.150000095367432,MHRGY,Real Estate,REIT—Office
 2024-03-01,6.090000152587891,MHRGY,Real Estate,REIT—Office
 2024-03-04,6.0,MHRGY,Real Estate,REIT—Office
@@ -18339,6 +18761,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,4.650000095367432,MHRGY,Real Estate,REIT—Office
 2024-07-11,4.730000019073486,MHRGY,Real Estate,REIT—Office
 2024-07-12,4.760000228881836,MHRGY,Real Estate,REIT—Office
+2024-07-16,4.809999942779541,MHRGY,Real Estate,REIT—Office
+2024-07-17,4.849999904632568,MHRGY,Real Estate,REIT—Office
 2024-02-29,78.30000305175781,MIATK,Technology,Information Technology Services
 2024-03-01,81.05000305175781,MIATK,Technology,Information Technology Services
 2024-03-04,78.9000015258789,MIATK,Technology,Information Technology Services
@@ -18427,6 +18851,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,55.0,MIATK,Technology,Information Technology Services
 2024-07-11,55.04999923706055,MIATK,Technology,Information Technology Services
 2024-07-12,58.099998474121094,MIATK,Technology,Information Technology Services
+2024-07-16,57.599998474121094,MIATK,Technology,Information Technology Services
+2024-07-17,61.099998474121094,MIATK,Technology,Information Technology Services
 2024-02-29,12.449999809265137,MNDRS,Consumer Cyclical,Textile Manufacturing
 2024-03-01,12.619999885559082,MNDRS,Consumer Cyclical,Textile Manufacturing
 2024-03-04,13.359999656677246,MNDRS,Consumer Cyclical,Textile Manufacturing
@@ -18515,6 +18941,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,11.899999618530273,MNDRS,Consumer Cyclical,Textile Manufacturing
 2024-07-11,12.119999885559082,MNDRS,Consumer Cyclical,Textile Manufacturing
 2024-07-12,12.520000457763672,MNDRS,Consumer Cyclical,Textile Manufacturing
+2024-07-16,12.819999694824219,MNDRS,Consumer Cyclical,Textile Manufacturing
+2024-07-17,12.75,MNDRS,Consumer Cyclical,Textile Manufacturing
 2024-02-29,7.300000190734863,MNDTR,Consumer Cyclical,Packaging & Containers
 2024-03-01,7.340000152587891,MNDTR,Consumer Cyclical,Packaging & Containers
 2024-03-04,7.25,MNDTR,Consumer Cyclical,Packaging & Containers
@@ -18603,6 +19031,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,7.429999828338623,MNDTR,Consumer Cyclical,Packaging & Containers
 2024-07-11,7.840000152587891,MNDTR,Consumer Cyclical,Packaging & Containers
 2024-07-12,7.739999771118164,MNDTR,Consumer Cyclical,Packaging & Containers
+2024-07-16,7.820000171661377,MNDTR,Consumer Cyclical,Packaging & Containers
+2024-07-17,7.789999961853027,MNDTR,Consumer Cyclical,Packaging & Containers
 2024-02-29,8.989999771118164,MOBTL,Technology,Electronics & Computer Distribution
 2024-03-01,8.5,MOBTL,Technology,Electronics & Computer Distribution
 2024-03-04,7.869999885559082,MOBTL,Technology,Electronics & Computer Distribution
@@ -18692,6 +19122,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,5.28000020980835,MOBTL,Technology,Electronics & Computer Distribution
 2024-07-11,5.369999885559082,MOBTL,Technology,Electronics & Computer Distribution
 2024-07-12,5.46999979019165,MOBTL,Technology,Electronics & Computer Distribution
+2024-07-16,5.460000038146973,MOBTL,Technology,Electronics & Computer Distribution
+2024-07-17,5.480000019073486,MOBTL,Technology,Electronics & Computer Distribution
 2024-03-05,11.329999923706055,MOGAN,Utilities,Utilities—Renewable
 2024-03-06,11.329999923706055,MOGAN,Utilities,Utilities—Renewable
 2024-03-07,12.460000038146973,MOGAN,Utilities,Utilities—Renewable
@@ -18778,6 +19210,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,11.949999809265137,MOGAN,Utilities,Utilities—Renewable
 2024-07-11,12.149999618530273,MOGAN,Utilities,Utilities—Renewable
 2024-07-12,12.069999694824219,MOGAN,Utilities,Utilities—Renewable
+2024-07-16,12.0600004196167,MOGAN,Utilities,Utilities—Renewable
+2024-07-17,12.239999771118164,MOGAN,Utilities,Utilities—Renewable
 2024-02-29,171.0,MPARK,Healthcare,Medical Care Facilities
 2024-03-01,167.0,MPARK,Healthcare,Medical Care Facilities
 2024-03-04,166.6999969482422,MPARK,Healthcare,Medical Care Facilities
@@ -18866,6 +19300,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,337.0,MPARK,Healthcare,Medical Care Facilities
 2024-07-11,345.0,MPARK,Healthcare,Medical Care Facilities
 2024-07-12,365.5,MPARK,Healthcare,Medical Care Facilities
+2024-07-16,378.0,MPARK,Healthcare,Medical Care Facilities
+2024-07-17,377.0,MPARK,Healthcare,Medical Care Facilities
 2024-02-29,5.131577968597412,MRGYO,Real Estate,REIT—Diversified
 2024-03-01,5.210525989532471,MRGYO,Real Estate,REIT—Diversified
 2024-03-04,5.219297885894775,MRGYO,Real Estate,REIT—Diversified
@@ -18954,6 +19390,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,5.480000019073486,MRGYO,Real Estate,REIT—Diversified
 2024-07-11,5.860000133514404,MRGYO,Real Estate,REIT—Diversified
 2024-07-12,5.929999828338623,MRGYO,Real Estate,REIT—Diversified
+2024-07-16,6.0,MRGYO,Real Estate,REIT—Diversified
+2024-07-17,6.309999942779541,MRGYO,Real Estate,REIT—Diversified
 2024-02-29,86.94999694824219,MTRKS,Financial Services,Financial Data & Stock Exchanges
 2024-03-01,84.0,MTRKS,Financial Services,Financial Data & Stock Exchanges
 2024-03-04,86.0999984741211,MTRKS,Financial Services,Financial Data & Stock Exchanges
@@ -19043,6 +19481,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,53.400001525878906,MTRKS,Financial Services,Financial Data & Stock Exchanges
 2024-07-11,54.0,MTRKS,Financial Services,Financial Data & Stock Exchanges
 2024-07-12,54.45000076293945,MTRKS,Financial Services,Financial Data & Stock Exchanges
+2024-07-16,53.099998474121094,MTRKS,Financial Services,Financial Data & Stock Exchanges
+2024-07-17,53.25,MTRKS,Financial Services,Financial Data & Stock Exchanges
 2024-02-29,18.06999969482422,NTGAZ,Energy,Oil & Gas Midstream
 2024-03-01,18.280000686645508,NTGAZ,Energy,Oil & Gas Midstream
 2024-03-04,17.850000381469727,NTGAZ,Energy,Oil & Gas Midstream
@@ -19130,6 +19570,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,15.619999885559082,NTGAZ,Energy,Oil & Gas Midstream
 2024-07-11,15.949999809265137,NTGAZ,Energy,Oil & Gas Midstream
 2024-07-12,15.850000381469727,NTGAZ,Energy,Oil & Gas Midstream
+2024-07-16,15.920000076293945,NTGAZ,Energy,Oil & Gas Midstream
+2024-07-17,16.469999313354492,NTGAZ,Energy,Oil & Gas Midstream
 2024-02-29,29.059999465942383,NTHOL,Consumer Cyclical,Travel Services
 2024-03-01,29.399999618530273,NTHOL,Consumer Cyclical,Travel Services
 2024-03-04,29.700000762939453,NTHOL,Consumer Cyclical,Travel Services
@@ -19218,6 +19660,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,37.380001068115234,NTHOL,Consumer Cyclical,Travel Services
 2024-07-11,38.5,NTHOL,Consumer Cyclical,Travel Services
 2024-07-12,39.29999923706055,NTHOL,Consumer Cyclical,Travel Services
+2024-07-16,40.599998474121094,NTHOL,Consumer Cyclical,Travel Services
+2024-07-17,40.0,NTHOL,Consumer Cyclical,Travel Services
 2024-05-02,41.459999084472656,OBAMS,Consumer Defensive,Packaged Foods
 2024-05-03,41.70000076293945,OBAMS,Consumer Defensive,Packaged Foods
 2024-05-06,40.779998779296875,OBAMS,Consumer Defensive,Packaged Foods
@@ -19267,6 +19711,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,35.439998626708984,OBAMS,Consumer Defensive,Packaged Foods
 2024-07-11,36.099998474121094,OBAMS,Consumer Defensive,Packaged Foods
 2024-07-12,35.70000076293945,OBAMS,Consumer Defensive,Packaged Foods
+2024-07-16,36.040000915527344,OBAMS,Consumer Defensive,Packaged Foods
+2024-07-17,36.84000015258789,OBAMS,Consumer Defensive,Packaged Foods
 2024-02-29,10.09000015258789,ODAS,Utilities,Utilities—Regulated Electric
 2024-03-01,10.65999984741211,ODAS,Utilities,Utilities—Regulated Electric
 2024-03-04,10.239999771118164,ODAS,Utilities,Utilities—Regulated Electric
@@ -19355,6 +19801,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,8.319999694824219,ODAS,Utilities,Utilities—Regulated Electric
 2024-07-11,8.720000267028809,ODAS,Utilities,Utilities—Regulated Electric
 2024-07-12,8.930000305175781,ODAS,Utilities,Utilities—Regulated Electric
+2024-07-16,9.029999732971191,ODAS,Utilities,Utilities—Regulated Electric
+2024-07-17,8.779999732971191,ODAS,Utilities,Utilities—Regulated Electric
 2024-03-21,33.0,ODINE,Technology,Software—Infrastructure
 2024-03-22,36.29999923706055,ODINE,Technology,Software—Infrastructure
 2024-03-25,39.91999816894531,ODINE,Technology,Software—Infrastructure
@@ -19429,6 +19877,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,78.55000305175781,ODINE,Technology,Software—Infrastructure
 2024-07-11,81.05000305175781,ODINE,Technology,Software—Infrastructure
 2024-07-12,83.05000305175781,ODINE,Technology,Software—Infrastructure
+2024-07-16,90.25,ODINE,Technology,Software—Infrastructure
+2024-07-17,83.55000305175781,ODINE,Technology,Software—Infrastructure
 2024-02-29,57.75,OFSYM,Consumer Defensive,Packaged Foods
 2024-03-01,57.0,OFSYM,Consumer Defensive,Packaged Foods
 2024-03-04,56.5,OFSYM,Consumer Defensive,Packaged Foods
@@ -19518,6 +19968,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,38.29999923706055,OFSYM,Consumer Defensive,Packaged Foods
 2024-07-11,40.15999984741211,OFSYM,Consumer Defensive,Packaged Foods
 2024-07-12,40.02000045776367,OFSYM,Consumer Defensive,Packaged Foods
+2024-07-16,40.599998474121094,OFSYM,Consumer Defensive,Packaged Foods
+2024-07-17,41.08000183105469,OFSYM,Consumer Defensive,Packaged Foods
 2024-05-28,54.45000076293945,ONRYT,Unknown,Unknown
 2024-05-29,59.849998474121094,ONRYT,Unknown,Unknown
 2024-05-30,65.80000305175781,ONRYT,Unknown,Unknown
@@ -19549,6 +20001,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,67.69999694824219,ONRYT,Unknown,Unknown
 2024-07-11,67.80000305175781,ONRYT,Unknown,Unknown
 2024-07-12,66.6500015258789,ONRYT,Unknown,Unknown
+2024-07-16,69.6500015258789,ONRYT,Unknown,Unknown
+2024-07-17,74.05000305175781,ONRYT,Unknown,Unknown
 2024-02-29,79.94999694824219,ORGE,Industrials,Engineering & Construction
 2024-03-01,80.0,ORGE,Industrials,Engineering & Construction
 2024-03-04,78.5,ORGE,Industrials,Engineering & Construction
@@ -19637,6 +20091,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,65.55000305175781,ORGE,Industrials,Engineering & Construction
 2024-07-11,64.4000015258789,ORGE,Industrials,Engineering & Construction
 2024-07-12,66.75,ORGE,Industrials,Engineering & Construction
+2024-07-16,71.55000305175781,ORGE,Industrials,Engineering & Construction
+2024-07-17,72.3499984741211,ORGE,Industrials,Engineering & Construction
 2024-02-29,7.460000038146973,OSTIM,Financial Services,Asset Management
 2024-03-01,7.329999923706055,OSTIM,Financial Services,Asset Management
 2024-03-04,7.300000190734863,OSTIM,Financial Services,Asset Management
@@ -19725,6 +20181,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,6.159999847412109,OSTIM,Financial Services,Asset Management
 2024-07-11,6.289999961853027,OSTIM,Financial Services,Asset Management
 2024-07-12,6.380000114440918,OSTIM,Financial Services,Asset Management
+2024-07-16,6.400000095367432,OSTIM,Financial Services,Asset Management
+2024-07-17,6.5,OSTIM,Financial Services,Asset Management
 2024-02-29,506.0,OTKAR,Consumer Cyclical,Auto Manufacturers
 2024-03-01,486.0,OTKAR,Consumer Cyclical,Auto Manufacturers
 2024-03-04,478.0,OTKAR,Consumer Cyclical,Auto Manufacturers
@@ -19813,6 +20271,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,617.0,OTKAR,Consumer Cyclical,Auto Manufacturers
 2024-07-11,641.0,OTKAR,Consumer Cyclical,Auto Manufacturers
 2024-07-12,639.0,OTKAR,Consumer Cyclical,Auto Manufacturers
+2024-07-16,623.0,OTKAR,Consumer Cyclical,Auto Manufacturers
+2024-07-17,617.0,OTKAR,Consumer Cyclical,Auto Manufacturers
 2024-02-29,70.94999694824219,OYAKC,Basic Materials,Building Materials
 2024-03-01,70.69999694824219,OYAKC,Basic Materials,Building Materials
 2024-03-04,68.0,OYAKC,Basic Materials,Building Materials
@@ -19901,6 +20361,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,73.0999984741211,OYAKC,Basic Materials,Building Materials
 2024-07-11,74.5999984741211,OYAKC,Basic Materials,Building Materials
 2024-07-12,75.0999984741211,OYAKC,Basic Materials,Building Materials
+2024-07-16,74.9000015258789,OYAKC,Basic Materials,Building Materials
+2024-07-17,75.55000305175781,OYAKC,Basic Materials,Building Materials
 2024-02-29,11.470000267028809,OYLUM,Consumer Defensive,Confectioners
 2024-03-01,12.609999656677246,OYLUM,Consumer Defensive,Confectioners
 2024-03-04,12.199999809265137,OYLUM,Consumer Defensive,Confectioners
@@ -19989,6 +20451,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,10.020000457763672,OYLUM,Consumer Defensive,Confectioners
 2024-07-11,10.199999809265137,OYLUM,Consumer Defensive,Confectioners
 2024-07-12,10.130000114440918,OYLUM,Consumer Defensive,Confectioners
+2024-07-16,10.800000190734863,OYLUM,Consumer Defensive,Confectioners
+2024-07-17,11.09000015258789,OYLUM,Consumer Defensive,Confectioners
 2024-02-29,6.369999885559082,OZGYO,Real Estate,REIT—Diversified
 2024-03-01,6.360000133514404,OZGYO,Real Estate,REIT—Diversified
 2024-03-04,6.659999847412109,OZGYO,Real Estate,REIT—Diversified
@@ -20077,6 +20541,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,5.570000171661377,OZGYO,Real Estate,REIT—Diversified
 2024-07-11,5.53000020980835,OZGYO,Real Estate,REIT—Diversified
 2024-07-12,5.579999923706055,OZGYO,Real Estate,REIT—Diversified
+2024-07-16,5.730000019073486,OZGYO,Real Estate,REIT—Diversified
+2024-07-17,5.849999904632568,OZGYO,Real Estate,REIT—Diversified
 2024-02-29,9.539999961853027,OZKGY,Real Estate,REIT—Diversified
 2024-03-01,9.600000381469727,OZKGY,Real Estate,REIT—Diversified
 2024-03-04,9.760000228881836,OZKGY,Real Estate,REIT—Diversified
@@ -20165,6 +20631,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,10.84000015258789,OZKGY,Real Estate,REIT—Diversified
 2024-07-11,11.039999961853027,OZKGY,Real Estate,REIT—Diversified
 2024-07-12,11.4399995803833,OZKGY,Real Estate,REIT—Diversified
+2024-07-16,11.619999885559082,OZKGY,Real Estate,REIT—Diversified
+2024-07-17,11.489999771118164,OZKGY,Real Estate,REIT—Diversified
 2024-02-29,58.0,OZRDN,Consumer Cyclical,Packaging & Containers
 2024-03-01,61.5,OZRDN,Consumer Cyclical,Packaging & Containers
 2024-03-04,59.75,OZRDN,Consumer Cyclical,Packaging & Containers
@@ -20253,6 +20721,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,48.5,OZRDN,Consumer Cyclical,Packaging & Containers
 2024-07-11,49.2599983215332,OZRDN,Consumer Cyclical,Packaging & Containers
 2024-07-12,48.86000061035156,OZRDN,Consumer Cyclical,Packaging & Containers
+2024-07-16,48.70000076293945,OZRDN,Consumer Cyclical,Packaging & Containers
+2024-07-17,49.52000045776367,OZRDN,Consumer Cyclical,Packaging & Containers
 2024-05-29,30.799999237060547,OZYSR,Unknown,Unknown
 2024-05-30,33.880001068115234,OZYSR,Unknown,Unknown
 2024-05-31,37.2599983215332,OZYSR,Unknown,Unknown
@@ -20283,6 +20753,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,25.639999389648438,OZYSR,Unknown,Unknown
 2024-07-11,25.920000076293945,OZYSR,Unknown,Unknown
 2024-07-12,26.31999969482422,OZYSR,Unknown,Unknown
+2024-07-16,26.6200008392334,OZYSR,Unknown,Unknown
+2024-07-17,27.600000381469727,OZYSR,Unknown,Unknown
 2024-02-29,120.4000015258789,PATEK,Technology,Information Technology Services
 2024-03-01,132.39999389648438,PATEK,Technology,Information Technology Services
 2024-03-04,145.60000610351562,PATEK,Technology,Information Technology Services
@@ -20372,6 +20844,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,68.1500015258789,PATEK,Technology,Information Technology Services
 2024-07-11,69.44999694824219,PATEK,Technology,Information Technology Services
 2024-07-12,69.80000305175781,PATEK,Technology,Information Technology Services
+2024-07-16,71.5999984741211,PATEK,Technology,Information Technology Services
+2024-07-17,71.9000015258789,PATEK,Technology,Information Technology Services
 2024-02-29,15.850000381469727,PCILT,Communication Services,Advertising Agencies
 2024-03-01,17.43000030517578,PCILT,Communication Services,Advertising Agencies
 2024-03-04,19.170000076293945,PCILT,Communication Services,Advertising Agencies
@@ -20460,6 +20934,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,16.989999771118164,PCILT,Communication Services,Advertising Agencies
 2024-07-11,17.09000015258789,PCILT,Communication Services,Advertising Agencies
 2024-07-12,16.670000076293945,PCILT,Communication Services,Advertising Agencies
+2024-07-16,16.75,PCILT,Communication Services,Advertising Agencies
+2024-07-17,16.829999923706055,PCILT,Communication Services,Advertising Agencies
 2024-02-29,20.739999771118164,PENTA,Technology,Electronics & Computer Distribution
 2024-03-01,21.18000030517578,PENTA,Technology,Electronics & Computer Distribution
 2024-03-04,20.6200008392334,PENTA,Technology,Electronics & Computer Distribution
@@ -20548,6 +21024,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,15.729999542236328,PENTA,Technology,Electronics & Computer Distribution
 2024-07-11,16.020000457763672,PENTA,Technology,Electronics & Computer Distribution
 2024-07-12,16.270000457763672,PENTA,Technology,Electronics & Computer Distribution
+2024-07-16,16.110000610351562,PENTA,Technology,Electronics & Computer Distribution
+2024-07-17,16.1299991607666,PENTA,Technology,Electronics & Computer Distribution
 2024-02-29,24.200000762939453,PETKM,Basic Materials,Chemicals
 2024-03-01,23.739999771118164,PETKM,Basic Materials,Chemicals
 2024-03-04,22.959999084472656,PETKM,Basic Materials,Chemicals
@@ -20636,6 +21114,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,23.700000762939453,PETKM,Basic Materials,Chemicals
 2024-07-11,23.760000228881836,PETKM,Basic Materials,Chemicals
 2024-07-12,23.6200008392334,PETKM,Basic Materials,Chemicals
+2024-07-16,24.079999923706055,PETKM,Basic Materials,Chemicals
+2024-07-17,24.479999542236328,PETKM,Basic Materials,Chemicals
 2024-02-29,89.0,PETUN,Consumer Defensive,Packaged Foods
 2024-03-01,93.19999694824219,PETUN,Consumer Defensive,Packaged Foods
 2024-03-04,98.8499984741211,PETUN,Consumer Defensive,Packaged Foods
@@ -20724,6 +21204,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,84.1500015258789,PETUN,Consumer Defensive,Packaged Foods
 2024-07-11,87.4000015258789,PETUN,Consumer Defensive,Packaged Foods
 2024-07-12,89.3499984741211,PETUN,Consumer Defensive,Packaged Foods
+2024-07-16,91.0,PETUN,Consumer Defensive,Packaged Foods
+2024-07-17,90.19999694824219,PETUN,Consumer Defensive,Packaged Foods
 2024-02-29,175.44400024414062,PGSUS,Industrials,Airlines
 2024-03-01,170.5336151123047,PGSUS,Industrials,Airlines
 2024-03-04,171.04510498046875,PGSUS,Industrials,Airlines
@@ -20813,6 +21295,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,245.60000610351562,PGSUS,Industrials,Airlines
 2024-07-11,252.0,PGSUS,Industrials,Airlines
 2024-07-12,251.75,PGSUS,Industrials,Airlines
+2024-07-16,257.0,PGSUS,Industrials,Airlines
+2024-07-17,255.25,PGSUS,Industrials,Airlines
 2024-02-29,67.6500015258789,PKART,Industrials,Business Equipment & Supplies
 2024-03-01,66.69999694824219,PKART,Industrials,Business Equipment & Supplies
 2024-03-04,64.69999694824219,PKART,Industrials,Business Equipment & Supplies
@@ -20901,6 +21385,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,91.5999984741211,PKART,Industrials,Business Equipment & Supplies
 2024-07-11,90.5999984741211,PKART,Industrials,Business Equipment & Supplies
 2024-07-12,92.44999694824219,PKART,Industrials,Business Equipment & Supplies
+2024-07-16,91.44999694824219,PKART,Industrials,Business Equipment & Supplies
+2024-07-17,94.1500015258789,PKART,Industrials,Business Equipment & Supplies
 2024-02-29,19.299999237060547,PLTUR,Industrials,Rental & Leasing Services
 2024-03-01,20.799999237060547,PLTUR,Industrials,Rental & Leasing Services
 2024-03-04,22.040000915527344,PLTUR,Industrials,Rental & Leasing Services
@@ -20989,6 +21475,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,23.440000534057617,PLTUR,Industrials,Rental & Leasing Services
 2024-07-11,23.579999923706055,PLTUR,Industrials,Rental & Leasing Services
 2024-07-12,22.860000610351562,PLTUR,Industrials,Rental & Leasing Services
+2024-07-16,21.799999237060547,PLTUR,Industrials,Rental & Leasing Services
+2024-07-17,23.780000686645508,PLTUR,Industrials,Rental & Leasing Services
 2024-02-29,93.0,PNLSN,Industrials,Building Products & Equipment
 2024-03-01,89.1500015258789,PNLSN,Industrials,Building Products & Equipment
 2024-03-04,92.0,PNLSN,Industrials,Building Products & Equipment
@@ -21077,6 +21565,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,61.099998474121094,PNLSN,Industrials,Building Products & Equipment
 2024-07-11,62.0,PNLSN,Industrials,Building Products & Equipment
 2024-07-12,61.849998474121094,PNLSN,Industrials,Building Products & Equipment
+2024-07-16,60.900001525878906,PNLSN,Industrials,Building Products & Equipment
+2024-07-17,63.54999923706055,PNLSN,Industrials,Building Products & Equipment
 2024-02-29,89.80000305175781,PNSUT,Consumer Defensive,Packaged Foods
 2024-03-01,96.19999694824219,PNSUT,Consumer Defensive,Packaged Foods
 2024-03-04,98.3499984741211,PNSUT,Consumer Defensive,Packaged Foods
@@ -21165,6 +21655,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,86.80000305175781,PNSUT,Consumer Defensive,Packaged Foods
 2024-07-11,89.4000015258789,PNSUT,Consumer Defensive,Packaged Foods
 2024-07-12,90.9000015258789,PNSUT,Consumer Defensive,Packaged Foods
+2024-07-16,92.3499984741211,PNSUT,Consumer Defensive,Packaged Foods
+2024-07-17,91.05000305175781,PNSUT,Consumer Defensive,Packaged Foods
 2024-02-29,39.91999816894531,PRKAB,Industrials,Electrical Equipment & Parts
 2024-03-01,39.5,PRKAB,Industrials,Electrical Equipment & Parts
 2024-03-04,38.34000015258789,PRKAB,Industrials,Electrical Equipment & Parts
@@ -21253,6 +21745,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,35.880001068115234,PRKAB,Industrials,Electrical Equipment & Parts
 2024-07-11,36.58000183105469,PRKAB,Industrials,Electrical Equipment & Parts
 2024-07-12,37.13999938964844,PRKAB,Industrials,Electrical Equipment & Parts
+2024-07-16,36.65999984741211,PRKAB,Industrials,Electrical Equipment & Parts
+2024-07-17,37.20000076293945,PRKAB,Industrials,Electrical Equipment & Parts
 2024-02-29,24.139999389648438,PRKME,Energy,Thermal Coal
 2024-03-01,24.299999237060547,PRKME,Energy,Thermal Coal
 2024-03-04,23.860000610351562,PRKME,Energy,Thermal Coal
@@ -21341,6 +21835,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,25.059999465942383,PRKME,Energy,Thermal Coal
 2024-07-11,25.700000762939453,PRKME,Energy,Thermal Coal
 2024-07-12,26.399999618530273,PRKME,Energy,Thermal Coal
+2024-07-16,26.020000457763672,PRKME,Energy,Thermal Coal
+2024-07-17,27.219999313354492,PRKME,Energy,Thermal Coal
 2024-02-29,277.25,QNBFB,Financial Services,Banks—Regional
 2024-03-01,303.75,QNBFB,Financial Services,Banks—Regional
 2024-03-04,322.5,QNBFB,Financial Services,Banks—Regional
@@ -21429,6 +21925,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,300.0,QNBFB,Financial Services,Banks—Regional
 2024-07-11,301.75,QNBFB,Financial Services,Banks—Regional
 2024-07-12,302.25,QNBFB,Financial Services,Banks—Regional
+2024-07-16,305.0,QNBFB,Financial Services,Banks—Regional
+2024-07-17,299.75,QNBFB,Financial Services,Banks—Regional
 2024-02-29,4.320000171661377,QUAGR,Industrials,Building Products & Equipment
 2024-03-01,4.340000152587891,QUAGR,Industrials,Building Products & Equipment
 2024-03-04,4.190000057220459,QUAGR,Industrials,Building Products & Equipment
@@ -21517,6 +22015,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,3.240000009536743,QUAGR,Industrials,Building Products & Equipment
 2024-07-11,3.380000114440918,QUAGR,Industrials,Building Products & Equipment
 2024-07-12,3.390000104904175,QUAGR,Industrials,Building Products & Equipment
+2024-07-16,3.4200000762939453,QUAGR,Industrials,Building Products & Equipment
+2024-07-17,3.4200000762939453,QUAGR,Industrials,Building Products & Equipment
 2024-02-29,69.19999694824219,REEDR,Technology,Consumer Electronics
 2024-03-01,76.0999984741211,REEDR,Technology,Consumer Electronics
 2024-03-04,72.44999694824219,REEDR,Technology,Consumer Electronics
@@ -21606,6 +22106,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,33.599998474121094,REEDR,Technology,Consumer Electronics
 2024-07-11,34.060001373291016,REEDR,Technology,Consumer Electronics
 2024-07-12,34.81999969482422,REEDR,Technology,Consumer Electronics
+2024-07-16,34.439998626708984,REEDR,Technology,Consumer Electronics
+2024-07-17,34.900001525878906,REEDR,Technology,Consumer Electronics
 2024-04-26,148.5,RGYAS,Real Estate,Real Estate—Development
 2024-04-29,133.6999969482422,RGYAS,Real Estate,Real Estate—Development
 2024-04-30,127.80000305175781,RGYAS,Real Estate,Real Estate—Development
@@ -21658,6 +22160,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,120.30000305175781,RGYAS,Real Estate,Real Estate—Development
 2024-07-11,121.69999694824219,RGYAS,Real Estate,Real Estate—Development
 2024-07-12,121.5999984741211,RGYAS,Real Estate,Real Estate—Development
+2024-07-16,122.30000305175781,RGYAS,Real Estate,Real Estate—Development
+2024-07-17,122.4000015258789,RGYAS,Real Estate,Real Estate—Development
 2024-02-29,43.68000030517578,RNPOL,Basic Materials,Specialty Chemicals
 2024-03-01,46.47999954223633,RNPOL,Basic Materials,Specialty Chemicals
 2024-03-04,43.0,RNPOL,Basic Materials,Specialty Chemicals
@@ -21747,6 +22251,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,28.440000534057617,RNPOL,Basic Materials,Specialty Chemicals
 2024-07-11,29.020000457763672,RNPOL,Basic Materials,Specialty Chemicals
 2024-07-12,29.440000534057617,RNPOL,Basic Materials,Specialty Chemicals
+2024-07-16,29.34000015258789,RNPOL,Basic Materials,Specialty Chemicals
+2024-07-17,31.959999084472656,RNPOL,Basic Materials,Specialty Chemicals
 2024-02-29,14.449999809265137,RTALB,Healthcare,Biotechnology
 2024-03-01,14.449999809265137,RTALB,Healthcare,Biotechnology
 2024-03-04,13.960000038146973,RTALB,Healthcare,Biotechnology
@@ -21835,6 +22341,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,11.460000038146973,RTALB,Healthcare,Biotechnology
 2024-07-11,11.600000381469727,RTALB,Healthcare,Biotechnology
 2024-07-12,11.670000076293945,RTALB,Healthcare,Biotechnology
+2024-07-16,11.850000381469727,RTALB,Healthcare,Biotechnology
+2024-07-17,11.890000343322754,RTALB,Healthcare,Biotechnology
 2024-02-29,24.780000686645508,RYGYO,Real Estate,REIT—Industrial
 2024-03-01,25.299999237060547,RYGYO,Real Estate,REIT—Industrial
 2024-03-04,25.239999771118164,RYGYO,Real Estate,REIT—Industrial
@@ -21923,6 +22431,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,51.900001525878906,RYGYO,Real Estate,REIT—Industrial
 2024-07-11,51.79999923706055,RYGYO,Real Estate,REIT—Industrial
 2024-07-12,51.95000076293945,RYGYO,Real Estate,REIT—Industrial
+2024-07-16,52.29999923706055,RYGYO,Real Estate,REIT—Industrial
+2024-07-17,52.29999923706055,RYGYO,Real Estate,REIT—Industrial
 2024-02-29,79.5,SAHOL,Financial Services,Banks—Regional
 2024-03-01,77.75,SAHOL,Financial Services,Banks—Regional
 2024-03-04,76.9000015258789,SAHOL,Financial Services,Banks—Regional
@@ -22011,6 +22521,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,101.0,SAHOL,Financial Services,Banks—Regional
 2024-07-11,106.4000015258789,SAHOL,Financial Services,Banks—Regional
 2024-07-12,108.19999694824219,SAHOL,Financial Services,Banks—Regional
+2024-07-16,108.0,SAHOL,Financial Services,Banks—Regional
+2024-07-17,107.0999984741211,SAHOL,Financial Services,Banks—Regional
 2024-02-29,33.959999084472656,SARKY,Basic Materials,Copper
 2024-03-01,34.0,SARKY,Basic Materials,Copper
 2024-03-04,32.58000183105469,SARKY,Basic Materials,Copper
@@ -22099,6 +22611,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,37.779998779296875,SARKY,Basic Materials,Copper
 2024-07-11,37.400001525878906,SARKY,Basic Materials,Copper
 2024-07-12,36.2400016784668,SARKY,Basic Materials,Copper
+2024-07-16,35.959999084472656,SARKY,Basic Materials,Copper
+2024-07-17,35.380001068115234,SARKY,Basic Materials,Copper
 2024-02-29,39.560001373291016,SASA,Consumer Cyclical,Textile Manufacturing
 2024-03-01,38.79999923706055,SASA,Consumer Cyclical,Textile Manufacturing
 2024-03-04,37.220001220703125,SASA,Consumer Cyclical,Textile Manufacturing
@@ -22187,6 +22701,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,43.08000183105469,SASA,Consumer Cyclical,Textile Manufacturing
 2024-07-11,44.41999816894531,SASA,Consumer Cyclical,Textile Manufacturing
 2024-07-12,44.0,SASA,Consumer Cyclical,Textile Manufacturing
+2024-07-16,43.70000076293945,SASA,Consumer Cyclical,Textile Manufacturing
+2024-07-17,43.599998474121094,SASA,Consumer Cyclical,Textile Manufacturing
 2024-02-29,94.30000305175781,SAYAS,Industrials,Specialty Industrial Machinery
 2024-03-01,91.80000305175781,SAYAS,Industrials,Specialty Industrial Machinery
 2024-03-04,89.9000015258789,SAYAS,Industrials,Specialty Industrial Machinery
@@ -22275,6 +22791,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,65.8499984741211,SAYAS,Industrials,Specialty Industrial Machinery
 2024-07-11,67.05000305175781,SAYAS,Industrials,Specialty Industrial Machinery
 2024-07-12,67.80000305175781,SAYAS,Industrials,Specialty Industrial Machinery
+2024-07-16,66.0999984741211,SAYAS,Industrials,Specialty Industrial Machinery
+2024-07-17,66.44999694824219,SAYAS,Industrials,Specialty Industrial Machinery
 2024-02-29,60.150001525878906,SELEC,Healthcare,Medical Distribution
 2024-03-01,58.900001525878906,SELEC,Healthcare,Medical Distribution
 2024-03-04,57.349998474121094,SELEC,Healthcare,Medical Distribution
@@ -22363,6 +22881,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,48.20000076293945,SELEC,Healthcare,Medical Distribution
 2024-07-11,48.68000030517578,SELEC,Healthcare,Medical Distribution
 2024-07-12,49.5,SELEC,Healthcare,Medical Distribution
+2024-07-16,51.54999923706055,SELEC,Healthcare,Medical Distribution
+2024-07-17,53.20000076293945,SELEC,Healthcare,Medical Distribution
 2024-02-29,62.0,SELGD,Consumer Defensive,Packaged Foods
 2024-03-01,65.6500015258789,SELGD,Consumer Defensive,Packaged Foods
 2024-03-04,60.650001525878906,SELGD,Consumer Defensive,Packaged Foods
@@ -22451,6 +22971,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,49.400001525878906,SELGD,Consumer Defensive,Packaged Foods
 2024-07-11,51.849998474121094,SELGD,Consumer Defensive,Packaged Foods
 2024-07-12,55.0,SELGD,Consumer Defensive,Packaged Foods
+2024-07-16,55.45000076293945,SELGD,Consumer Defensive,Packaged Foods
+2024-07-17,55.25,SELGD,Consumer Defensive,Packaged Foods
 2024-02-29,51.150001525878906,SISE,Basic Materials,Specialty Chemicals
 2024-03-01,50.349998474121094,SISE,Basic Materials,Specialty Chemicals
 2024-03-04,50.79999923706055,SISE,Basic Materials,Specialty Chemicals
@@ -22539,6 +23061,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,49.47999954223633,SISE,Basic Materials,Specialty Chemicals
 2024-07-11,50.5,SISE,Basic Materials,Specialty Chemicals
 2024-07-12,50.0,SISE,Basic Materials,Specialty Chemicals
+2024-07-16,50.0,SISE,Basic Materials,Specialty Chemicals
+2024-07-17,50.650001525878906,SISE,Basic Materials,Specialty Chemicals
 2024-02-29,4.739999771118164,SKBNK,Financial Services,Banks—Regional
 2024-03-01,4.710000038146973,SKBNK,Financial Services,Banks—Regional
 2024-03-04,4.559999942779541,SKBNK,Financial Services,Banks—Regional
@@ -22627,6 +23151,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,4.050000190734863,SKBNK,Financial Services,Banks—Regional
 2024-07-11,4.159999847412109,SKBNK,Financial Services,Banks—Regional
 2024-07-12,4.150000095367432,SKBNK,Financial Services,Banks—Regional
+2024-07-16,4.150000095367432,SKBNK,Financial Services,Banks—Regional
+2024-07-17,4.119999885559082,SKBNK,Financial Services,Banks—Regional
 2024-02-29,4.900000095367432,SKTAS,Consumer Cyclical,Textile Manufacturing
 2024-03-01,4.920000076293945,SKTAS,Consumer Cyclical,Textile Manufacturing
 2024-03-04,4.849999904632568,SKTAS,Consumer Cyclical,Textile Manufacturing
@@ -22715,6 +23241,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,5.5,SKTAS,Consumer Cyclical,Textile Manufacturing
 2024-07-11,5.71999979019165,SKTAS,Consumer Cyclical,Textile Manufacturing
 2024-07-12,5.659999847412109,SKTAS,Consumer Cyclical,Textile Manufacturing
+2024-07-16,5.710000038146973,SKTAS,Consumer Cyclical,Textile Manufacturing
+2024-07-17,5.650000095367432,SKTAS,Consumer Cyclical,Textile Manufacturing
 2024-02-29,4.900000095367432,SKTAS,Consumer Cyclical,Textile Manufacturing
 2024-03-01,4.920000076293945,SKTAS,Consumer Cyclical,Textile Manufacturing
 2024-03-04,4.849999904632568,SKTAS,Consumer Cyclical,Textile Manufacturing
@@ -22803,6 +23331,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,5.5,SKTAS,Consumer Cyclical,Textile Manufacturing
 2024-07-11,5.71999979019165,SKTAS,Consumer Cyclical,Textile Manufacturing
 2024-07-12,5.659999847412109,SKTAS,Consumer Cyclical,Textile Manufacturing
+2024-07-16,5.710000038146973,SKTAS,Consumer Cyclical,Textile Manufacturing
+2024-07-17,5.650000095367432,SKTAS,Consumer Cyclical,Textile Manufacturing
 2024-02-29,4.0,SNGYO,Real Estate,REIT—Residential
 2024-03-01,4.099999904632568,SNGYO,Real Estate,REIT—Residential
 2024-03-04,4.159999847412109,SNGYO,Real Estate,REIT—Residential
@@ -22891,6 +23421,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,6.03000020980835,SNGYO,Real Estate,REIT—Residential
 2024-07-11,6.150000095367432,SNGYO,Real Estate,REIT—Residential
 2024-07-12,6.21999979019165,SNGYO,Real Estate,REIT—Residential
+2024-07-16,6.300000190734863,SNGYO,Real Estate,REIT—Residential
+2024-07-17,6.420000076293945,SNGYO,Real Estate,REIT—Residential
 2024-02-29,67.0,SOKM,Consumer Cyclical,Department Stores
 2024-03-01,65.8499984741211,SOKM,Consumer Cyclical,Department Stores
 2024-03-04,64.5999984741211,SOKM,Consumer Cyclical,Department Stores
@@ -22979,6 +23511,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,64.3499984741211,SOKM,Consumer Cyclical,Department Stores
 2024-07-11,64.3499984741211,SOKM,Consumer Cyclical,Department Stores
 2024-07-12,65.1500015258789,SOKM,Consumer Cyclical,Department Stores
+2024-07-16,66.19999694824219,SOKM,Consumer Cyclical,Department Stores
+2024-07-17,66.05000305175781,SOKM,Consumer Cyclical,Department Stores
 2024-02-29,18.93000030517578,SUNTK,Consumer Cyclical,Apparel Manufacturing
 2024-03-01,19.100000381469727,SUNTK,Consumer Cyclical,Apparel Manufacturing
 2024-03-04,18.719999313354492,SUNTK,Consumer Cyclical,Apparel Manufacturing
@@ -23067,6 +23601,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,20.139999389648438,SUNTK,Consumer Cyclical,Apparel Manufacturing
 2024-07-11,20.799999237060547,SUNTK,Consumer Cyclical,Apparel Manufacturing
 2024-07-12,20.959999084472656,SUNTK,Consumer Cyclical,Apparel Manufacturing
+2024-07-16,21.719999313354492,SUNTK,Consumer Cyclical,Apparel Manufacturing
+2024-07-17,21.719999313354492,SUNTK,Consumer Cyclical,Apparel Manufacturing
 2024-02-29,20.6200008392334,SUWEN,Consumer Cyclical,Apparel Manufacturing
 2024-03-01,20.700000762939453,SUWEN,Consumer Cyclical,Apparel Manufacturing
 2024-03-04,21.239999771118164,SUWEN,Consumer Cyclical,Apparel Manufacturing
@@ -23155,6 +23691,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,30.059999465942383,SUWEN,Consumer Cyclical,Apparel Manufacturing
 2024-07-11,30.059999465942383,SUWEN,Consumer Cyclical,Apparel Manufacturing
 2024-07-12,30.1200008392334,SUWEN,Consumer Cyclical,Apparel Manufacturing
+2024-07-16,31.139999389648438,SUWEN,Consumer Cyclical,Apparel Manufacturing
+2024-07-17,33.380001068115234,SUWEN,Consumer Cyclical,Apparel Manufacturing
 2024-02-29,137.8000030517578,TABGD,Consumer Cyclical,Restaurants
 2024-03-01,137.10000610351562,TABGD,Consumer Cyclical,Restaurants
 2024-03-04,136.8000030517578,TABGD,Consumer Cyclical,Restaurants
@@ -23244,6 +23782,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,191.5,TABGD,Consumer Cyclical,Restaurants
 2024-07-11,197.0,TABGD,Consumer Cyclical,Restaurants
 2024-07-12,198.3000030517578,TABGD,Consumer Cyclical,Restaurants
+2024-07-16,203.0,TABGD,Consumer Cyclical,Restaurants
+2024-07-17,203.5,TABGD,Consumer Cyclical,Restaurants
 2024-02-29,802.0,TARKM,Basic Materials,Chemicals
 2024-03-01,789.5,TARKM,Basic Materials,Chemicals
 2024-03-04,754.0,TARKM,Basic Materials,Chemicals
@@ -23333,6 +23873,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,501.5,TARKM,Basic Materials,Chemicals
 2024-07-11,500.5,TARKM,Basic Materials,Chemicals
 2024-07-12,485.0,TARKM,Basic Materials,Chemicals
+2024-07-16,492.5,TARKM,Basic Materials,Chemicals
+2024-07-17,487.0,TARKM,Basic Materials,Chemicals
 2024-02-29,39.20000076293945,TATEN,Utilities,Utilities—Renewable
 2024-03-01,39.2400016784668,TATEN,Utilities,Utilities—Renewable
 2024-03-04,37.060001373291016,TATEN,Utilities,Utilities—Renewable
@@ -23422,6 +23964,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,29.0,TATEN,Utilities,Utilities—Renewable
 2024-07-11,29.719999313354492,TATEN,Utilities,Utilities—Renewable
 2024-07-12,29.5,TATEN,Utilities,Utilities—Renewable
+2024-07-16,29.360000610351562,TATEN,Utilities,Utilities—Renewable
+2024-07-17,29.399999618530273,TATEN,Utilities,Utilities—Renewable
 2024-02-29,35.31999969482422,TATGD,Consumer Defensive,Packaged Foods
 2024-03-01,35.779998779296875,TATGD,Consumer Defensive,Packaged Foods
 2024-03-04,35.20000076293945,TATGD,Consumer Defensive,Packaged Foods
@@ -23510,6 +24054,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,25.959999084472656,TATGD,Consumer Defensive,Packaged Foods
 2024-07-11,26.860000610351562,TATGD,Consumer Defensive,Packaged Foods
 2024-07-12,27.239999771118164,TATGD,Consumer Defensive,Packaged Foods
+2024-07-16,26.739999771118164,TATGD,Consumer Defensive,Packaged Foods
+2024-07-17,27.399999618530273,TATGD,Consumer Defensive,Packaged Foods
 2024-02-29,174.5,TAVHL,Industrials,Airports & Air Services
 2024-03-01,170.8000030517578,TAVHL,Industrials,Airports & Air Services
 2024-03-04,166.10000610351562,TAVHL,Industrials,Airports & Air Services
@@ -23598,6 +24144,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,275.75,TAVHL,Industrials,Airports & Air Services
 2024-07-11,273.0,TAVHL,Industrials,Airports & Air Services
 2024-07-12,280.0,TAVHL,Industrials,Airports & Air Services
+2024-07-16,287.25,TAVHL,Industrials,Airports & Air Services
+2024-07-17,290.75,TAVHL,Industrials,Airports & Air Services
 2024-02-29,66.94999694824219,TCELL,Communication Services,Telecom Services
 2024-03-01,66.30000305175781,TCELL,Communication Services,Telecom Services
 2024-03-04,63.95000076293945,TCELL,Communication Services,Telecom Services
@@ -23686,6 +24234,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,109.0,TCELL,Communication Services,Telecom Services
 2024-07-11,111.19999694824219,TCELL,Communication Services,Telecom Services
 2024-07-12,111.0999984741211,TCELL,Communication Services,Telecom Services
+2024-07-16,109.0,TCELL,Communication Services,Telecom Services
+2024-07-17,109.4000015258789,TCELL,Communication Services,Telecom Services
 2024-02-29,4.139999866485596,TEKTU,Consumer Cyclical,Lodging
 2024-03-01,4.25,TEKTU,Consumer Cyclical,Lodging
 2024-03-04,4.46999979019165,TEKTU,Consumer Cyclical,Lodging
@@ -23774,6 +24324,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,4.409999847412109,TEKTU,Consumer Cyclical,Lodging
 2024-07-11,4.5,TEKTU,Consumer Cyclical,Lodging
 2024-07-12,4.820000171661377,TEKTU,Consumer Cyclical,Lodging
+2024-07-16,4.820000171661377,TEKTU,Consumer Cyclical,Lodging
+2024-07-17,5.0,TEKTU,Consumer Cyclical,Lodging
 2024-02-29,40.79999923706055,TERA,Financial Services,Capital Markets
 2024-03-01,41.279998779296875,TERA,Financial Services,Capital Markets
 2024-03-04,41.68000030517578,TERA,Financial Services,Capital Markets
@@ -23862,6 +24414,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,34.81999969482422,TERA,Financial Services,Capital Markets
 2024-07-11,35.79999923706055,TERA,Financial Services,Capital Markets
 2024-07-12,35.58000183105469,TERA,Financial Services,Capital Markets
+2024-07-16,36.040000915527344,TERA,Financial Services,Capital Markets
+2024-07-17,36.52000045776367,TERA,Financial Services,Capital Markets
 2024-02-29,23.600000381469727,TEZOL,Basic Materials,Paper & Paper Products
 2024-03-01,23.239999771118164,TEZOL,Basic Materials,Paper & Paper Products
 2024-03-04,23.34000015258789,TEZOL,Basic Materials,Paper & Paper Products
@@ -23950,6 +24504,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,18.399999618530273,TEZOL,Basic Materials,Paper & Paper Products
 2024-07-11,18.780000686645508,TEZOL,Basic Materials,Paper & Paper Products
 2024-07-12,18.549999237060547,TEZOL,Basic Materials,Paper & Paper Products
+2024-07-16,18.43000030517578,TEZOL,Basic Materials,Paper & Paper Products
+2024-07-17,18.360000610351562,TEZOL,Basic Materials,Paper & Paper Products
 2024-02-29,281.75,THYAO,Industrials,Airlines
 2024-03-01,277.75,THYAO,Industrials,Airlines
 2024-03-04,270.5,THYAO,Industrials,Airlines
@@ -24038,6 +24594,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,304.75,THYAO,Industrials,Airlines
 2024-07-11,310.0,THYAO,Industrials,Airlines
 2024-07-12,307.25,THYAO,Industrials,Airlines
+2024-07-16,307.5,THYAO,Industrials,Airlines
+2024-07-17,309.25,THYAO,Industrials,Airlines
 2024-02-29,46.97999954223633,TKFEN,Industrials,Engineering & Construction
 2024-03-01,46.08000183105469,TKFEN,Industrials,Engineering & Construction
 2024-03-04,44.84000015258789,TKFEN,Industrials,Engineering & Construction
@@ -24126,6 +24684,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,58.20000076293945,TKFEN,Industrials,Engineering & Construction
 2024-07-11,59.400001525878906,TKFEN,Industrials,Engineering & Construction
 2024-07-12,58.5,TKFEN,Industrials,Engineering & Construction
+2024-07-16,57.29999923706055,TKFEN,Industrials,Engineering & Construction
+2024-07-17,56.04999923706055,TKFEN,Industrials,Engineering & Construction
 2024-02-29,50.5,TKNSA,Consumer Cyclical,Specialty Retail
 2024-03-01,49.36000061035156,TKNSA,Consumer Cyclical,Specialty Retail
 2024-03-04,46.2599983215332,TKNSA,Consumer Cyclical,Specialty Retail
@@ -24214,6 +24774,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,32.79999923706055,TKNSA,Consumer Cyclical,Specialty Retail
 2024-07-11,33.5,TKNSA,Consumer Cyclical,Specialty Retail
 2024-07-12,33.0,TKNSA,Consumer Cyclical,Specialty Retail
+2024-07-16,32.34000015258789,TKNSA,Consumer Cyclical,Specialty Retail
+2024-07-17,32.63999938964844,TKNSA,Consumer Cyclical,Specialty Retail
 2024-02-29,118.80000305175781,TLMAN,Industrials,Marine Shipping
 2024-03-01,129.89999389648438,TLMAN,Industrials,Marine Shipping
 2024-03-04,137.10000610351562,TLMAN,Industrials,Marine Shipping
@@ -24302,6 +24864,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,104.9000015258789,TLMAN,Industrials,Marine Shipping
 2024-07-11,109.69999694824219,TLMAN,Industrials,Marine Shipping
 2024-07-12,108.5999984741211,TLMAN,Industrials,Marine Shipping
+2024-07-16,108.80000305175781,TLMAN,Industrials,Marine Shipping
+2024-07-17,112.5999984741211,TLMAN,Industrials,Marine Shipping
 2024-02-29,73.80000305175781,TNZTP,Healthcare,Medical Care Facilities
 2024-03-01,74.5,TNZTP,Healthcare,Medical Care Facilities
 2024-03-04,69.05000305175781,TNZTP,Healthcare,Medical Care Facilities
@@ -24390,6 +24954,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,58.599998474121094,TNZTP,Healthcare,Medical Care Facilities
 2024-07-11,59.75,TNZTP,Healthcare,Medical Care Facilities
 2024-07-12,61.0,TNZTP,Healthcare,Medical Care Facilities
+2024-07-16,60.0,TNZTP,Healthcare,Medical Care Facilities
+2024-07-17,59.599998474121094,TNZTP,Healthcare,Medical Care Facilities
 2024-02-29,267.5,TOASO,Consumer Cyclical,Auto Manufacturers
 2024-03-01,261.0,TOASO,Consumer Cyclical,Auto Manufacturers
 2024-03-04,255.0,TOASO,Consumer Cyclical,Auto Manufacturers
@@ -24478,6 +25044,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,315.0,TOASO,Consumer Cyclical,Auto Manufacturers
 2024-07-11,314.5,TOASO,Consumer Cyclical,Auto Manufacturers
 2024-07-12,313.0,TOASO,Consumer Cyclical,Auto Manufacturers
+2024-07-16,306.5,TOASO,Consumer Cyclical,Auto Manufacturers
+2024-07-17,299.0,TOASO,Consumer Cyclical,Auto Manufacturers
 2024-02-29,26.260000228881836,TRCAS,Utilities,Utilities—Independent Power Producers
 2024-03-01,27.34000015258789,TRCAS,Utilities,Utilities—Independent Power Producers
 2024-03-04,27.700000762939453,TRCAS,Utilities,Utilities—Independent Power Producers
@@ -24566,6 +25134,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,28.0,TRCAS,Utilities,Utilities—Independent Power Producers
 2024-07-11,28.540000915527344,TRCAS,Utilities,Utilities—Independent Power Producers
 2024-07-12,28.68000030517578,TRCAS,Utilities,Utilities—Independent Power Producers
+2024-07-16,29.020000457763672,TRCAS,Utilities,Utilities—Independent Power Producers
+2024-07-17,30.540000915527344,TRCAS,Utilities,Utilities—Independent Power Producers
 2024-02-29,37.41999816894531,TRGYO,Real Estate,REIT—Retail
 2024-03-01,37.5,TRGYO,Real Estate,REIT—Retail
 2024-03-04,36.5,TRGYO,Real Estate,REIT—Retail
@@ -24654,6 +25224,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,53.099998474121094,TRGYO,Real Estate,REIT—Retail
 2024-07-11,53.099998474121094,TRGYO,Real Estate,REIT—Retail
 2024-07-12,55.5,TRGYO,Real Estate,REIT—Retail
+2024-07-16,56.599998474121094,TRGYO,Real Estate,REIT—Retail
+2024-07-17,55.04999923706055,TRGYO,Real Estate,REIT—Retail
 2024-02-29,12.880000114440918,TRILC,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-03-01,13.109999656677246,TRILC,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-03-04,12.989999771118164,TRILC,Healthcare,Drug Manufacturers—Specialty & Generic
@@ -24741,6 +25313,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,27.299999237060547,TRILC,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-07-11,26.360000610351562,TRILC,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-07-12,25.139999389648438,TRILC,Healthcare,Drug Manufacturers—Specialty & Generic
+2024-07-16,24.540000915527344,TRILC,Healthcare,Drug Manufacturers—Specialty & Generic
+2024-07-17,25.31999969482422,TRILC,Healthcare,Drug Manufacturers—Specialty & Generic
 2024-02-29,8.949999809265137,TSGYO,Real Estate,REIT—Office
 2024-03-01,8.930000305175781,TSGYO,Real Estate,REIT—Office
 2024-03-04,8.930000305175781,TSGYO,Real Estate,REIT—Office
@@ -24829,6 +25403,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,12.630000114440918,TSGYO,Real Estate,REIT—Office
 2024-07-11,12.90999984741211,TSGYO,Real Estate,REIT—Office
 2024-07-12,12.949999809265137,TSGYO,Real Estate,REIT—Office
+2024-07-16,13.369999885559082,TSGYO,Real Estate,REIT—Office
+2024-07-17,12.949999809265137,TSGYO,Real Estate,REIT—Office
 2024-02-29,8.279999732971191,TSKB,Financial Services,Banks—Regional
 2024-03-01,8.180000305175781,TSKB,Financial Services,Banks—Regional
 2024-03-04,7.989999771118164,TSKB,Financial Services,Banks—Regional
@@ -24917,6 +25493,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,12.600000381469727,TSKB,Financial Services,Banks—Regional
 2024-07-11,12.760000228881836,TSKB,Financial Services,Banks—Regional
 2024-07-12,12.75,TSKB,Financial Services,Banks—Regional
+2024-07-16,12.890000343322754,TSKB,Financial Services,Banks—Regional
+2024-07-17,12.729999542236328,TSKB,Financial Services,Banks—Regional
 2024-02-29,1.7300000190734863,TSPOR,Communication Services,Entertainment
 2024-03-01,1.7200000286102295,TSPOR,Communication Services,Entertainment
 2024-03-04,1.6699999570846558,TSPOR,Communication Services,Entertainment
@@ -25005,6 +25583,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,2.0399999618530273,TSPOR,Communication Services,Entertainment
 2024-07-11,2.049999952316284,TSPOR,Communication Services,Entertainment
 2024-07-12,2.0899999141693115,TSPOR,Communication Services,Entertainment
+2024-07-16,2.130000114440918,TSPOR,Communication Services,Entertainment
+2024-07-17,2.0899999141693115,TSPOR,Communication Services,Entertainment
 2024-02-29,32.099998474121094,TTKOM,Communication Services,Telecom Services
 2024-03-01,31.299999237060547,TTKOM,Communication Services,Telecom Services
 2024-03-04,30.299999237060547,TTKOM,Communication Services,Telecom Services
@@ -25093,6 +25673,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,51.70000076293945,TTKOM,Communication Services,Telecom Services
 2024-07-11,52.849998474121094,TTKOM,Communication Services,Telecom Services
 2024-07-12,52.25,TTKOM,Communication Services,Telecom Services
+2024-07-16,50.75,TTKOM,Communication Services,Telecom Services
+2024-07-17,51.0,TTKOM,Communication Services,Telecom Services
 2024-02-29,870.0,TTRAK,Industrials,Farm & Heavy Construction Machinery
 2024-03-01,861.0,TTRAK,Industrials,Farm & Heavy Construction Machinery
 2024-03-04,844.0,TTRAK,Industrials,Farm & Heavy Construction Machinery
@@ -25181,6 +25763,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,833.5,TTRAK,Industrials,Farm & Heavy Construction Machinery
 2024-07-11,850.5,TTRAK,Industrials,Farm & Heavy Construction Machinery
 2024-07-12,843.5,TTRAK,Industrials,Farm & Heavy Construction Machinery
+2024-07-16,840.0,TTRAK,Industrials,Farm & Heavy Construction Machinery
+2024-07-17,831.5,TTRAK,Industrials,Farm & Heavy Construction Machinery
 2024-02-29,13.510000228881836,TUCLK,Industrials,Metal Fabrication
 2024-03-01,13.210000038146973,TUCLK,Industrials,Metal Fabrication
 2024-03-04,12.979999542236328,TUCLK,Industrials,Metal Fabrication
@@ -25269,6 +25853,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,11.550000190734863,TUCLK,Industrials,Metal Fabrication
 2024-07-11,11.899999618530273,TUCLK,Industrials,Metal Fabrication
 2024-07-12,11.850000381469727,TUCLK,Industrials,Metal Fabrication
+2024-07-16,12.020000457763672,TUCLK,Industrials,Metal Fabrication
+2024-07-17,12.039999961853027,TUCLK,Industrials,Metal Fabrication
 2024-02-29,8.670000076293945,TUKAS,Consumer Defensive,Packaged Foods
 2024-03-01,8.899999618530273,TUKAS,Consumer Defensive,Packaged Foods
 2024-03-04,9.260000228881836,TUKAS,Consumer Defensive,Packaged Foods
@@ -25357,6 +25943,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,7.559999942779541,TUKAS,Consumer Defensive,Packaged Foods
 2024-07-11,8.0,TUKAS,Consumer Defensive,Packaged Foods
 2024-07-12,7.849999904632568,TUKAS,Consumer Defensive,Packaged Foods
+2024-07-16,8.25,TUKAS,Consumer Defensive,Packaged Foods
+2024-07-17,8.260000228881836,TUKAS,Consumer Defensive,Packaged Foods
 2024-02-29,161.8000030517578,TUPRS,Energy,Oil & Gas Refining & Marketing
 2024-03-01,164.8000030517578,TUPRS,Energy,Oil & Gas Refining & Marketing
 2024-03-04,161.39999389648438,TUPRS,Energy,Oil & Gas Refining & Marketing
@@ -25445,6 +26033,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,168.0,TUPRS,Energy,Oil & Gas Refining & Marketing
 2024-07-11,170.60000610351562,TUPRS,Energy,Oil & Gas Refining & Marketing
 2024-07-12,168.39999389648438,TUPRS,Energy,Oil & Gas Refining & Marketing
+2024-07-16,166.5,TUPRS,Energy,Oil & Gas Refining & Marketing
+2024-07-17,166.3000030517578,TUPRS,Energy,Oil & Gas Refining & Marketing
 2024-02-29,723.5,TURGG,Real Estate,Real Estate—Development
 2024-03-01,795.5,TURGG,Real Estate,Real Estate—Development
 2024-03-04,875.0,TURGG,Real Estate,Real Estate—Development
@@ -25533,6 +26123,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,620.0,TURGG,Real Estate,Real Estate—Development
 2024-07-11,622.0,TURGG,Real Estate,Real Estate—Development
 2024-07-12,637.0,TURGG,Real Estate,Real Estate—Development
+2024-07-16,700.5,TURGG,Real Estate,Real Estate—Development
+2024-07-17,692.5,TURGG,Real Estate,Real Estate—Development
 2024-02-29,50.20000076293945,TURSG,Financial Services,Insurance—Property & Casualty
 2024-03-01,50.849998474121094,TURSG,Financial Services,Insurance—Property & Casualty
 2024-03-04,49.459999084472656,TURSG,Financial Services,Insurance—Property & Casualty
@@ -25621,6 +26213,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,68.5999984741211,TURSG,Financial Services,Insurance—Property & Casualty
 2024-07-11,67.75,TURSG,Financial Services,Insurance—Property & Casualty
 2024-07-12,69.0999984741211,TURSG,Financial Services,Insurance—Property & Casualty
+2024-07-16,69.0999984741211,TURSG,Financial Services,Insurance—Property & Casualty
+2024-07-17,68.1500015258789,TURSG,Financial Services,Insurance—Property & Casualty
 2024-02-29,106.19999694824219,ULKER,Consumer Defensive,Confectioners
 2024-03-01,106.0,ULKER,Consumer Defensive,Confectioners
 2024-03-04,104.5,ULKER,Consumer Defensive,Confectioners
@@ -25709,6 +26303,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,173.8000030517578,ULKER,Consumer Defensive,Confectioners
 2024-07-11,178.3000030517578,ULKER,Consumer Defensive,Confectioners
 2024-07-12,181.8000030517578,ULKER,Consumer Defensive,Confectioners
+2024-07-16,187.3000030517578,ULKER,Consumer Defensive,Confectioners
+2024-07-17,181.0,ULKER,Consumer Defensive,Confectioners
 2024-02-29,14.34000015258789,ULUFA,Unknown,Unknown
 2024-03-01,15.0,ULUFA,Unknown,Unknown
 2024-03-04,13.550000190734863,ULUFA,Unknown,Unknown
@@ -25798,6 +26394,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,14.229999542236328,ULUFA,Unknown,Unknown
 2024-07-11,14.369999885559082,ULUFA,Unknown,Unknown
 2024-07-12,14.5,ULUFA,Unknown,Unknown
+2024-07-16,14.859999656677246,ULUFA,Unknown,Unknown
+2024-07-17,15.180000305175781,ULUFA,Unknown,Unknown
 2024-02-29,31.299999237060547,ULUUN,Consumer Defensive,Packaged Foods
 2024-03-01,31.459999084472656,ULUUN,Consumer Defensive,Packaged Foods
 2024-03-04,31.579999923706055,ULUUN,Consumer Defensive,Packaged Foods
@@ -25886,6 +26484,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,26.81999969482422,ULUUN,Consumer Defensive,Packaged Foods
 2024-07-11,27.719999313354492,ULUUN,Consumer Defensive,Packaged Foods
 2024-07-12,27.360000610351562,ULUUN,Consumer Defensive,Packaged Foods
+2024-07-16,27.739999771118164,ULUUN,Consumer Defensive,Packaged Foods
+2024-07-17,28.020000457763672,ULUUN,Consumer Defensive,Packaged Foods
 2024-02-29,11.449999809265137,USAK,Industrials,Building Products & Equipment
 2024-03-01,11.420000076293945,USAK,Industrials,Building Products & Equipment
 2024-03-04,11.699999809265137,USAK,Industrials,Building Products & Equipment
@@ -25974,6 +26574,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,16.040000915527344,USAK,Industrials,Building Products & Equipment
 2024-07-11,17.639999389648438,USAK,Industrials,Building Products & Equipment
 2024-07-12,19.399999618530273,USAK,Industrials,Building Products & Equipment
+2024-07-16,21.34000015258789,USAK,Industrials,Building Products & Equipment
+2024-07-17,23.459999084472656,USAK,Industrials,Building Products & Equipment
 2024-02-29,14.229999542236328,VAKBN,Financial Services,Banks—Regional
 2024-03-01,14.25,VAKBN,Financial Services,Banks—Regional
 2024-03-04,13.779999732971191,VAKBN,Financial Services,Banks—Regional
@@ -26062,6 +26664,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,22.280000686645508,VAKBN,Financial Services,Banks—Regional
 2024-07-11,23.219999313354492,VAKBN,Financial Services,Banks—Regional
 2024-07-12,23.200000762939453,VAKBN,Financial Services,Banks—Regional
+2024-07-16,23.719999313354492,VAKBN,Financial Services,Banks—Regional
+2024-07-17,23.760000228881836,VAKBN,Financial Services,Banks—Regional
 2024-02-29,85.6500015258789,VAKKO,Consumer Cyclical,Apparel Manufacturing
 2024-03-01,84.1500015258789,VAKKO,Consumer Cyclical,Apparel Manufacturing
 2024-03-04,82.3499984741211,VAKKO,Consumer Cyclical,Apparel Manufacturing
@@ -26150,6 +26754,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,129.3000030517578,VAKKO,Consumer Cyclical,Apparel Manufacturing
 2024-07-11,133.6999969482422,VAKKO,Consumer Cyclical,Apparel Manufacturing
 2024-07-12,135.0,VAKKO,Consumer Cyclical,Apparel Manufacturing
+2024-07-16,138.1999969482422,VAKKO,Consumer Cyclical,Apparel Manufacturing
+2024-07-17,137.8000030517578,VAKKO,Consumer Cyclical,Apparel Manufacturing
 2024-02-29,42.86000061035156,VBTYZ,Technology,Information Technology Services
 2024-03-01,42.040000915527344,VBTYZ,Technology,Information Technology Services
 2024-03-04,40.84000015258789,VBTYZ,Technology,Information Technology Services
@@ -26238,6 +26844,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,27.8799991607666,VBTYZ,Technology,Information Technology Services
 2024-07-11,28.65999984741211,VBTYZ,Technology,Information Technology Services
 2024-07-12,29.079999923706055,VBTYZ,Technology,Information Technology Services
+2024-07-16,29.280000686645508,VBTYZ,Technology,Information Technology Services
+2024-07-17,28.959999084472656,VBTYZ,Technology,Information Technology Services
 2024-02-29,21.84000015258789,VESBE,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-03-01,20.799999237060547,VESBE,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-03-04,20.0,VESBE,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
@@ -26326,6 +26934,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,20.8799991607666,VESBE,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-07-11,21.15999984741211,VESBE,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-07-12,21.040000915527344,VESBE,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+2024-07-16,20.979999542236328,VESBE,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+2024-07-17,21.68000030517578,VESBE,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-02-29,83.05000305175781,VESTL,Technology,Consumer Electronics
 2024-03-01,80.1500015258789,VESTL,Technology,Consumer Electronics
 2024-03-04,76.5,VESTL,Technology,Consumer Electronics
@@ -26414,6 +27024,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,76.0999984741211,VESTL,Technology,Consumer Electronics
 2024-07-11,78.5999984741211,VESTL,Technology,Consumer Electronics
 2024-07-12,78.0,VESTL,Technology,Consumer Electronics
+2024-07-16,76.5,VESTL,Technology,Consumer Electronics
+2024-07-17,78.19999694824219,VESTL,Technology,Consumer Electronics
 2024-02-29,2.119999885559082,VKGYO,Real Estate,REIT—Diversified
 2024-03-01,2.1600000858306885,VKGYO,Real Estate,REIT—Diversified
 2024-03-04,2.180000066757202,VKGYO,Real Estate,REIT—Diversified
@@ -26502,6 +27114,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,2.049999952316284,VKGYO,Real Estate,REIT—Diversified
 2024-07-11,2.0799999237060547,VKGYO,Real Estate,REIT—Diversified
 2024-07-12,2.049999952316284,VKGYO,Real Estate,REIT—Diversified
+2024-07-16,2.049999952316284,VKGYO,Real Estate,REIT—Diversified
+2024-07-17,2.109999895095825,VKGYO,Real Estate,REIT—Diversified
 2024-02-29,2.119999885559082,VKGYO,Real Estate,REIT—Diversified
 2024-03-01,2.1600000858306885,VKGYO,Real Estate,REIT—Diversified
 2024-03-04,2.180000066757202,VKGYO,Real Estate,REIT—Diversified
@@ -26590,6 +27204,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,2.049999952316284,VKGYO,Real Estate,REIT—Diversified
 2024-07-11,2.0799999237060547,VKGYO,Real Estate,REIT—Diversified
 2024-07-12,2.049999952316284,VKGYO,Real Estate,REIT—Diversified
+2024-07-16,2.049999952316284,VKGYO,Real Estate,REIT—Diversified
+2024-07-17,2.109999895095825,VKGYO,Real Estate,REIT—Diversified
 2024-02-29,42.400001525878906,VRGYO,Real Estate,REIT—Diversified
 2024-03-01,43.79999923706055,VRGYO,Real Estate,REIT—Diversified
 2024-03-04,46.0,VRGYO,Real Estate,REIT—Diversified
@@ -26674,11 +27290,13 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-03,18.1299991607666,VRGYO,Real Estate,REIT—Diversified
 2024-07-04,18.06999969482422,VRGYO,Real Estate,REIT—Diversified
 2024-07-05,18.18000030517578,VRGYO,Real Estate,REIT—Diversified
-2024-07-08,17.860000610351562,VRGYO,Real Estate,REIT—Diversified
-2024-07-09,17.75,VRGYO,Real Estate,REIT—Diversified
-2024-07-10,17.530000686645508,VRGYO,Real Estate,REIT—Diversified
-2024-07-11,18.200000762939453,VRGYO,Real Estate,REIT—Diversified
-2024-07-12,18.350000381469727,VRGYO,Real Estate,REIT—Diversified
+2024-07-08,4.465000152587891,VRGYO,Real Estate,REIT—Diversified
+2024-07-09,4.4375,VRGYO,Real Estate,REIT—Diversified
+2024-07-10,4.382500171661377,VRGYO,Real Estate,REIT—Diversified
+2024-07-11,4.550000190734863,VRGYO,Real Estate,REIT—Diversified
+2024-07-12,4.587500095367432,VRGYO,Real Estate,REIT—Diversified
+2024-07-16,4.739999771118164,VRGYO,Real Estate,REIT—Diversified
+2024-07-17,4.800000190734863,VRGYO,Real Estate,REIT—Diversified
 2024-02-29,31.040000915527344,YATAS,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-03-01,31.15999984741211,YATAS,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-03-04,30.280000686645508,YATAS,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
@@ -26767,6 +27385,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,34.47999954223633,YATAS,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-07-11,35.0,YATAS,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-07-12,35.20000076293945,YATAS,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+2024-07-16,35.86000061035156,YATAS,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+2024-07-17,35.720001220703125,YATAS,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
 2024-06-06,35.15999984741211,YIGIT,Industrials,Electrical Equipment & Parts
 2024-06-07,31.65999984741211,YIGIT,Industrials,Electrical Equipment & Parts
 2024-06-10,28.5,YIGIT,Industrials,Electrical Equipment & Parts
@@ -26791,6 +27411,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,30.1200008392334,YIGIT,Industrials,Electrical Equipment & Parts
 2024-07-11,30.440000534057617,YIGIT,Industrials,Electrical Equipment & Parts
 2024-07-12,33.0,YIGIT,Industrials,Electrical Equipment & Parts
+2024-07-16,34.560001373291016,YIGIT,Industrials,Electrical Equipment & Parts
+2024-07-17,34.29999923706055,YIGIT,Industrials,Electrical Equipment & Parts
 2024-02-29,23.100000381469727,YKBNK,Financial Services,Banks—Regional
 2024-03-01,22.5,YKBNK,Financial Services,Banks—Regional
 2024-03-04,21.65999984741211,YKBNK,Financial Services,Banks—Regional
@@ -26879,6 +27501,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,30.399999618530273,YKBNK,Financial Services,Banks—Regional
 2024-07-11,31.780000686645508,YKBNK,Financial Services,Banks—Regional
 2024-07-12,31.780000686645508,YKBNK,Financial Services,Banks—Regional
+2024-07-16,32.560001373291016,YKBNK,Financial Services,Banks—Regional
+2024-07-17,32.13999938964844,YKBNK,Financial Services,Banks—Regional
 2024-02-29,77.5,YUNSA,Consumer Cyclical,Textile Manufacturing
 2024-03-01,77.69999694824219,YUNSA,Consumer Cyclical,Textile Manufacturing
 2024-03-04,75.80000305175781,YUNSA,Consumer Cyclical,Textile Manufacturing
@@ -26967,6 +27591,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,78.19999694824219,YUNSA,Consumer Cyclical,Textile Manufacturing
 2024-07-11,80.4000015258789,YUNSA,Consumer Cyclical,Textile Manufacturing
 2024-07-12,80.5999984741211,YUNSA,Consumer Cyclical,Textile Manufacturing
+2024-07-16,80.44999694824219,YUNSA,Consumer Cyclical,Textile Manufacturing
+2024-07-17,82.30000305175781,YUNSA,Consumer Cyclical,Textile Manufacturing
 2024-02-29,15.239999771118164,YYLGD,Consumer Defensive,Packaged Foods
 2024-03-01,15.170000076293945,YYLGD,Consumer Defensive,Packaged Foods
 2024-03-04,15.34000015258789,YYLGD,Consumer Defensive,Packaged Foods
@@ -27055,6 +27681,8 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,12.510000228881836,YYLGD,Consumer Defensive,Packaged Foods
 2024-07-11,12.819999694824219,YYLGD,Consumer Defensive,Packaged Foods
 2024-07-12,12.59000015258789,YYLGD,Consumer Defensive,Packaged Foods
+2024-07-16,12.920000076293945,YYLGD,Consumer Defensive,Packaged Foods
+2024-07-17,13.350000381469727,YYLGD,Consumer Defensive,Packaged Foods
 2024-02-29,5.639999866485596,ZOREN,Utilities,Utilities—Diversified
 2024-03-01,5.53000020980835,ZOREN,Utilities,Utilities—Diversified
 2024-03-04,5.320000171661377,ZOREN,Utilities,Utilities—Diversified
@@ -27143,3 +27771,5 @@ Date,Close,hisse_kodu,sector,industry
 2024-07-10,5.5,ZOREN,Utilities,Utilities—Diversified
 2024-07-11,5.650000095367432,ZOREN,Utilities,Utilities—Diversified
 2024-07-12,5.610000133514404,ZOREN,Utilities,Utilities—Diversified
+2024-07-16,5.539999961853027,ZOREN,Utilities,Utilities—Diversified
+2024-07-17,5.46999979019165,ZOREN,Utilities,Utilities—Diversified
