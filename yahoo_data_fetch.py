@@ -43,6 +43,7 @@ def fetch_stock_data():
     for ids in range(n_of_stocks):
         stock_objects[ids] = Stock(ids, indeces[ids])
         stock_objects[ids].set_the_delivery_data()
+        stock_objects[ids].data.columns = stock_objects[ids].data.columns.get_level_values(0)
         stock_close_data = pd.concat([stock_close_data, stock_objects[ids].data], ignore_index=True)
 
     stock_close_data.to_csv("stock_close_data.csv", index=False)
