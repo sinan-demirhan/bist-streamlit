@@ -47,6 +47,7 @@ def fetch_stock_data():
         stock_close_data = pd.concat([stock_close_data, stock_objects[ids].data], ignore_index=True)
 
     stock_close_data.to_csv("stock_close_data.csv", index=False)
+    print(stock_close_data.columns)
 
     return stock_close_data
 
