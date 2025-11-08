@@ -21,7 +21,7 @@ def fetch_stock_data():
         def __init__(self, stock_id, stock_index):
             self.id = stock_id
             self.hisse_kodu = stock_index.split(".")[0]
-            self.raw_data = yf.download(stock_index, start='2025-01-01')
+            self.raw_data = yf.download(stock_index, start='2025-05-01')
             self.info_data = yf.Ticker(stock_index)
         def set_the_delivery_data(self):
             my_data = self.raw_data[['Close']].reset_index()
